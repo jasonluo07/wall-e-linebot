@@ -54,6 +54,12 @@ def handle_message(event):
             event.reply_token,
             reply_message
         )
+    elif 'bug' == msg:
+        reply_message = TextMessage(text='WALL-E is imperfect')
+        line_bot_api.reply_message(
+            event.reply_token,
+            reply_message
+        )
 
 
 '''
