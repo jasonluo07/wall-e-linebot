@@ -47,6 +47,16 @@ def callback():
 # 處理訊息
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):
+    msg = event.message.text
+    if '你好' == msg:
+        reply_message = TextMessage(text='測試 git 成功')
+        line_bot_api.reply_message(
+            event.reply_token,
+            reply_message
+        )
+
+
+'''
     message = LocationSendMessage(
         title="華山",
         address="華山1914文化創意產業園區",
@@ -54,7 +64,7 @@ def handle_message(event):
         longitude="121.52934759683569"
     )
     line_bot_api.reply_message(event.reply_token, message)
-
+'''
 
 '''
 def handle_message(event):
