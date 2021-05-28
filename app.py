@@ -47,6 +47,13 @@ def callback():
 # 處理訊息
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):
+    message = '從 github 同步到 heroku 成功'
+    line_bot_api.reply_message(
+        event.reply_token, message
+    )
+
+
+'''
     msg = event.message.text
     if '你好' == msg:
         reply_message = TextMessage(text='測試 git 成功')
@@ -54,7 +61,7 @@ def handle_message(event):
             event.reply_token,
             reply_message
         )
-
+'''
 
 '''
     message = LocationSendMessage(
