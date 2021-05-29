@@ -82,6 +82,12 @@ def handle_message(event):
             event.reply_token,
             reply_message
         )
+    elif '旋轉木馬2' in msg:
+        reply_message = image_carousel_message1()
+        line_bot_api.reply_message(
+            event.reply_token,
+            reply_message
+        )
     else:
         reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
         line_bot_api.reply_message(
