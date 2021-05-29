@@ -71,8 +71,11 @@ def handle_message(event):
             reply_message
         )
     else:
-        reply_message = TextSendMessage(text="你說的話是：" + msg "，目前無法辨識此訊息。")
-        line_bot_api.reply_message(event.reply_token, reply_message)
+        reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
+        line_bot_api.reply_message(
+            event.reply_token,
+            reply_message
+        )
 
 
 if __name__ == '__main__':
