@@ -71,7 +71,8 @@ def handle_message(event):
             reply_message
         )
     elif '最新合作廠商' == msg:
-        imagemap_message()
+        reply_message = imagemap_message()
+        line_bot_api.reply_message(event.reply_token, reply_message)
     else:
         reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
         line_bot_api.reply_message(
