@@ -78,6 +78,9 @@ def handle_message(event):
         reply_message = image_carousel_message1()
         line_bot_api.reply_message(event.reply_token, reply_message)
     elif '時間' == msg:
+        reply_message = send_datetime()
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '按鈕' == msg:
         reply_message = buttons_message()
         line_bot_api.reply_message(event.reply_token, reply_message)
     else:
