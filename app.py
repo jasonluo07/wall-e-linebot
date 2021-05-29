@@ -8,7 +8,7 @@ from linebot.models import *
 # ======這裡是呼叫的檔案內容=====
 from message import *
 from new import *
-from Function *
+from Function import *
 # ======這裡是呼叫的檔案內容=====
 
 # ======python的函數庫==========
@@ -79,7 +79,7 @@ def handle_message(event):
             reply_message
         )
 # test
-# test pull by cys 
+# test pull by cys
 
 
 if __name__ == '__main__':
