@@ -48,36 +48,32 @@ def callback():
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):
     msg = event.message.text
-    if 'git' == msg:
-        reply_message = TextMessage(text='從 github 同步到 heroku 成功')
+    if '華山' in msg:
+        reply_message = LocationSendMessage(
+            title="華山",
+            address="華山1914文化創意產業園區",
+            latitude="25.0442906858476",
+            longitude="121.52934759683569"
+        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '松菸' in msg:
+        reply_message = LocationSendMessage(
+            title="松菸",
+            address="松山文創園區",
+            latitude="25.04402152155643",
+            longitude="121.5606831170937"
+        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '測試' == msg:
+        reply_message = TextMessage(text='測試成功')
         line_bot_api.reply_message(
             event.reply_token,
             reply_message
         )
-    elif 'bug' == msg:
-        reply_message = TextMessage(text='WALL-E is imperfect')
-        line_bot_api.reply_message(
-            event.reply_token,
-            reply_message
-        )
+    else:
+        reply_message = TextSendMessage(text="你說的話是：" + msg "，目前無法辨識此訊息。")
+        line_bot_api.reply_message(event.reply_token, message)
 
-
-'''
-    message = LocationSendMessage(
-        title="華山",
-        address="華山1914文化創意產業園區",
-        latitude="25.0442906858476",
-        longitude="121.52934759683569"
-    )
-    line_bot_api.reply_message(event.reply_token, message)
-'''
-
-'''
-def handle_message(event):
-    message = TextSendMessage(text="你說的話是：" + event.message.text)
-    # event.message.text 就是用戶傳來的文字訊息
-    line_bot_api.reply_message(event.reply_token, message)
-'''
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
