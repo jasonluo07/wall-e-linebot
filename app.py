@@ -77,7 +77,7 @@ def handle_message(event):
             reply_message
         )
     elif '旋轉木馬' in msg:
-        reply_message = test()
+        reply_message = Carousel_Template()
         line_bot_api.reply_message(
             event.reply_token,
             reply_message
