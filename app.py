@@ -76,7 +76,7 @@ def handle_message(event):
             event.reply_token,
             reply_message
         )
-
+# test
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
