@@ -76,13 +76,13 @@ def handle_message(event):
             event.reply_token,
             reply_message
         )
-    elif '旋轉木馬' in msg:
+    elif '旋轉木馬' == msg:
         reply_message = Carousel_Template()
         line_bot_api.reply_message(
             event.reply_token,
             reply_message
         )
-    elif '旋轉木馬2' in msg:
+    elif '旋轉木馬2' == msg:
         reply_message = image_carousel_message1()
         line_bot_api.reply_message(
             event.reply_token,

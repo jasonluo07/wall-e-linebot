@@ -1,9 +1,11 @@
-#這些是LINE官方開放的套件組合透過import來套用這個檔案上
+# 這些是LINE官方開放的套件組合透過import來套用這個檔案上
 from linebot import (LineBotApi, WebhookHandler)
 from linebot.exceptions import (InvalidSignatureError)
 from linebot.models import *
 
-#ImagemapSendMessage(組圖訊息)
+# ImagemapSendMessage(組圖訊息)
+
+
 def imagemap_message():
     message = ImagemapSendMessage(
         base_url="https://i.imgur.com/BfTFVDN.jpg",
@@ -11,35 +13,35 @@ def imagemap_message():
         base_size=BaseSize(height=2000, width=2000),
         actions=[
             URIImagemapAction(
-                #家樂福
+                # 家樂福
                 link_uri="https://tw.shop.com/search/%E5%AE%B6%E6%A8%82%E7%A6%8F",
                 area=ImagemapArea(
                     x=0, y=0, width=1000, height=1000
                 )
             ),
             URIImagemapAction(
-                #生活市集
+                # 生活市集
                 link_uri="https://tw.shop.com/search/%E7%94%9F%E6%B4%BB%E5%B8%82%E9%9B%86",
                 area=ImagemapArea(
                     x=1000, y=0, width=1000, height=1000
                 )
             ),
             URIImagemapAction(
-                #阿瘦皮鞋
+                # 阿瘦皮鞋
                 link_uri="https://tw.shop.com/search/%E9%98%BF%E7%98%A6%E7%9A%AE%E9%9E%8B",
                 area=ImagemapArea(
                     x=0, y=1000, width=1000, height=1000
                 )
             ),
             URIImagemapAction(
-                #塔吉特千層蛋糕
+                # 塔吉特千層蛋糕
                 link_uri="https://tw.shop.com/search/%E5%A1%94%E5%90%89%E7%89%B9",
                 area=ImagemapArea(
                     x=1000, y=1000, width=1000, height=500
                 )
             ),
             URIImagemapAction(
-                #亞尼克生乳捲
+                # 亞尼克生乳捲
                 link_uri="https://tw.shop.com/search/%E4%BA%9E%E5%B0%BC%E5%85%8B",
                 area=ImagemapArea(
                     x=1000, y=1500, width=1000, height=500
@@ -50,6 +52,8 @@ def imagemap_message():
     return message
 
 #TemplateSendMessage - ButtonsTemplate (按鈕介面訊息)
+
+
 def buttons_message():
     message = TemplateSendMessage(
         alt_text='好消息來囉～',
@@ -80,8 +84,9 @@ def buttons_message():
     return message
 
 #TemplateSendMessage - ConfirmTemplate(確認介面訊息)
-def Confirm_Template():
 
+
+def Confirm_Template():
     message = TemplateSendMessage(
         alt_text='是否註冊成為會員？',
         template=ConfirmTemplate(
@@ -101,7 +106,8 @@ def Confirm_Template():
     )
     return message
 
-#旋轉木馬按鈕訊息介面
+# 旋轉木馬按鈕訊息介面
+
 
 def Carousel_Template():
     message = TemplateSendMessage(
@@ -171,6 +177,8 @@ def Carousel_Template():
     return message
 
 #TemplateSendMessage - ImageCarouselTemplate(圖片旋轉木馬)
+
+
 def image_carousel_message1():
     message = TemplateSendMessage(
         alt_text='圖片旋轉木馬',
@@ -209,4 +217,4 @@ def image_carousel_message1():
     )
     return message
 
-#關於LINEBOT聊天內容範例
+# 關於LINEBOT聊天內容範例
