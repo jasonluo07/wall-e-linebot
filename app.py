@@ -9,6 +9,7 @@ from linebot.models import *
 from message import *
 from new import *
 from Function import *
+from FunctionX import *
 # ======這裡是呼叫的檔案內容=====
 
 # ======python的函數庫==========
@@ -66,34 +67,22 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, reply_message)
     elif '測試' in msg:
         reply_message = TextMessage(text='測試成功')
-        line_bot_api.reply_message(
-            event.reply_token,
-            reply_message
-        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
     elif '最新合作廠商' in msg:
         reply_message = imagemap_message()
-        line_bot_api.reply_message(
-            event.reply_token,
-            reply_message
-        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
     elif '旋轉木馬' == msg:
         reply_message = Carousel_Template()
-        line_bot_api.reply_message(
-            event.reply_token,
-            reply_message
-        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
     elif '旋轉木馬2' == msg:
         reply_message = image_carousel_message1()
-        line_bot_api.reply_message(
-            event.reply_token,
-            reply_message
-        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '時間' == msg:
+        reply_message = buttons_message()
+        line_bot_api.reply_message(event.reply_token, reply_message)
     else:
         reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
-        line_bot_api.reply_message(
-            event.reply_token,
-            reply_message
-        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
 # test
 # test pull by cys
 
