@@ -64,15 +64,24 @@ def handle_message(event):
             longitude="121.5606831170937"
         )
         line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '測試' == msg:
+    elif '測試' in msg:
         reply_message = TextMessage(text='測試成功')
         line_bot_api.reply_message(
             event.reply_token,
             reply_message
         )
-    elif '最新合作廠商' == msg:
+    elif '最新合作廠商' in msg:
         reply_message = imagemap_message()
-        line_bot_api.reply_message(event.reply_token, reply_message)
+        line_bot_api.reply_message(
+            event.reply_token,
+            reply_message
+        )
+    elif '旋轉木馬' in msg:
+        reply_message = test()
+        line_bot_api.reply_message(
+            event.reply_token,
+            reply_message
+        )
     else:
         reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
         line_bot_api.reply_message(
