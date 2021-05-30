@@ -57,7 +57,8 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, reply_message)
     # 回傳文字
     elif '@日期時間' == msg:
-        sendDatetime(event)
+        reply_message = sendDatetime(event)
+        line_bot_api.reply_message(event.reply_token, reply_message)
     # 回傳樣板訊息
     elif '近期活動' == msg:
         reply_message = TextSendMessage(text='顯示近期活動')
