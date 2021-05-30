@@ -42,10 +42,10 @@ def sendDatetime(event):  # 日期時間
                 ]
             )
         )
-        line_bot_api.reply_message(event.reply_token, message)
+        return message
     except:
-        line_bot_api.reply_message(
-            event.reply_token, TextSendMessage(text='發生錯誤！'))
+        message = '發生錯誤！'
+        return message
 
 
 def sendData_sell(event, backdata):  # Postback,顯示日期時間
@@ -62,10 +62,10 @@ def sendData_sell(event, backdata):  # Postback,顯示日期時間
         message = TextSendMessage(
             text=dt
         )
-        line_bot_api.reply_message(event.reply_token, message)
+        return message
     except:
-        line_bot_api.reply_message(
-            event.reply_token, TextSendMessage(text='發生錯誤！'))
+        message = '發生錯誤！'
+        return message
 
 
 '''

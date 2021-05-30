@@ -1,7 +1,8 @@
-from flask import Flask, request, abort
+from flask import Flask
+from flask import request, abort
 
-from linebot import (LineBotApi, WebhookHandler)
-from linebot.exceptions import (InvalidSignatureError)
+from linebot import LineBotApi, WebhookHandler
+from linebot.exceptions import InvalidSignatureError
 from linebot.models import *
 
 
@@ -17,6 +18,7 @@ import tempfile
 import os
 import datetime
 import time
+from urllib.parse import parse_qsl
 # ======python的函數庫==========
 
 app = Flask(__name__)
