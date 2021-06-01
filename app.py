@@ -70,9 +70,8 @@ def handle_message(event):
         '\n''3. 論壇講座' 
         '\n''4. 市集活動') # 待研究 文字怎麼換行
         line_bot_api.reply_message(event.reply_token, reply_message)
-        if '1' == msg[0]: #測試
-            reply_message = TextSendMessage(text='哈哈')
-            line_bot_api.reply_message(event.reply_token, reply_message)
+        
+
 
     # 回傳位置訊息
     elif '華山' == msg:
@@ -121,6 +120,10 @@ def handle_postback(event):
     if backdata.get('action') == 'sell':
         sendData_sell(event, backdata)
 
+def handle_message(event):
+    if '1' == msg[0]: #測試
+        reply_message = TextSendMessage(text='哈哈')
+        line_bot_api.reply_message(event.reply_token, reply_message)
 
 if __name__ == '__main__':  # 如果此程式碼檔案被直接執行（而非被其他檔案 import）的話，就執行以下敘述。
     port = int(os.environ.get('PORT', 5000))
