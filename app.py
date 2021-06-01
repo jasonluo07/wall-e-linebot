@@ -65,25 +65,21 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, reply_message)
     # 類別選項
     elif '類別' == msg:
-        reply_message = TextSendMessage(text='請選擇以下類別並輸入編號：'
-                                        '\n''1. 展覽表演'
-                                        '\n''2. 品牌活動'
-                                        '\n''3. 論壇講座'
-                                        '\n''4. 市集活動')
+        reply_message = TextSendMessage(
+            text='請選擇以下類別並輸入編號：\n1. 展覽表演\n2. 品牌活動\n3. 論壇講座\n4. 市集活動')
         line_bot_api.reply_message(event.reply_token, reply_message)
-        msg = event.message.text  # 使用者傳送的文字
-        if '1' == msg[0]:  # 測試
-            reply_message = TextSendMessage(text='我是1')
-            line_bot_api.reply_message(event.reply_token, reply_message)
-        elif '2' == msg[0]:
-            reply_message = TextSendMessage(text='我是2')
-            line_bot_api.reply_message(event.reply_token, reply_message)
-        elif '3' == msg[0]:
-            reply_message = TextSendMessage(text='我是3')
-            line_bot_api.reply_message(event.reply_token, reply_message)
-        elif '4' == msg[0]:
-            reply_message = TextSendMessage(text='我是4')
-            line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '1' == msg[0]:
+        reply_message = TextSendMessage(text='我是展覽表演')
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '2' == msg[0]:
+        reply_message = TextSendMessage(text='我是品牌活動')
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '3' == msg[0]:
+        reply_message = TextSendMessage(text='我是論壇講座')
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '4' == msg[0]:
+        reply_message = TextSendMessage(text='我是市集活動')
+        line_bot_api.reply_message(event.reply_token, reply_message)
     # 回傳位置訊息
     elif '華山' == msg:
         reply_message = LocationSendMessage(
@@ -122,24 +118,6 @@ def handle_message(event):
     else:
         reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
         line_bot_api.reply_message(event.reply_token, reply_message)
-
-
-'''
-def handle_message2(event):
-    msg = event.message.text  # 使用者傳送的文字
-    if '1' == msg[0]:  # 測試
-        reply_message = TextSendMessage(text='我是1')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '2' == msg[0]:
-        reply_message = TextSendMessage(text='我是2')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '3' == msg[0]:
-        reply_message = TextSendMessage(text='我是3')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '4' == msg[0]:
-        reply_message = TextSendMessage(text='我是4')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-'''
 
 # 日期時間按鈕會觸發 Postback 事件
 
