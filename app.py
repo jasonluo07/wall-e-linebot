@@ -64,12 +64,16 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, reply_message)
     # 類別選項
     elif '類別' == msg:
-        reply_message = TextSendMessage(text='請選擇以下類別：'
-        '\n''1 展覽表演' 
-        '\n''2 品牌活動' 
-        '\n''3 論壇講座' 
-        '\n''4 市集活動') # 待研究 文字怎麼換行
+        reply_message = TextSendMessage(text='請選擇以下類別並輸入編號：'
+        '\n''1. 展覽表演' 
+        '\n''2. 品牌活動' 
+        '\n''3. 論壇講座' 
+        '\n''4. 市集活動') # 待研究 文字怎麼換行
         line_bot_api.reply_message(event.reply_token, reply_message)
+        if '1' == msg[0]: #測試
+            reply_message = TextSendMessage(text='哈哈')
+            line_bot_api.reply_message(event.reply_token, reply_message)
+
     # 回傳位置訊息
     elif '華山' == msg:
         reply_message = LocationSendMessage(
