@@ -57,14 +57,14 @@ def handle_message(event):
     # 回傳文字
     elif '@日期時間' == msg:
         reply_message = sendDatetime(event)
-        line_bot_api.reply_message(event.reply_token, reply_message)
+        line_bot_api.reply_message(event.reply_token, reply_message) #待加上功能：回傳使用者選擇的日期時間
     # 回傳樣板訊息
     elif '近期活動' == msg:
         reply_message = TextSendMessage(text='顯示近期活動')
         line_bot_api.reply_message(event.reply_token, reply_message)
     # 類別選項
     elif '類別' == msg:
-        reply_message = TextSendMessage(text='請選擇以下類別：1 展覽表演 2 品牌活動 3 論壇講座 4 市集活動')
+        reply_message = TextSendMessage(text='請選擇以下類別： 1 展覽表演 2 品牌活動 3 論壇講座 4 市集活動') # 待研究 文字怎麼換行
         line_bot_api.reply_message(event.reply_token, reply_message)
     # 回傳位置訊息
     elif '華山' == msg:
