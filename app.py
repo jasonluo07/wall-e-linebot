@@ -57,7 +57,8 @@ def handle_message(event):
     # 回傳文字
     elif '@日期時間' == msg:
         reply_message = sendDatetime(event)
-        line_bot_api.reply_message(event.reply_token, reply_message) #待加上功能：回傳使用者選擇的日期時間
+        line_bot_api.reply_message(
+            event.reply_token, reply_message)  # 待加上功能：回傳使用者選擇的日期時間
     # 回傳樣板訊息
     elif '近期活動' == msg:
         reply_message = TextSendMessage(text='顯示近期活動')
@@ -65,14 +66,12 @@ def handle_message(event):
     # 類別選項
     elif '類別' == msg:
         reply_message = TextSendMessage(text='請選擇以下類別並輸入編號：'
-        '\n''1. 展覽表演' 
-        '\n''2. 品牌活動' 
-        '\n''3. 論壇講座' 
-        '\n''4. 市集活動') # 待研究 文字怎麼換行
+                                        '\n''1. 展覽表演'
+                                        '\n''2. 品牌活動'
+                                        '\n''3. 論壇講座'
+                                        '\n''4. 市集活動')
         line_bot_api.reply_message(event.reply_token, reply_message)
-        
-
-
+        handle_message2(event)
     # 回傳位置訊息
     elif '華山' == msg:
         reply_message = LocationSendMessage(
@@ -113,6 +112,22 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, reply_message)
 
 
+def handle_message2(event):
+    msg = event.message.text  # 使用者傳送的文字
+    if '1' == msg[0]:  # 測試
+        reply_message = TextSendMessage(text='我是1')
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '2' == msg[0]:
+        reply_message = TextSendMessage(text='我是2')
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '3' == msg[0]:
+        reply_message = TextSendMessage(text='我是3')
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '4' == msg[0]:
+        reply_message = TextSendMessage(text='我是4')
+        line_bot_api.reply_message(event.reply_token, reply_message)
+
+
 # 日期時間按鈕會觸發 Postback 事件
 @handler.add(PostbackEvent)  # PostbackTemplateAction觸發此事件
 def handle_postback(event):
@@ -120,10 +135,6 @@ def handle_postback(event):
     if backdata.get('action') == 'sell':
         sendData_sell(event, backdata)
 
-def handle_message(event):
-    if '1' == msg[0]: #測試
-        reply_message = TextSendMessage(text='哈哈')
-        line_bot_api.reply_message(event.reply_token, reply_message)
 
 if __name__ == '__main__':  # 如果此程式碼檔案被直接執行（而非被其他檔案 import）的話，就執行以下敘述。
     port = int(os.environ.get('PORT', 5000))
