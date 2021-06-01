@@ -23,14 +23,13 @@ from urllib.parse import parse_qsl
 
 app = Flask(__name__)
 static_tmp_path = os.path.join(os.path.dirname(__file__), 'static', 'tmp')
-# Channel Access Token
+# 設定 Channel Access Token 及 Channel Secret 資訊
 line_bot_api = LineBotApi(
     'I5hgulT9ZKbbAFqbzumFaVYS0jgUmuyG5JVmFgrq+HlPngNiK05bfvgsiBzAxOAjwE3FAc5olRj+iXwglbNuz6Qpp0YAW9z/Mq72Ea+96SzEMbp6KChDbEg74sa4c433HzVMB59OUPcK45d9l6n1uQdB04t89/1O/w1cDnyilFU=')
-# Channel Secret
 handler = WebhookHandler('be58b1568a2dbd2327a5c6f6bd48e80a')
 
 
-# 監聽所有來自 /callback 的 Post Request
+# 建立 callback 路由，檢查 LINE Bot 的資訊是否正確
 @app.route("/callback", methods=['POST'])
 def callback():
     # get X-Line-Signature header value
