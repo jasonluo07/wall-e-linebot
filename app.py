@@ -51,8 +51,8 @@ def callback():
 def handle_message(event):
     msg = event.message.text  # 使用者傳送的文字
     # 是否正運行
-    if '測試' == msg:
-        reply_message = TextSendMessage(text='測試成功，程式正常運作')
+    if '測試2' == msg:
+        reply_message = TextSendMessage(text='測試成功2，程式正常運作')
         line_bot_api.reply_message(event.reply_token, reply_message)
     # 回傳文字
     elif '@日期時間' == msg:
@@ -71,7 +71,19 @@ def handle_message(event):
                                         '\n''3. 論壇講座'
                                         '\n''4. 市集活動')
         line_bot_api.reply_message(event.reply_token, reply_message)
-        handle_message2(event)
+        msg = event.message.text  # 使用者傳送的文字
+        if '1' == msg[0]:  # 測試
+            reply_message = TextSendMessage(text='我是1')
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        elif '2' == msg[0]:
+            reply_message = TextSendMessage(text='我是2')
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        elif '3' == msg[0]:
+            reply_message = TextSendMessage(text='我是3')
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        elif '4' == msg[0]:
+            reply_message = TextSendMessage(text='我是4')
+            line_bot_api.reply_message(event.reply_token, reply_message)
     # 回傳位置訊息
     elif '華山' == msg:
         reply_message = LocationSendMessage(
@@ -112,6 +124,7 @@ def handle_message(event):
         line_bot_api.reply_message(event.reply_token, reply_message)
 
 
+'''
 def handle_message2(event):
     msg = event.message.text  # 使用者傳送的文字
     if '1' == msg[0]:  # 測試
@@ -126,9 +139,11 @@ def handle_message2(event):
     elif '4' == msg[0]:
         reply_message = TextSendMessage(text='我是4')
         line_bot_api.reply_message(event.reply_token, reply_message)
-
+'''
 
 # 日期時間按鈕會觸發 Postback 事件
+
+
 @handler.add(PostbackEvent)  # PostbackTemplateAction觸發此事件
 def handle_postback(event):
     backdata = dict(parse_qsl(event.postback.data))  # 取得data資料
