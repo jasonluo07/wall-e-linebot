@@ -83,6 +83,10 @@ def handle_message(event):
             longitude="121.5606831170937"
         )
         line_bot_api.reply_message(event.reply_token, reply_message)
+    # 測試功能列表＋隨機推薦
+    elif '隨機推薦' == msg:
+        reply_message = function_list()
+        line_bot_api.reply_message(event.reply_token, reply_message)
     # 測試用功能
     elif '最新合作廠商' == msg:
         reply_message = imagemap_message()
