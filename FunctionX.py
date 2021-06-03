@@ -4,6 +4,7 @@ from linebot.exceptions import (InvalidSignatureError)
 from linebot.models import *
 
 import datetime
+import time
 
 
 def sendDatetime(event):  # 日期時間
@@ -19,7 +20,7 @@ def sendDatetime(event):  # 日期時間
                         label="選取日期",
                         data="action=sell&mode=date",  # 觸發postback事件
                         mode="date",  # 選取日期
-                        initial="2020-10-01",  # 顯示初始日期
+                        initial=time.strftime("%Y-%m-%d"),  # 顯示初始日期
                         min="2020-10-01",  # 最小日期
                         max="2021-12-31"  # 最大日期
                     ),
