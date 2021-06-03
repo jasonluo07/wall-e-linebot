@@ -23,22 +23,6 @@ def sendDatetime(event):  # 日期時間
                         initial=time.strftime("%Y-%m-%d"),  # 顯示初始日期
                         min="2020-10-01",  # 最小日期
                         max="2021-12-31"  # 最大日期
-                    ),
-                    DatetimePickerTemplateAction(
-                        label="選取時間",
-                        data="action=sell&mode=time",
-                        mode="time",  # 選取時間
-                        initial="10:00",
-                        min="00:00",
-                        max="23:59"
-                    ),
-                    DatetimePickerTemplateAction(
-                        label="選取日期時間",
-                        data="action=sell&mode=datetime",
-                        mode="datetime",  # 選取日期時間
-                        initial="2020-10-01T10:00",
-                        min="2020-10-01T00:00",
-                        max="2021-12-31T23:59"
                     )
                 ]
             )
