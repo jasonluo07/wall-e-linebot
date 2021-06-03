@@ -5,6 +5,7 @@ from linebot.models import *
 
 import datetime
 import time
+from urllib import parse_qsl
 
 
 def sendDatetime(event):  # 日期時間

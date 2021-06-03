@@ -114,6 +114,13 @@ def handle_message(event):
     elif '按鈕' == msg:
         reply_message = buttons_message()
         line_bot_api.reply_message(event.reply_token, reply_message)
+    # 開發中的功能
+    elif '@傳送圖片' == msg:
+        reply_message = ImageSendMessage(
+            original_content_url="https://i.imgur.com/NY2RqSD.png",
+            preview_image_url="https://i.imgur.com/NY2RqSD.png"
+        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
     # 無法辨識使用者的訊息
     else:
         reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
