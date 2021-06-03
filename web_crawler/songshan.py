@@ -1,19 +1,14 @@
 import requests
-from bs4 import BeautifulSoup
 import json
 
+from songshan_func import *
 
-def get_events(url, kind, type, file_name):
-    events = []
-    page = 1
-    while True:
-        my_params = {'kind': kind, 'type': type, 'p': page, 'q': 'get'}
-        resp = requests.get(url, params=my_params)
-        current_events = json.loads(resp.text)['items']
-        events.extend(current_events)
-        if not current_events:
-            break
-        page += 1
+url = 'https://www.songshanculturalpark.org/ExhibitionList.aspx'
+get_events(url, 0, 1, '松菸_展覽表演_最新活動.json')
+get_events(url, 0, 3, '松菸_展覽表演_歷史回顧.json')
 
-    with open(file_name, 'w', encoding='utf-8') as f:
-        json.dump(events, f, indent=4, sort_keys=False, ensure_ascii=False)
+url = 'https://www.songshanculturalpark.org/ActivityList.aspx'
+get_events(url, 1, 1, '松菸_講座課程_最新活動.json')
+get_events(url, 1, 3, '松菸_講座課程_歷史回顧.json')
+get_events(url, 2, 1, '松菸_其他活動_最新活動.json')
+get_events(url, 2, 3, '松菸_其他活動_歷史回顧.json')
