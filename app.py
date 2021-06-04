@@ -32,12 +32,9 @@ handler = WebhookHandler('be58b1568a2dbd2327a5c6f6bd48e80a')
 # 建立 callback 路由，檢查 LINE Bot 的資訊是否正確
 @app.route("/callback", methods=['POST'])
 def callback():
-    # get X-Line-Signature header value
     signature = request.headers['X-Line-Signature']
-    # get request body as text
     body = request.get_data(as_text=True)
     app.logger.info("Request body: " + body)
-    # handle webhook body
     try:
         handler.handle(body, signature)
     except InvalidSignatureError:
@@ -50,52 +47,129 @@ def callback():
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):
     msg = event.message.text  # 使用者傳送的文字
-    # 是否正運行
-    if '測試2' == msg:
-        reply_message = TextSendMessage(text='測試成功2，程式正常運作')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    # 回傳文字
-    elif '@日期時間' == msg:
-        reply_message = sendDatetime(event)
-        line_bot_api.reply_message(
-            event.reply_token, reply_message)  # 待加上功能：回傳使用者選擇的日期時間
-    # 回傳樣板訊息
-    elif '近期活動' == msg:
-        reply_message = TextSendMessage(text='顯示近期活動')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    # 類別選項
-    elif '類別' == msg:
-        reply_message = TextSendMessage(
-            text='請選擇以下類別並輸入編號：\n1. 展覽表演\n2. 品牌活動\n3. 論壇講座\n4. 市集活動')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '1' == msg[0]:
-        reply_message = TextSendMessage(text='我是展覽表演')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '2' == msg[0]:
-        reply_message = TextSendMessage(text='我是品牌活動')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '3' == msg[0]:
-        reply_message = TextSendMessage(text='我是論壇講座')
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '4' == msg[0]:
-        reply_message = TextSendMessage(text='我是市集活動')
-        line_bot_api.reply_message(event.reply_token, reply_message)
+    # 處理文字訊息的部分
+    if '你好' == msg:
+        try:
+            reply_message = TextSendMessage(
+                text='我是瓦力，\n你好！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
     # 回傳位置訊息
     elif '華山' == msg:
-        reply_message = LocationSendMessage(
-            title="華山1914文化創意產業園區",
-            address="台北市中正區八德路一段1號",
-            latitude="25.0442906858476",
-            longitude="121.52934759683569"
-        )
-        line_bot_api.reply_message(event.reply_token, reply_message)
+        try:
+            reply_message = LocationSendMessage(
+                title="華山1914文化創意產業園區",
+                address="台北市中正區八德路一段1號",
+                latitude="25.0442906858476",
+                longitude="121.52934759683569"
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
     elif '松菸' == msg:
-        reply_message = LocationSendMessage(
-            title="松山文創園區",
-            address="台北市信義區光復南路133號",
-            latitude="25.04402152155643",
-            longitude="121.5606831170937"
-        )
+        try:
+            reply_message = LocationSendMessage(
+                title="松山文創園區",
+                address="台北市信義區光復南路133號",
+                latitude="25.04402152155643",
+                longitude="121.5606831170937"
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    # 處理圖文選單的部分
+    elif '@時間' == msg:
+        try:
+            reply_message = sendDatetime(event)
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        # 待加上功能：回傳使用者選擇的日期時間
+    elif '@類別' == msg:  # "quick reply buttons": https://pse.is/3h5spb
+        try:
+            reply_message = TextSendMessage(
+                text='請選擇以下類別',
+                quick_reply=QuickReply(
+                    items=[
+                        QuickReplyButton(
+                            action=MessageAction(
+                                label='展覽表演',  # 「顯示值」是顯示於快速選單的文字
+                                text='@展覽表演'  # 「選取值」是使用者選按該選項回傳的文字
+                            )
+                        ),
+                        QuickReplyButton(
+                            action=MessageAction(
+                                label='品牌活動',
+                                text='@品牌活動'
+                            )
+                        ),
+                        QuickReplyButton(
+                            action=MessageAction(
+                                label='論壇講座',
+                                text='@論壇講座'
+                            )
+                        ),
+                        QuickReplyButton(
+                            action=MessageAction(
+                                label='市集活動',
+                                text='@市集活動'
+                            )
+                        )
+                    ]
+                )
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '@隨機推薦' == msg:
+        try:
+            reply_message = TextSendMessage(
+                text='顯示「@隨機推薦」的動作'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '@笑一下' == msg:
+        try:
+            reply_message = ImageSendMessage(
+                original_content_url="https://i.imgur.com/NY2RqSD.png",
+                preview_image_url="https://i.imgur.com/NY2RqSD.png"
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(text="「笑一下」發生錯誤！")
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    #
+    #
+    # 範例測試
+    #
+    #
+    #
+    #
+    #
+    # 測試：樣板訊息
+    elif '近期活動' == msg:
+        reply_message = TextSendMessage(text='顯示近期活動')
         line_bot_api.reply_message(event.reply_token, reply_message)
     # 測試功能列表＋隨機推薦
     elif '隨機推薦' == msg:
@@ -114,29 +188,19 @@ def handle_message(event):
     elif '按鈕' == msg:
         reply_message = buttons_message()
         line_bot_api.reply_message(event.reply_token, reply_message)
-    # 開發中的功能
-    elif '笑一下' == msg:
-        try:
-            reply_message = ImageSendMessage(
-                original_content_url="https://i.imgur.com/NY2RqSD.png",
-                preview_image_url="https://i.imgur.com/NY2RqSD.png"
-            )
-            line_bot_api.reply_message(event.reply_token, reply_message)
-        except:
-            reply_message = TextSendMessage(text="「笑一下」發生錯誤！")
-            line_bot_api.reply_message(event.reply_token, reply_message)
     # 無法辨識使用者的訊息
     else:
-        reply_message = TextSendMessage(text="你說的話是：" + msg + "，目前無法辨識此訊息。")
+        reply_message = TextSendMessage(
+            text="你說的話是：「" + msg + "」，目前無法辨識此訊息。"
+        )
         line_bot_api.reply_message(event.reply_token, reply_message)
 
+
 # 日期時間按鈕會觸發 Postback 事件
-
-
-@handler.add(PostbackEvent)  # PostbackTemplateAction觸發此事件
+@handler.add(PostbackEvent)  # PostbackTemplateAction 觸發此事件
 def handle_postback(event):
     backdata = dict(parse_qsl(event.postback.data))  # 取得data資料
-    if backdata.get('action') == 'sell':
+    if backdata.get('action') == 'sell':  # 讀取 Postback 資料中名稱為「action」項目的值
         sendData_sell(event, backdata)
 
 

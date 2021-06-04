@@ -5,12 +5,12 @@ from linebot.models import *
 
 import datetime
 import time
-from urllib import parse_qsl
+from urllib.parse import parse_qsl
 
 
 def sendDatetime(event):  # 日期時間
     try:
-        message = TemplateSendMessage(
+        reply_message = TemplateSendMessage(
             alt_text='日期時間範例',
             template=ButtonsTemplate(
                 thumbnail_image_url='https://i.imgur.com/VxVB46z.jpg',
@@ -19,7 +19,7 @@ def sendDatetime(event):  # 日期時間
                 actions=[
                     DatetimePickerTemplateAction(
                         label="選取日期",
-                        data="action=sell&mode=date",  # 觸發postback事件
+                        data="action=sell&mode=date",  # 觸發 postback 事件
                         mode="date",  # 選取日期
                         initial=time.strftime("%Y-%m-%d"),  # 顯示初始日期
                         min="2020-10-01",  # 最小日期
@@ -28,10 +28,10 @@ def sendDatetime(event):  # 日期時間
                 ]
             )
         )
-        return message
+        return reply_message
     except:
-        message = '發生錯誤！'
-        return message
+        reply_message = "發生錯誤！"
+        return reply_message
 
 
 def sendData_sell(event, backdata):  # Postback,顯示日期時間
@@ -52,27 +52,3 @@ def sendData_sell(event, backdata):  # Postback,顯示日期時間
     except:
         message = '發生錯誤！'
         return message
-
-
-'''
-def send_datetime():
-    message = TemplateSendMessage(
-        alt_text='日期時間範例',
-        template=ButtonsTemplate(
-            thumbnail_image_url="https://pic2.zhimg.com/v2-de4b8114e8408d5265503c8b41f59f85_b.jpg",
-            title="日期時間範例",
-            text="請選擇",
-            actions=[
-                DatetimePickerTemplateAction(
-                    label="選擇時間",
-                    data="input_birthday",
-                    mode='date',
-                    initial='2021-01-01',  # 待完成功能：初始時間要同步更新至今日
-                    max='2021-12-31',
-                    min='2021-01-01'
-                )
-            ]
-        )
-    )
-    return message
-'''
