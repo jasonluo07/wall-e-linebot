@@ -153,8 +153,9 @@ def handle_message(event):
     elif '@笑一下' == msg:
         try:
             reply_message = ImageSendMessage(
-                original_content_url=db.memes[random.randrange(len(db.memes))],
-                preview_image_url=db.memes[random.randrange(len(db.memes))]
+                original_content_url=db.memestw[random.randrange(
+                    len(db.memestw))],
+                preview_image_url=db.memestw[random.randrange(len(db.memestw))]
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
