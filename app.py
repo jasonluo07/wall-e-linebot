@@ -11,6 +11,7 @@ from message import *
 from new import *
 from Function import *
 from FunctionX import *
+import db
 # ======這裡是呼叫的檔案內容=====
 
 # ======python的函數庫==========
@@ -19,6 +20,7 @@ import os
 import datetime
 import time
 from urllib.parse import parse_qsl
+import random
 # ======python的函數庫==========
 
 app = Flask(__name__)
@@ -59,7 +61,6 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    # 回傳位置訊息
     elif '華山' == msg:
         try:
             reply_message = LocationSendMessage(
@@ -152,8 +153,8 @@ def handle_message(event):
     elif '@笑一下' == msg:
         try:
             reply_message = ImageSendMessage(
-                original_content_url="https://i.imgur.com/NY2RqSD.png",
-                preview_image_url="https://i.imgur.com/NY2RqSD.png"
+                original_content_url=db.memes[random.randrange(len(db.memes))],
+                preview_image_url=db.memes[random.randrange(len(db.memes))]
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
