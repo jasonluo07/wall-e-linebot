@@ -109,25 +109,25 @@ def handle_message(event):
                         QuickReplyButton(
                             action=MessageAction(
                                 label='展覽表演',  # 「顯示值」是顯示於快速選單的文字
-                                text='@展覽表演'  # 「選取值」是使用者選按該選項回傳的文字
+                                text='展覽表演'  # 「選取值」是使用者選按該選項回傳的文字
                             )
                         ),
                         QuickReplyButton(
                             action=MessageAction(
                                 label='品牌活動',
-                                text='@品牌活動'
+                                text='品牌活動'
                             )
                         ),
                         QuickReplyButton(
                             action=MessageAction(
                                 label='論壇講座',
-                                text='@論壇講座'
+                                text='論壇講座'
                             )
                         ),
                         QuickReplyButton(
                             action=MessageAction(
                                 label='市集活動',
-                                text='@市集活動'
+                                text='市集活動'
                             )
                         )
                     ]
@@ -159,7 +159,9 @@ def handle_message(event):
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
-            reply_message = TextSendMessage(text="「笑一下」發生錯誤！")
+            reply_message = TextSendMessage(
+                text='「笑一下」發生錯誤！'
+            )
             line_bot_api.reply_message(event.reply_token, reply_message)
     #
     #
@@ -168,11 +170,6 @@ def handle_message(event):
     #
     #
     #
-    #
-    # 測試：樣板訊息
-    elif '近期活動' == msg:
-        reply_message = TextSendMessage(text='顯示近期活動')
-        line_bot_api.reply_message(event.reply_token, reply_message)
     # 測試功能列表＋隨機推薦
     elif '隨機推薦' == msg:
         reply_message = function_list()
