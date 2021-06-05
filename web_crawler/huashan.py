@@ -31,13 +31,14 @@ def get_huashan_events(url):
             description = soup_event.find(
                 'div', 'card-text-info').text.strip().replace('\n', ' ').replace('\r', ' ').replace('  ', ' ')[:40]
             events.append({
-                'title': title,
                 'image': image,
+                'title': title,
                 'beginDate': beginDate,
                 'endDate': endDate,
-                'type': type,
+                'description': description,
                 'href': href,
-                'description': description
+                'type': type,
+                'location': '華山'
             })
         page += 1
     return events
@@ -47,13 +48,14 @@ events = []
 # 爬取新的活動
 events.extend(get_huashan_events(
     'https://www.huashan1914.com/w/huashan1914/exhibition'))
-'''
 # 爬取舊的活動
 events.extend(get_huashan_events(
     'https://www.huashan1914.com/w/huashan1914/exhibition?typeId=-1'))
-'''
 
-with open('huashan.json', 'w', encoding='utf-8') as f:
+with open('huashan_all_events.json', mode='w', encoding='utf-8') as f:
     json.dump(events, f, indent=4, sort_keys=False, ensure_ascii=False)
     # ensure_ascii=False：如果檔案有包含非 ASCII 編碼字元（如所有的中文字，在此是以 utf-8 編碼），仍照常寫入檔案
     # 若 ensure_ascii=True，中文字會變成 \uxxxx 的格式
+
+
+# requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
