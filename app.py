@@ -138,10 +138,54 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '展覽表演' == msg:
+        try:
+            reply_message = TextSendMessage(
+                text='文字訊息為「展覽表演」的動作'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '論壇講座' == msg:
+        try:
+            reply_message = TextSendMessage(
+                text='文字訊息為「論壇講座」的動作'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '展覽表演' == msg:
+        try:
+            reply_message = TextSendMessage(
+                text='文字訊息為「展覽表演」的動作'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '市集活動' == msg:
+        try:
+            reply_message = TextSendMessage(
+                text='文字訊息為「市集活動」的動作'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
     elif '@隨機推薦' == msg:
         try:
             reply_message = TextSendMessage(
-                text='顯示「@隨機推薦」的動作'
+                text='文字訊息為「@隨機推薦」的動作'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
