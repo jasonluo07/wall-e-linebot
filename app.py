@@ -31,11 +31,11 @@ handler = WebhookHandler('be58b1568a2dbd2327a5c6f6bd48e80a')
 
 
 # 建立 callback 路由，檢查 LINE Bot 的資訊是否正確
-@app.route("/callback", methods=['POST'])
+@app.route('/callback', methods=['POST'])
 def callback():
     signature = request.headers['X-Line-Signature']
     body = request.get_data(as_text=True)
-    app.logger.info("Request body: " + body)
+    app.logger.info('Request body: ' + body)
     try:
         handler.handle(body, signature)
     except InvalidSignatureError:
