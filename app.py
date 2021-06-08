@@ -29,13 +29,13 @@ import random
 app = Flask(__name__)
 static_tmp_path = os.path.join(os.path.dirname(__file__), 'static', 'tmp')
 # LINE Bot: WALL-E
-# line_bot_api = LineBotApi(
-#     'I5hgulT9ZKbbAFqbzumFaVYS0jgUmuyG5JVmFgrq+HlPngNiK05bfvgsiBzAxOAjwE3FAc5olRj+iXwglbNuz6Qpp0YAW9z/Mq72Ea+96SzEMbp6KChDbEg74sa4c433HzVMB59OUPcK45d9l6n1uQdB04t89/1O/w1cDnyilFU=')
-# handler = WebhookHandler('be58b1568a2dbd2327a5c6f6bd48e80a')
-# LINE Bot: testbot371
 line_bot_api = LineBotApi(
-    'pI2RMOmFid7t4LcAXLD6xtINIdt1GTk47SV+/3VObyfqrnEO+OVv/1NiJGDmv5nldjF6fzXrwZ+uMie+Hil5rjD1UhstcCOYtNrOuR0b5OXWIKEt1L7D83YlWEaRRwSw39lUY9CxEzpqeduShuc6EQdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('0583d8005933cf8d466126a3649b1952')
+    'I5hgulT9ZKbbAFqbzumFaVYS0jgUmuyG5JVmFgrq+HlPngNiK05bfvgsiBzAxOAjwE3FAc5olRj+iXwglbNuz6Qpp0YAW9z/Mq72Ea+96SzEMbp6KChDbEg74sa4c433HzVMB59OUPcK45d9l6n1uQdB04t89/1O/w1cDnyilFU=')
+handler = WebhookHandler('be58b1568a2dbd2327a5c6f6bd48e80a')
+# LINE Bot: testbot371
+# line_bot_api = LineBotApi(
+#     'pI2RMOmFid7t4LcAXLD6xtINIdt1GTk47SV+/3VObyfqrnEO+OVv/1NiJGDmv5nldjF6fzXrwZ+uMie+Hil5rjD1UhstcCOYtNrOuR0b5OXWIKEt1L7D83YlWEaRRwSw39lUY9CxEzpqeduShuc6EQdB04t89/1O/w1cDnyilFU=')
+# handler = WebhookHandler('0583d8005933cf8d466126a3649b1952')
 
 
 # 建立 callback 路由，檢查 LINE Bot 的資訊是否正確
@@ -78,7 +78,6 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-        # 待加上功能：回傳使用者選擇的日期時間
     elif '@類別' == msg:  # "quick reply buttons": https://pse.is/3h5spb
         try:
             reply_message = TextSendMessage(
@@ -177,6 +176,12 @@ def handle_message(event):
                                 label='北美館在哪',
                                 text='北美館在哪'
                             )
+                        ),
+                        QuickReplyButton(
+                            action=MessageAction(
+                                label='中正紀念堂在哪',
+                                text='中正紀念堂在哪'
+                            )
                         )
                     ]
                 )
@@ -222,6 +227,20 @@ def handle_message(event):
                 address="台北市中山區中山北路三段181號",
                 latitude="25.07258670583647",
                 longitude="121.52487457050282"
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '中正紀念堂在哪' in msg:
+        try:
+            reply_message = LocationSendMessage(
+                title="中正紀念堂",
+                address="台北市中正區中山南路21號",
+                latitude="25.034771233006982",
+                longitude="121.52175635037176"
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:

@@ -401,7 +401,7 @@ memestw = ["https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1622353191575.
            "https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1621481214301.jpg"
            ]
 
-# eventsA：展覽活動（華山、松菸、）
+# eventsA：展覽活動（華山、松菸、北美、中正）
 eventsA = [
     {
         "image": "https://media.huashan1914.com/WebUPD/huashan1914/exhibition/%e8%8f%af%e5%b1%b1_%e4%b8%bb%e9%a0%81%e6%9b%9d%e5%85%89.jpg",
@@ -602,7 +602,38 @@ eventsA = [
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=688&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
         "location": "北美館"
+    },
+    {
+        "image": "https://mocfile.moc.gov.tw/activitySones/userFiles/CKSMH/JpgFile/01/04697/04697.jpg",
+        "title": "3D視角・EYE TAIWAN",
+        "beginDate": "2020.09.25",
+        "endDate": "2021.06.20",
+        "description": "喬好視角，3D立現 3D藝術展中正紀念堂奇幻登場 千呼萬喚，以臺灣在地特色主題的",
+        "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04697&request_locale=tw",
+        "type": "展覽活動",
+        "location": "中正紀念堂"
+    },
+    {
+        "image": "https://mocfile.moc.gov.tw/activitySones/userFiles/CKSMH/JpgFile/01/04758/04758.jpg",
+        "title": "覺醒浪潮-迢迢民主路上的自由呼聲特展",
+        "beginDate": "2020.11.14",
+        "endDate": "2023.12.31",
+        "description": "邀請民眾回到民主現場，認識日治時期以來臺灣爭取民主人權的過程，一同回顧歷史、展望",
+        "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04758&request_locale=tw",
+        "type": "展覽活動",
+        "location": "中正紀念堂"
+    },
+    {
+        "image": "https://mocfile.moc.gov.tw/activitySones/userFiles/CKSMH/JpgFile/01/10207/10207.jpg",
+        "title": "光透美學–玻璃藝術的無限可能",
+        "beginDate": "2021.04.14",
+        "endDate": "2021.12.20",
+        "description": "玻璃的主要成分是矽砂，是人類文明發展史上最早誕生的人工材料之一，為矽酸鹽類的透明",
+        "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=10207&request_locale=tw",
+        "type": "展覽活動",
+        "location": "中正紀念堂"
     }
+
 ]
 
 # eventsB：表演活動（華山、）
