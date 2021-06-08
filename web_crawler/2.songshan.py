@@ -22,7 +22,7 @@ def get_events(url, kind, type, file_name):
 
             temp_resp = requests.get(url, params={'kind': kind})
             temp_soup = BeautifulSoup(temp_resp.text, 'html.parser')
-            temp_type = [temp_soup.find('div', 'exhibition title').text]
+            temp_type = temp_soup.find('div', 'exhibition title').text
             href = url + '?' + event['ID']
             description = event['SubTitle'].strip().replace(
                 '\n', ' ').replace('\r', ' ').replace('  ', ' ')[:40]
@@ -46,7 +46,7 @@ def get_events(url, kind, type, file_name):
 
 
 url = 'https://www.songshanculturalpark.org/ExhibitionList.aspx'
-get_events(url, 0, 1, 'test.json')
+get_events(url, 0, 1, 'songshan.json')
 
 '''
 get_events(url, 0, 3, '松菸_展覽表演_歷史回顧.json')
