@@ -15,6 +15,9 @@ from Function import *
 
 # ======這裡是呼叫資料庫=====
 import db
+import json
+with open('events.json', mode='r', encoding='utf-8') as f:
+    events = json.load(f)
 # ======這裡是呼叫資料庫=====
 
 
@@ -144,14 +147,15 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '展覽表演' == msg:
         try:
+            # 選擇四個隨機活動
+            rand_nums = random.sample(range(len(events)), 4)
             reply_message = TemplateSendMessage(
                 alt_text='Carousel Template',
                 template=CarouselTemplate(
                     columns=[
                         CarouselColumn(
-                            thumbnail_image_url='https://media.huashan1914.com/WebUPD/huashan1914/exhibition/%e8%8f%af%e5%b1%b1_%e4%b8%bb%e9%a0%81%e6%9b%9d%e5%85%89.jpg',
-                            title='暗通款曲 快閃餐吧 Underground River Pop-up Deli & Bar'[
-                                :20],
+                            thumbnail_image_url=events[rand_nums[0]]['image'],
+                            title=events[rand_nums[0]]['title'][:20],
                             text='2021.05.18 - 07.30' + '\n' +
                             'Underground River——由 iDrip 主策劃的 #暗通款曲 快閃餐 Bar，以風味交流為題，宛如伏流般讓各股風味在此幽會，此交會融合，深刻、神秘、迷人又致命。iDrip 集結世界冠軍與茶、咖啡大師的手藝及選材，佐以米其林一星餐館——大三元酒樓一甲子的精湛廚藝，並於每月 cross 全台口碑甜點，伴隨著霓虹蕩漾、風情萬種會聚一溏，進入時而細緻、忽而彩麗的體驗，展現各方精湛、令人窒息的偷情魅力。'[
                                 :40] + '…',
