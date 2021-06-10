@@ -7,6 +7,16 @@ from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
 from linebot.models import *
 
+# ======python的函數庫==========
+import tempfile
+import os
+import datetime
+from datetime import date
+import random
+from urllib.parse import parse_qsl
+import json
+# ======python的函數庫==========
+
 # ======這裡是呼叫的自定義的函式=====
 from message import *
 from new import *
@@ -15,16 +25,10 @@ from Function import *
 
 # ======這裡是呼叫資料庫=====
 import db
+with open('./web_crawler/memestw.json', mode='r', encoding='utf-8') as file:
+    memestw = json.load(file)
 # ======這裡是呼叫資料庫=====
 
-
-# ======python的函數庫==========
-import tempfile
-import os
-import datetime
-from urllib.parse import parse_qsl
-import random
-# ======python的函數庫==========
 
 app = Flask(__name__)
 static_tmp_path = os.path.join(os.path.dirname(__file__), 'static', 'tmp')
@@ -69,7 +73,7 @@ def handle_message(event):
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
     # 處理圖文選單的部分
-    elif '@時間' == msg:
+    elif '@日期' == msg:
         try:
             reply_message = send_datetime(event)
             line_bot_api.reply_message(event.reply_token, reply_message)
@@ -119,7 +123,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '展覽活動' == msg:
         try:
-            reply_message = pick_random_events(db.eventsA)
+            reply_message = pick_random_events(db.eventsT, target_type='展覽活動')
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
@@ -128,7 +132,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '表演活動' == msg:
         try:
-            reply_message = pick_random_events(db.eventsB)
+            reply_message = pick_random_events(db.eventsT, target_type='表演活動')
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
@@ -137,7 +141,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '品牌活動' == msg:
         try:
-            reply_message = pick_random_events(db.eventsC)
+            reply_message = pick_random_events(db.eventsT, target_type='品牌活動')
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
@@ -146,7 +150,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '論壇講座' == msg:
         try:
-            reply_message = pick_random_events(db.eventsD)
+            reply_message = pick_random_events(db.eventsT, target_type='論壇講座')
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
@@ -250,8 +254,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '@笑一下' == msg:
         try:
-            image_url = db.memestw[random.randrange(
-                len(db.memestw))]  # 修正預覽圖和實際圖不一樣
+            image_url = memestw[random.randrange(len(memestw))]
             reply_message = ImageSendMessage(
                 original_content_url=image_url,
                 preview_image_url=image_url
@@ -262,36 +265,6 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    #
-    #
-    # 範例測試
-    #
-    #
-    #
-    #
-    # 測試功能列表＋隨機推薦
-    elif '隨機推薦' == msg:
-        reply_message = function_list()
-        line_bot_api.reply_message(event.reply_token, reply_message)
-    # 測試測試測試測試測試測試
-    elif '最新合作廠商' in msg:
-        message = imagemap_message()
-        line_bot_api.reply_message(event.reply_token, message)
-    elif '最新活動訊息' in msg:
-        message = buttons_message()
-        line_bot_api.reply_message(event.reply_token, message)
-    elif '註冊會員' in msg:
-        message = Confirm_Template()
-        line_bot_api.reply_message(event.reply_token, message)
-    elif '旋轉木馬' in msg:
-        message = Carousel_Template()
-        line_bot_api.reply_message(event.reply_token, message)
-    elif '圖片畫廊' in msg:
-        message = test()
-        line_bot_api.reply_message(event.reply_token, message)
-    elif '功能列表' in msg:
-        message = function_list()
-        line_bot_api.reply_message(event.reply_token, message)
     # 無法辨識使用者的訊息
     else:
         reply_message = TextSendMessage(
@@ -312,7 +285,7 @@ def handle_postback(event):
         )
         line_bot_api.reply_message(event.reply_token, reply_message)
     elif backdata.get('action') == 'again':
-        reply_message = pick_random_events(db.eventsA)  # db.eventsA 要換
+        reply_message = pick_random_events(db.eventsT)  # db.eventsT 要換
         line_bot_api.reply_message(event.reply_token, reply_message)
 
 
@@ -331,8 +304,10 @@ def send_datetime(event):  # 日期時間
                         data="action=sell&mode=date",  # 觸發postback事件
                         mode="date",  # 選取日期
                         initial=str(datetime.date.today()),  # 顯示初始日期
-                        min="2020-10-01",  # 最小日期
-                        max="2021-12-31"  # 最大日期
+                        min=str(datetime.date.today() - \
+                                datetime.timedelta(days=730)),  # 最小日期
+                        max=str(datetime.date.today() + \
+                                datetime.timedelta(days=730))  # 最大日期
                     )
                 ]
             )
@@ -351,7 +326,7 @@ def send_data_sell(event, backdata):
             # reply_message = TextSendMessage(
             #     text='日期為：' + event.postback.params.get('date') + '，找尋當天的活動'
             # )
-            reply_message = pick_random_events(db.eventsA)
+            reply_message = pick_random_events(db.eventsT)
             return reply_message
     except:
         reply_message = TextSendMessage(
@@ -360,66 +335,170 @@ def send_data_sell(event, backdata):
         return reply_message
 
 
-def pick_random_events(events):
-    # 選擇 3 個隨機活動
-    rand_nums = random.sample(range(len(events)), 3)
-    event1 = events[rand_nums[0]]
-    event2 = events[rand_nums[1]]
-    event3 = events[rand_nums[2]]
-    reply_message = TemplateSendMessage(
-        alt_text='Carousel Template',
-        template=CarouselTemplate(
-            columns=[
-                CarouselColumn(
-                    thumbnail_image_url=event1['image'],
-                    title=event1['title'][:20],
-                    text=event1['beginDate'] + ' - ' + event1['endDate'].replace(
-                        '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
-                    actions=[
-                        URITemplateAction(
-                            label='進入活動頁面',
-                            uri=event1['href']
-                        )
-                    ]
-                ),
-                CarouselColumn(
-                    thumbnail_image_url=event2['image'],
-                    title=event2['title'][:20],
-                    text=event2['beginDate'] + ' - ' + event2['endDate'].replace(
-                        '2021.', '').replace('2020.', '') + ' ' + event2['location'] + '\n' + event2['description'][:25] + '…',
-                    actions=[
-                        URITemplateAction(
-                            label='進入活動頁面',
-                            uri=event2['href']
-                        )
-                    ]
-                ),
-                CarouselColumn(
-                    thumbnail_image_url=event3['image'],
-                    title=event3['title'][:20],
-                    text=event3['beginDate'] + ' - ' + event3['endDate'].replace(
-                        '2021.', '').replace('2020.', '') + ' ' + event3['location'] + '\n' + event3['description'][:25] + '…',
-                    actions=[
-                        URITemplateAction(
-                            label='進入活動頁面',
-                            uri=event3['href']
-                        )
-                    ]
-                ),
-                CarouselColumn(
-                    thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
-                    title='換下一組',
-                    text='換下一組',
-                    actions=[
-                        PostbackTemplateAction(
-                            label='換下一組',
-                            data='action=again'
-                        )
-                    ]
-                )
-            ]
+def pick_random_events(data, target_date=str(datetime.date.today()), target_type='不限', target_place='不限'):
+    target_events = []
+    target_date = date.fromisoformat(target_date.replace('.', '-'))
+
+    # 篩選資料
+    if target_type != '不限' & target_place != '不限':
+        for i in range(len(data)):
+            start_date = date.fromisoformat(
+                data[i]['beginDate'].replace('.', '-'))
+            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
+            boolean1 = (start_date <= target_date <= end_date)
+            boolean2 = (target_type == data[i]['type'])
+            boolean3 = (target_place == data[i]['location'])
+            if boolean1 & boolean2 & boolean3:  # 日期 & 類型 & 地點
+                target_events.append(data[i])
+    elif target_type == '不限' & target_place != '不限':
+        for i in range(len(data)):
+            start_date = date.fromisoformat(
+                data[i]['beginDate'].replace('.', '-'))
+            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
+            boolean1 = (start_date <= target_date <= end_date)
+            boolean3 = (target_place == data[i]['location'])
+            if boolean1 & boolean3:  # 日期 & 地點
+                target_events.append(data[i])
+    elif target_type != '不限' & target_place == '不限':
+        for i in range(len(data)):
+            start_date = date.fromisoformat(
+                data[i]['beginDate'].replace('.', '-'))
+            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
+            boolean1 = (start_date <= target_date <= end_date)
+            boolean2 = (target_type == data[i]['type'])
+            if boolean1 & boolean2:  # 日期 & 類型
+                target_events.append(data[i])
+    elif target_type == '不限' & target_place == '不限':
+        for i in range(len(data)):
+            start_date = date.fromisoformat(
+                data[i]['beginDate'].replace('.', '-'))
+            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
+            boolean1 = (start_date <= target_date <= end_date)
+            if boolean1:  # 日期
+                target_events.append(data[i])
+
+    # 隨機抓取篩選過後的資料
+    # 三種狀況：(1) 大於等於 3，(2) 等於 2，(3) 等於 1，(4) 等於 0
+    if len(target_events) >= 3:
+        rand_nums = random.sample(range(len(target_events)), 3)
+        event1 = events[rand_nums[0]]
+        event2 = events[rand_nums[1]]
+        event3 = events[rand_nums[2]]
+        reply_message = TemplateSendMessage(
+            alt_text='Carousel Template',
+            template=CarouselTemplate(
+                columns=[
+                    CarouselColumn(
+                        thumbnail_image_url=event1['image'],
+                        title=event1['title'][:20],
+                        text=event1['beginDate'] + ' - ' + event1['endDate'].replace(
+                            '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
+                        actions=[
+                            URITemplateAction(
+                                label='進入活動頁面',
+                                uri=event1['href']
+                            )
+                        ]
+                    ),
+                    CarouselColumn(
+                        thumbnail_image_url=event2['image'],
+                        title=event2['title'][:20],
+                        text=event2['beginDate'] + ' - ' + event2['endDate'].replace(
+                            '2021.', '').replace('2020.', '') + ' ' + event2['location'] + '\n' + event2['description'][:25] + '…',
+                        actions=[
+                            URITemplateAction(
+                                label='進入活動頁面',
+                                uri=event2['href']
+                            )
+                        ]
+                    ),
+                    CarouselColumn(
+                        thumbnail_image_url=event3['image'],
+                        title=event3['title'][:20],
+                        text=event3['beginDate'] + ' - ' + event3['endDate'].replace(
+                            '2021.', '').replace('2020.', '') + ' ' + event3['location'] + '\n' + event3['description'][:25] + '…',
+                        actions=[
+                            URITemplateAction(
+                                label='進入活動頁面',
+                                uri=event3['href']
+                            )
+                        ]
+                    ),
+                    CarouselColumn(
+                        thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
+                        title='換下一組',
+                        text='換下一組',
+                        actions=[
+                            PostbackTemplateAction(
+                                label='換下一組',
+                                data='action=again'
+                            )
+                        ]
+                    )
+                ]
+            )
         )
-    )
+    elif len(target_events) == 2:
+        rand_nums = random.sample(range(len(target_events)), 2)
+        event1 = events[rand_nums[0]]
+        event2 = events[rand_nums[1]]
+        reply_message = TemplateSendMessage(
+            alt_text='Carousel Template',
+            template=CarouselTemplate(
+                columns=[
+                    CarouselColumn(
+                        thumbnail_image_url=event1['image'],
+                        title=event1['title'][:20],
+                        text=event1['beginDate'] + ' - ' + event1['endDate'].replace(
+                            '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
+                        actions=[
+                            URITemplateAction(
+                                label='進入活動頁面',
+                                uri=event1['href']
+                            )
+                        ]
+                    ),
+                    CarouselColumn(
+                        thumbnail_image_url=event2['image'],
+                        title=event2['title'][:20],
+                        text=event2['beginDate'] + ' - ' + event2['endDate'].replace(
+                            '2021.', '').replace('2020.', '') + ' ' + event2['location'] + '\n' + event2['description'][:25] + '…',
+                        actions=[
+                            URITemplateAction(
+                                label='進入活動頁面',
+                                uri=event2['href']
+                            )
+                        ]
+                    )
+                ]
+            )
+        )
+    elif len(target_events) == 1:
+        rand_nums = random.sample(range(len(target_events)), 1)
+        event1 = events[rand_nums[0]]
+        reply_message = TemplateSendMessage(
+            alt_text='Carousel Template',
+            template=CarouselTemplate(
+                columns=[
+                    CarouselColumn(
+                        thumbnail_image_url=event1['image'],
+                        title=event1['title'][:20],
+                        text=event1['beginDate'] + ' - ' + event1['endDate'].replace(
+                            '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
+                        actions=[
+                            URITemplateAction(
+                                label='進入活動頁面',
+                                uri=event1['href']
+                            )
+                        ]
+                    )
+                ]
+            )
+        )
+    elif len(target_events) >= 0:
+        reply_message = TextSendMessage(
+            text='沒有活動了！'
+        )
     return reply_message
 
 
