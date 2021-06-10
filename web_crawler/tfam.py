@@ -44,7 +44,7 @@ for i in range(len(divs)):
         href = driver.current_url
         re = requests.get(href)
         soup = BeautifulSoup(re.text, 'html.parser')
-        description = soup.find('p').text.strip().replace(
+        description = soup.find_all('p')[2].text.strip().replace(
             '\n', ' ').replace('\r', ' ').replace('  ', ' ')[:50]
         driver.back()
 
@@ -59,7 +59,7 @@ for i in range(len(divs)):
         'location': '臺北市立美術館'
     })
 
-with open('tfam_new_events.json', mode='w', encoding='utf-8') as f:
+with open('tfam.json', mode='w', encoding='utf-8') as f:
     json.dump(tfam, f, indent=4, sort_keys=False, ensure_ascii=False)
     # ensure_ascii=False：如果檔案有包含非 ASCII 編碼字元（如所有的中文字，在此是以 utf-8 編碼），仍照常寫入檔案
     # 若 ensure_ascii=True，中文字會變成 \uxxxx 的格式

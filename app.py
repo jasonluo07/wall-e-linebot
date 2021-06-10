@@ -343,7 +343,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
     if target_type != '不限' & target_place != '不限':
         for i in range(len(data)):
             start_date = date.fromisoformat(
-                data[i]['beginDate'].replace('.', '-'))
+                data[i]['startDate'].replace('.', '-'))
             end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
             boolean1 = (start_date <= target_date <= end_date)
             boolean2 = (target_type == data[i]['type'])
@@ -353,7 +353,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
     elif target_type == '不限' & target_place != '不限':
         for i in range(len(data)):
             start_date = date.fromisoformat(
-                data[i]['beginDate'].replace('.', '-'))
+                data[i]['startDate'].replace('.', '-'))
             end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
             boolean1 = (start_date <= target_date <= end_date)
             boolean3 = (target_place == data[i]['location'])
@@ -362,7 +362,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
     elif target_type != '不限' & target_place == '不限':
         for i in range(len(data)):
             start_date = date.fromisoformat(
-                data[i]['beginDate'].replace('.', '-'))
+                data[i]['startDate'].replace('.', '-'))
             end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
             boolean1 = (start_date <= target_date <= end_date)
             boolean2 = (target_type == data[i]['type'])
@@ -371,7 +371,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
     elif target_type == '不限' & target_place == '不限':
         for i in range(len(data)):
             start_date = date.fromisoformat(
-                data[i]['beginDate'].replace('.', '-'))
+                data[i]['startDate'].replace('.', '-'))
             end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
             boolean1 = (start_date <= target_date <= end_date)
             if boolean1:  # 日期
@@ -391,7 +391,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
                     CarouselColumn(
                         thumbnail_image_url=event1['image'],
                         title=event1['title'][:20],
-                        text=event1['beginDate'] + ' - ' + event1['endDate'].replace(
+                        text=event1['startDate'] + ' - ' + event1['endDate'].replace(
                             '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
                         actions=[
                             URITemplateAction(
@@ -403,7 +403,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
                     CarouselColumn(
                         thumbnail_image_url=event2['image'],
                         title=event2['title'][:20],
-                        text=event2['beginDate'] + ' - ' + event2['endDate'].replace(
+                        text=event2['startDate'] + ' - ' + event2['endDate'].replace(
                             '2021.', '').replace('2020.', '') + ' ' + event2['location'] + '\n' + event2['description'][:25] + '…',
                         actions=[
                             URITemplateAction(
@@ -415,7 +415,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
                     CarouselColumn(
                         thumbnail_image_url=event3['image'],
                         title=event3['title'][:20],
-                        text=event3['beginDate'] + ' - ' + event3['endDate'].replace(
+                        text=event3['startDate'] + ' - ' + event3['endDate'].replace(
                             '2021.', '').replace('2020.', '') + ' ' + event3['location'] + '\n' + event3['description'][:25] + '…',
                         actions=[
                             URITemplateAction(
@@ -449,7 +449,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
                     CarouselColumn(
                         thumbnail_image_url=event1['image'],
                         title=event1['title'][:20],
-                        text=event1['beginDate'] + ' - ' + event1['endDate'].replace(
+                        text=event1['startDate'] + ' - ' + event1['endDate'].replace(
                             '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
                         actions=[
                             URITemplateAction(
@@ -461,7 +461,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
                     CarouselColumn(
                         thumbnail_image_url=event2['image'],
                         title=event2['title'][:20],
-                        text=event2['beginDate'] + ' - ' + event2['endDate'].replace(
+                        text=event2['startDate'] + ' - ' + event2['endDate'].replace(
                             '2021.', '').replace('2020.', '') + ' ' + event2['location'] + '\n' + event2['description'][:25] + '…',
                         actions=[
                             URITemplateAction(
@@ -483,7 +483,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
                     CarouselColumn(
                         thumbnail_image_url=event1['image'],
                         title=event1['title'][:20],
-                        text=event1['beginDate'] + ' - ' + event1['endDate'].replace(
+                        text=event1['startDate'] + ' - ' + event1['endDate'].replace(
                             '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
                         actions=[
                             URITemplateAction(
@@ -495,7 +495,7 @@ def pick_random_events(data, target_date=str(datetime.date.today()), target_type
                 ]
             )
         )
-    elif len(target_events) >= 0:
+    elif len(target_events) == 0:
         reply_message = TextSendMessage(
             text='沒有活動了！'
         )
