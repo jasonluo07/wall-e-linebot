@@ -1,0 +1,32 @@
+[
+    {
+        "title": "3D視角・EYE TAIWAN",
+        "image": "https://mocfile.moc.gov.tw/activitySones/userFiles/CKSMH/JpgFile/01/04697/04697.jpg",
+        "startDate": "2020.09.25",
+        "endDate": "2021.06.20",
+        "description": "喬好視角，3D立現 3D藝術展中正紀念堂奇幻登場 千呼萬喚，以臺灣在地特色主題的",
+        "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04697&request_locale=tw",
+        "type": "展覽活動",
+        "location": "中正紀念堂"
+    },
+    {
+        "title": "覺醒浪潮-迢迢民主路上的自由呼聲特展",
+        "image": "https://mocfile.moc.gov.tw/activitySones/userFiles/CKSMH/JpgFile/01/04758/04758.jpg",
+        "startDate": "2020.11.14",
+        "endDate": "2023.12.31",
+        "description": "邀請民眾回到民主現場，認識日治時期以來臺灣爭取民主人權的過程，一同回顧歷史、展望",
+        "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04758&request_locale=tw",
+        "type": "展覽活動",
+        "location": "中正紀念堂"
+    },
+    {
+        "title": "光透美學–玻璃藝術的無限可能",
+        "image": "https://mocfile.moc.gov.tw/activitySones/userFiles/CKSMH/JpgFile/01/10207/10207.jpg",
+        "startDate": "2021.04.14",
+        "endDate": "2021.12.20",
+        "description": "玻璃的主要成分是矽砂，是人類文明發展史上最早誕生的人工材料之一，為矽酸鹽類的透明",
+        "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=10207&request_locale=tw",
+        "type": "展覽活動",
+        "location": "中正紀念堂"
+    }
+]

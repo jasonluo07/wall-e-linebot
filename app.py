@@ -20,13 +20,24 @@ import json
 # ======這裡是呼叫的自定義的函式=====
 from message import *
 from new import *
-from Function import *
+from testFunction import *
 # ======這裡是呼叫的自定義的函式=====
 
 # ======這裡是呼叫資料庫=====
 import db
-with open('./web_crawler/memestw.json', mode='r', encoding='utf-8') as file:
-    memestw = json.load(file)
+temp_activities = []
+
+# with open('./spider/memestw.json', mode='r', encoding='utf-8') as file:
+#     memestw = json.load(file)
+# with open('./spider/activitiesA.json', mode='r', encoding='utf-8') as file:
+#     activitiesA = json.load(file)
+# with open('./spider/activitiesB.json', mode='r', encoding='utf-8') as file:
+#     activitiesB = json.load(file)
+# with open('./spider/activitiesC.json', mode='r', encoding='utf-8') as file:
+#     activitiesC = json.load(file)
+# with open('./spider/activitiesD.json', mode='r', encoding='utf-8') as file:
+#     activitiesD = json.load(file)
+
 # ======這裡是呼叫資料庫=====
 
 
@@ -123,16 +134,16 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '展覽活動' == msg:
         try:
-            reply_message = pick_random_events(db.eventsT, target_type='展覽活動')
+            reply_message = pick_random_activitiesA(db.eventsA)
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
-                text='目前沒有展覽表演'
+                text='目前沒有展覽活動！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '表演活動' == msg:
         try:
-            reply_message = pick_random_events(db.eventsT, target_type='表演活動')
+            reply_message = pick_random_activitiesB(db.eventsB)
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
@@ -141,7 +152,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '品牌活動' == msg:
         try:
-            reply_message = pick_random_events(db.eventsT, target_type='品牌活動')
+            reply_message = pick_random_activitiesC(db.eventsC)
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
@@ -150,7 +161,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '論壇講座' == msg:
         try:
-            reply_message = pick_random_events(db.eventsT, target_type='論壇講座')
+            reply_message = pick_random_activitiesD(db.eventsD)
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
             reply_message = TextSendMessage(
@@ -254,7 +265,7 @@ def handle_message(event):
             line_bot_api.reply_message(event.reply_token, reply_message)
     elif '@笑一下' == msg:
         try:
-            image_url = memestw[random.randrange(len(memestw))]
+            image_url = db.memestw[random.randrange(len(db.memestw))]
             reply_message = ImageSendMessage(
                 original_content_url=image_url,
                 preview_image_url=image_url
@@ -277,15 +288,23 @@ def handle_message(event):
 def handle_postback(event):
     backdata = dict(parse_qsl(event.postback.data))  # 取得 data 資料
     if backdata.get('action') == 'sell':  # 讀取 Postback 資料中名稱為「action」項目的值
+        # 回報輸入的日期
         reply_message = send_data_sell(event, backdata)
         line_bot_api.reply_message(event.reply_token, reply_message)
-    elif backdata.get('action') == 'xxx':
-        reply_message = TextSendMessage(
-            text='呼叫後台成功'
-        )
+    elif backdata.get('action') == 'againA':
+        reply_message = pick_random_activitiesA(db.eventsA)
         line_bot_api.reply_message(event.reply_token, reply_message)
-    elif backdata.get('action') == 'again':
-        reply_message = pick_random_events(db.eventsT)  # db.eventsT 要換
+    elif backdata.get('action') == 'againB':
+        reply_message = pick_random_activitiesB(db.eventsB)
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif backdata.get('action') == 'againC':
+        reply_message = pick_random_activitiesC(db.eventsC)
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif backdata.get('action') == 'againD':
+        reply_message = pick_random_activitiesD(db.eventsD)
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif backdata.get('action') == 'againTemp':
+        reply_message = pick_random_activitiesTemp(temp_activities)
         line_bot_api.reply_message(event.reply_token, reply_message)
 
 
@@ -305,9 +324,9 @@ def send_datetime(event):  # 日期時間
                         mode="date",  # 選取日期
                         initial=str(datetime.date.today()),  # 顯示初始日期
                         min=str(datetime.date.today() - \
-                                datetime.timedelta(days=730)),  # 最小日期
+                                datetime.timedelta(days=1095)),  # 最小日期
                         max=str(datetime.date.today() + \
-                                datetime.timedelta(days=730))  # 最大日期
+                                datetime.timedelta(days=1095))  # 最大日期
                     )
                 ]
             )
@@ -326,7 +345,19 @@ def send_data_sell(event, backdata):
             # reply_message = TextSendMessage(
             #     text='日期為：' + event.postback.params.get('date') + '，找尋當天的活動'
             # )
-            reply_message = pick_random_events(db.eventsT)
+            global temp_activities
+            temp_activities = []
+            target_date = event.postback.params.get('date')
+            target_date = date.fromisoformat(target_date)
+            for activity in db.eventsALL:
+                start_date = date.fromisoformat(
+                    activity['startDate'].replace('.', '-'))
+                end_date = date.fromisoformat(
+                    activity['endDate'].replace('.', '-'))
+                if start_date <= target_date <= end_date:
+                    temp_activities.append(activity)
+            reply_message = TextSendMessage(text='日期為：' + event.postback.params.get(
+                'date') + '，找尋當天的活動'), pick_random_activitiesTemp(temp_activities)
             return reply_message
     except:
         reply_message = TextSendMessage(
@@ -335,170 +366,318 @@ def send_data_sell(event, backdata):
         return reply_message
 
 
-def pick_random_events(data, target_date=str(datetime.date.today()), target_type='不限', target_place='不限'):
-    target_events = []
-    target_date = date.fromisoformat(target_date.replace('.', '-'))
+def pick_random_activitiesA(activities):
+    # 選擇 3 個隨機活動
+    rand_nums = random.sample(range(len(activities)), 3)
+    activity1 = activities[rand_nums[0]]
+    activity2 = activities[rand_nums[1]]
+    activity3 = activities[rand_nums[2]]
+    reply_message = TemplateSendMessage(
+        alt_text='Carousel Template',
+        template=CarouselTemplate(
+            columns=[
+                CarouselColumn(
+                    thumbnail_image_url=activity1['image'],
+                    title=activity1['title'][:20],
+                    text=activity1['startDate'] + ' - ' + activity1['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity1['location'] + '\n' + activity1['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity1['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity2['image'],
+                    title=activity2['title'][:20],
+                    text=activity2['startDate'] + ' - ' + activity2['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity2['location'] + '\n' + activity2['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity2['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity3['image'],
+                    title=activity3['title'][:20],
+                    text=activity3['startDate'] + ' - ' + activity3['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity3['location'] + '\n' + activity3['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity3['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
+                    title='換下一組',
+                    text='換下一組',
+                    actions=[
+                        PostbackTemplateAction(
+                            label='換下一組',
+                            data='action=againA'
+                        )
+                    ]
+                )
+            ]
+        )
+    )
+    return reply_message
 
-    # 篩選資料
-    if target_type != '不限' & target_place != '不限':
-        for i in range(len(data)):
-            start_date = date.fromisoformat(
-                data[i]['startDate'].replace('.', '-'))
-            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
-            boolean1 = (start_date <= target_date <= end_date)
-            boolean2 = (target_type == data[i]['type'])
-            boolean3 = (target_place == data[i]['location'])
-            if boolean1 & boolean2 & boolean3:  # 日期 & 類型 & 地點
-                target_events.append(data[i])
-    elif target_type == '不限' & target_place != '不限':
-        for i in range(len(data)):
-            start_date = date.fromisoformat(
-                data[i]['startDate'].replace('.', '-'))
-            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
-            boolean1 = (start_date <= target_date <= end_date)
-            boolean3 = (target_place == data[i]['location'])
-            if boolean1 & boolean3:  # 日期 & 地點
-                target_events.append(data[i])
-    elif target_type != '不限' & target_place == '不限':
-        for i in range(len(data)):
-            start_date = date.fromisoformat(
-                data[i]['startDate'].replace('.', '-'))
-            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
-            boolean1 = (start_date <= target_date <= end_date)
-            boolean2 = (target_type == data[i]['type'])
-            if boolean1 & boolean2:  # 日期 & 類型
-                target_events.append(data[i])
-    elif target_type == '不限' & target_place == '不限':
-        for i in range(len(data)):
-            start_date = date.fromisoformat(
-                data[i]['startDate'].replace('.', '-'))
-            end_date = date.fromisoformat(data[i]['endDate'].replace('.', '-'))
-            boolean1 = (start_date <= target_date <= end_date)
-            if boolean1:  # 日期
-                target_events.append(data[i])
 
-    # 隨機抓取篩選過後的資料
-    # 三種狀況：(1) 大於等於 3，(2) 等於 2，(3) 等於 1，(4) 等於 0
-    if len(target_events) >= 3:
-        rand_nums = random.sample(range(len(target_events)), 3)
-        event1 = events[rand_nums[0]]
-        event2 = events[rand_nums[1]]
-        event3 = events[rand_nums[2]]
-        reply_message = TemplateSendMessage(
-            alt_text='Carousel Template',
-            template=CarouselTemplate(
-                columns=[
-                    CarouselColumn(
-                        thumbnail_image_url=event1['image'],
-                        title=event1['title'][:20],
-                        text=event1['startDate'] + ' - ' + event1['endDate'].replace(
-                            '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
-                        actions=[
-                            URITemplateAction(
-                                label='進入活動頁面',
-                                uri=event1['href']
-                            )
-                        ]
-                    ),
-                    CarouselColumn(
-                        thumbnail_image_url=event2['image'],
-                        title=event2['title'][:20],
-                        text=event2['startDate'] + ' - ' + event2['endDate'].replace(
-                            '2021.', '').replace('2020.', '') + ' ' + event2['location'] + '\n' + event2['description'][:25] + '…',
-                        actions=[
-                            URITemplateAction(
-                                label='進入活動頁面',
-                                uri=event2['href']
-                            )
-                        ]
-                    ),
-                    CarouselColumn(
-                        thumbnail_image_url=event3['image'],
-                        title=event3['title'][:20],
-                        text=event3['startDate'] + ' - ' + event3['endDate'].replace(
-                            '2021.', '').replace('2020.', '') + ' ' + event3['location'] + '\n' + event3['description'][:25] + '…',
-                        actions=[
-                            URITemplateAction(
-                                label='進入活動頁面',
-                                uri=event3['href']
-                            )
-                        ]
-                    ),
-                    CarouselColumn(
-                        thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
-                        title='換下一組',
-                        text='換下一組',
-                        actions=[
-                            PostbackTemplateAction(
-                                label='換下一組',
-                                data='action=again'
-                            )
-                        ]
-                    )
-                ]
-            )
+def pick_random_activitiesB(activities):
+    # 選擇 3 個隨機活動
+    rand_nums = random.sample(range(len(activities)), 3)
+    activity1 = activities[rand_nums[0]]
+    activity2 = activities[rand_nums[1]]
+    activity3 = activities[rand_nums[2]]
+    reply_message = TemplateSendMessage(
+        alt_text='Carousel Template',
+        template=CarouselTemplate(
+            columns=[
+                CarouselColumn(
+                    thumbnail_image_url=activity1['image'],
+                    title=activity1['title'][:20],
+                    text=activity1['startDate'] + ' - ' + activity1['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity1['location'] + '\n' + activity1['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity1['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity2['image'],
+                    title=activity2['title'][:20],
+                    text=activity2['startDate'] + ' - ' + activity2['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity2['location'] + '\n' + activity2['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity2['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity3['image'],
+                    title=activity3['title'][:20],
+                    text=activity3['startDate'] + ' - ' + activity3['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity3['location'] + '\n' + activity3['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity3['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
+                    title='換下一組',
+                    text='換下一組',
+                    actions=[
+                        PostbackTemplateAction(
+                            label='換下一組',
+                            data='action=againB'
+                        )
+                    ]
+                )
+            ]
         )
-    elif len(target_events) == 2:
-        rand_nums = random.sample(range(len(target_events)), 2)
-        event1 = events[rand_nums[0]]
-        event2 = events[rand_nums[1]]
-        reply_message = TemplateSendMessage(
-            alt_text='Carousel Template',
-            template=CarouselTemplate(
-                columns=[
-                    CarouselColumn(
-                        thumbnail_image_url=event1['image'],
-                        title=event1['title'][:20],
-                        text=event1['startDate'] + ' - ' + event1['endDate'].replace(
-                            '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
-                        actions=[
-                            URITemplateAction(
-                                label='進入活動頁面',
-                                uri=event1['href']
-                            )
-                        ]
-                    ),
-                    CarouselColumn(
-                        thumbnail_image_url=event2['image'],
-                        title=event2['title'][:20],
-                        text=event2['startDate'] + ' - ' + event2['endDate'].replace(
-                            '2021.', '').replace('2020.', '') + ' ' + event2['location'] + '\n' + event2['description'][:25] + '…',
-                        actions=[
-                            URITemplateAction(
-                                label='進入活動頁面',
-                                uri=event2['href']
-                            )
-                        ]
-                    )
-                ]
-            )
+    )
+    return reply_message
+
+
+def pick_random_activitiesC(activities):
+    # 選擇 3 個隨機活動
+    rand_nums = random.sample(range(len(activities)), 3)
+    activity1 = activities[rand_nums[0]]
+    activity2 = activities[rand_nums[1]]
+    activity3 = activities[rand_nums[2]]
+    reply_message = TemplateSendMessage(
+        alt_text='Carousel Template',
+        template=CarouselTemplate(
+            columns=[
+                CarouselColumn(
+                    thumbnail_image_url=activity1['image'],
+                    title=activity1['title'][:20],
+                    text=activity1['startDate'] + ' - ' + activity1['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity1['location'] + '\n' + activity1['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity1['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity2['image'],
+                    title=activity2['title'][:20],
+                    text=activity2['startDate'] + ' - ' + activity2['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity2['location'] + '\n' + activity2['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity2['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity3['image'],
+                    title=activity3['title'][:20],
+                    text=activity3['startDate'] + ' - ' + activity3['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity3['location'] + '\n' + activity3['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity3['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
+                    title='換下一組',
+                    text='換下一組',
+                    actions=[
+                        PostbackTemplateAction(
+                            label='換下一組',
+                            data='action=againC'
+                        )
+                    ]
+                )
+            ]
         )
-    elif len(target_events) == 1:
-        rand_nums = random.sample(range(len(target_events)), 1)
-        event1 = events[rand_nums[0]]
-        reply_message = TemplateSendMessage(
-            alt_text='Carousel Template',
-            template=CarouselTemplate(
-                columns=[
-                    CarouselColumn(
-                        thumbnail_image_url=event1['image'],
-                        title=event1['title'][:20],
-                        text=event1['startDate'] + ' - ' + event1['endDate'].replace(
-                            '2021.', '').replace('2020.', '') + ' ' + event1['location'] + '\n' + event1['description'][:25] + '…',
-                        actions=[
-                            URITemplateAction(
-                                label='進入活動頁面',
-                                uri=event1['href']
-                            )
-                        ]
-                    )
-                ]
-            )
+    )
+    return reply_message
+
+
+def pick_random_activitiesD(activities):
+    # 選擇 3 個隨機活動
+    rand_nums = random.sample(range(len(activities)), 3)
+    activity1 = activities[rand_nums[0]]
+    activity2 = activities[rand_nums[1]]
+    activity3 = activities[rand_nums[2]]
+    reply_message = TemplateSendMessage(
+        alt_text='Carousel Template',
+        template=CarouselTemplate(
+            columns=[
+                CarouselColumn(
+                    thumbnail_image_url=activity1['image'],
+                    title=activity1['title'][:20],
+                    text=activity1['startDate'] + ' - ' + activity1['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity1['location'] + '\n' + activity1['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity1['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity2['image'],
+                    title=activity2['title'][:20],
+                    text=activity2['startDate'] + ' - ' + activity2['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity2['location'] + '\n' + activity2['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity2['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity3['image'],
+                    title=activity3['title'][:20],
+                    text=activity3['startDate'] + ' - ' + activity3['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity3['location'] + '\n' + activity3['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity3['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
+                    title='換下一組',
+                    text='換下一組',
+                    actions=[
+                        PostbackTemplateAction(
+                            label='換下一組',
+                            data='action=againD'
+                        )
+                    ]
+                )
+            ]
         )
-    elif len(target_events) == 0:
-        reply_message = TextSendMessage(
-            text='沒有活動了！'
+    )
+    return reply_message
+
+
+def pick_random_activitiesTemp(activities):
+    # 選擇 3 個隨機活動
+    rand_nums = random.sample(range(len(activities)), 3)
+    activity1 = activities[rand_nums[0]]
+    activity2 = activities[rand_nums[1]]
+    activity3 = activities[rand_nums[2]]
+    reply_message = TemplateSendMessage(
+        alt_text='Carousel Template',
+        template=CarouselTemplate(
+            columns=[
+                CarouselColumn(
+                    thumbnail_image_url=activity1['image'],
+                    title=activity1['title'][:20],
+                    text=activity1['startDate'] + ' - ' + activity1['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity1['location'] + '\n' + activity1['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity1['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity2['image'],
+                    title=activity2['title'][:20],
+                    text=activity2['startDate'] + ' - ' + activity2['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity2['location'] + '\n' + activity2['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity2['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url=activity3['image'],
+                    title=activity3['title'][:20],
+                    text=activity3['startDate'] + ' - ' + activity3['endDate'].replace('2021.', '').replace('2020.', '').replace(
+                        '2019.', '').replace('2018.', '') + ' ' + activity3['location'] + '\n' + activity3['description'][:25] + '…',
+                    actions=[
+                        URITemplateAction(
+                            label='進入活動頁面',
+                            uri=activity3['href']
+                        )
+                    ]
+                ),
+                CarouselColumn(
+                    thumbnail_image_url='https://i.imgur.com/lpnJaXe.jpg',
+                    title='換下一組',
+                    text='換下一組',
+                    actions=[
+                        PostbackTemplateAction(
+                            label='換下一組',
+                            data='action=againTemp'
+                        )
+                    ]
+                )
+            ]
         )
+    )
     return reply_message
 
 

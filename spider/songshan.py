@@ -8,11 +8,11 @@ from datetime import date
 
 def get_songshan_exhibition(url, kind, type):
     # 判斷爬取日期
-    today = datetime.date.today()
-    date_A = today - datetime.timedelta(days=1095)
+    date_A = datetime.date.today() - datetime.timedelta(days=1095)
 
     data = []
     page = 1
+
     while True:
         print(f"正在爬取第 {page} 頁")
         my_params = {'kind': kind, 'type': type, 'p': page, 'q': 'get'}
@@ -24,30 +24,34 @@ def get_songshan_exhibition(url, kind, type):
         # 整理 json 格式
         for d in divs:
             try:
+                title = d['Title'].strip()
                 image = 'https://www.songshanculturalpark.org/images/' + \
                     d['ID'] + '/' + d['CoverImage']
-                title = d['Title'].strip()
-                print(title)
                 duration = d['PublishDate'].split('~')
                 startDate = duration[0].strip().replace('/', '.')
                 endDate = duration[-1].strip().replace('/', '.')
-                if date_A > date.fromisoformat(startDate.replace('.', '-')):
-                    return data
+
+                if date.fromisoformat(startDate.replace('.', '-')) < date_A:
+                    if date.fromisoformat(endDate.replace('.', '-')) > date_A:
+                        pass
+                    else:
+                        return data
 
                 href = url + '?' + d['ID']
-                description = d['SubTitle'].strip().replace(
-                    '\n', ' ').replace('\r', ' ').replace('  ', ' ')[:40]
+                description = d['SubTitle'].strip()
+                description = "".join(description.split())[:50]
 
                 data.append(
-                    {'image': image,
-                     'title': title,
+                    {'title': title,
+                     'image': image,
                      'startDate': startDate,
                      'endDate': endDate,
                      'description': description,
                      'href': href,
                      'type': '展覽活動',
-                     'location': '松山文創園區'
-                     })
+                     'location': '松山文創園區'}
+                )
+                print(f'爬取頁面「{title}」成功！')
             except:
                 pass
         page += 1
@@ -56,8 +60,7 @@ def get_songshan_exhibition(url, kind, type):
 
 def get_songshan_activity(url, kind, type):
     # 判斷爬取日期
-    today = datetime.date.today()
-    date_A = today - datetime.timedelta(days=730)
+    date_A = datetime.date.today() - datetime.timedelta(days=730)
 
     data = []
     page = 1
@@ -72,22 +75,21 @@ def get_songshan_activity(url, kind, type):
         # 整理 json 格式
         for d in divs:
             try:
+                title = d['Title'].strip()
                 image = 'https://www.songshanculturalpark.org/images/' + \
                     d['ID'] + '/' + d['CoverImageFileName']
-                title = d['Title'].strip()
-                print(title)
                 startDate = d['ActivityBeginDate'].strip().replace('/', '.')
                 endDate = d['ActivityEndDate'].strip().replace('/', '.')
                 if date_A > date.fromisoformat(startDate.replace('.', '-')):
                     return data
 
                 href = url + '?' + d['ID']
-                description = d['SubTitle'].strip().replace(
-                    '\n', ' ').replace('\r', ' ').replace('  ', ' ')[:50]
+                description = d['SubTitle'].strip()
+                description = "".join(description.split())[:50]
 
                 data.append(
-                    {'image': image,
-                     'title': title,
+                    {'title': title,
+                     'image': image,
                      'startDate': startDate,
                      'endDate': endDate,
                      'description': description,
@@ -95,6 +97,7 @@ def get_songshan_activity(url, kind, type):
                      'type': '論壇講座',
                      'location': '松山文創園區'
                      })
+                print(f'爬取頁面「{title}」成功！')
             except:
                 pass
         page += 1
@@ -125,6 +128,8 @@ def main():
 
     with open('songshan.json', mode='w', encoding='utf-8') as f:
         json.dump(songshan, f, indent=4, sort_keys=False, ensure_ascii=False)
+
+    print('「松山文創園區」爬取完成！')
 
 
 if __name__ == '__main__':
