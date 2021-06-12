@@ -276,12 +276,21 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '豆' in msg:
+    elif '豆' in msg & 's' in msg:
         try:
-            image_url = db.soybeanMile[random.randrange(len(db.soybeanMile))]
+            rand_nums = random.sample(range(len(db.soybeanMile)), 3)
+            image_url1 = db.soybeanMile[rand_nums[0]]
+            image_url2 = db.soybeanMile[rand_nums[1]]
+            image_url3 = db.soybeanMile[rand_nums[2]]
             reply_message = ImageSendMessage(
-                original_content_url=image_url,
-                preview_image_url=image_url
+                original_content_url=image_url1,
+                preview_image_url=image_url1
+            ), ImageSendMessage(
+                original_content_url=image_url2,
+                preview_image_url=image_url2
+            ), ImageSendMessage(
+                original_content_url=image_url3,
+                preview_image_url=image_url3
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
         except:
