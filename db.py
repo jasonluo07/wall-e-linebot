@@ -812,7 +812,7 @@ eventsA = [
         "description": "繼2018年「侏羅紀Ｘ恐龍樂園」帶來的生命奧妙與感動，從2019年「侏羅紀Ｘ恐龍水世界」領悟了世界之",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1a37584e-a580-4329-a4f9-203bae112e7e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "失敗博物館（Museum of Failure）",
@@ -822,7 +822,7 @@ eventsA = [
         "description": "生活中數以萬計的產品被發明，隨著時代變遷及技術更新，有些產品在市場上大受歡迎，有些則因為不適用被淘汰",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b5a527cd-4195-4453-a6a4-d5d1a8bc65c1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "印象‧莫內—光影體驗展",
@@ -832,7 +832,7 @@ eventsA = [
         "description": "2020年以【再見梵谷—光影體驗展】感動全台近30萬人的策劃團隊，耗時兩年打造全新沈浸式體驗展，完美",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9ed8dff1-bdc7-4659-ba79-275ed63a63da",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2021 X-site《爆炸容器》－多重真實",
@@ -842,7 +842,7 @@ eventsA = [
         "description": "反思後工業建築的末日感，作品回應「多重真實」之命題，以聲音作為建築材料，形成多重",
         "href": "https://pse.is/3jkts8",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "住家小宇宙",
@@ -852,7 +852,7 @@ eventsA = [
         "description": "「住家小宇宙」展出本館典藏的黃薇珉作品《住宿》，將觀看畫作的視覺經驗，連結感知，",
         "href": "https://pse.is/3hfvmp",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "暗通款曲 快閃餐吧 Underground River Pop-up Deli & Bar",
@@ -862,7 +862,7 @@ eventsA = [
         "description": "iDrip集結世界冠軍與茶、咖啡大師的手藝及選材，佐以米其林一星餐館——大三元酒樓一甲子的精湛廚藝，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21052211510176911",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "暗通款曲 快閃餐吧 Underground River Pop-up Deli & Bar",
@@ -872,7 +872,7 @@ eventsA = [
         "description": "iDrip集結世界冠軍與茶、咖啡大師的手藝及選材，佐以米其林一星餐館——大三元酒樓一甲子的精湛廚藝，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21052211510176911",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021松山文創園區學園祭",
@@ -882,7 +882,7 @@ eventsA = [
         "description": "松山文創學園祭為松山文創園區扶植文創人才、挖掘原創精神，以學生族群為主角，提供創意的舞臺，為園區與全",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?817b118f-4977-485d-9308-cd7e21517a8a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2021松山文創園區學園祭-專屬優惠",
@@ -892,7 +892,7 @@ eventsA = [
         "description": "期間限定專屬優惠，只要你是學生，那你就適用",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c4050c13-e83e-4472-9584-5b7f37104078",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "塩田千春：顫動的靈魂",
@@ -902,7 +902,7 @@ eventsA = [
         "description": "「塩田千春：顫動的靈魂」是以柏林為據點、現今活躍於世界舞台的藝術家塩田千春舉辦迄",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=686&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "大遷徙：盧明德",
@@ -912,7 +912,7 @@ eventsA = [
         "description": "「遷徙」是指動物或人類因為某種原因，而進行一種大規模、長距離改變居住地的遷移行為",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=685&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "光透美學–玻璃藝術的無限可能",
@@ -922,7 +922,7 @@ eventsA = [
         "description": "玻璃的主要成分是矽砂，是人類文明發展史上最早誕生的人工材料之一，為矽酸鹽類的透明",
         "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=10207&request_locale=tw",
         "type": "展覽活動",
-        "location": "中正紀念堂"
+        "location": "中正"
     },
     {
         "title": "花園──王煜松個展",
@@ -932,7 +932,7 @@ eventsA = [
         "description": "王煜松以作品《花蓮白燈塔》獲選為「2017臺北美術獎」首獎得主，其近年創作著力於",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=684&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "鹿野紅烏龍的冒險奇幻之旅",
@@ -942,7 +942,7 @@ eventsA = [
         "description": "2008年誕生於東部淨土的新茶品，臺東鹿野得天獨厚的風土環境，再以紅烏龍獨特工藝，雜揉出東西方的經典",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b69cdd32-11e3-4f9d-8359-34a815001e7b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "埃里克．邦特 法國玻璃雕塑大師個展",
@@ -952,7 +952,7 @@ eventsA = [
         "description": "「世界最大穹頂玻璃造物神」──法國傳奇穹頂藝術家埃里克．邦特EricBonte，首度在台北松山文創園",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0a0296c5-64f2-4b36-aa33-28060ad93d7b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Finders Keepers：陳建榮個展",
@@ -962,7 +962,7 @@ eventsA = [
         "description": "本展延續藝術家近年的創作核心，將對人為秩序的深沉憧憬，轉化為覆蓋、轉譯與改寫等方",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=681&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "injector after Null：鄭先喻個展",
@@ -972,7 +972,7 @@ eventsA = [
         "description": "延續鄭先喻2017年個展「injector before Null」中作品《sa",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=683&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "心神出遊─廖祈羽個展",
@@ -982,7 +982,7 @@ eventsA = [
         "description": "廖祈羽睽違三年推出全新個展。展覽主要分為兩個系列創作：延續藝術家近年以手繪攝影佈",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=682&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "變形中：傅雅雯個展",
@@ -992,7 +992,7 @@ eventsA = [
         "description": "傅雅雯在作品《變形中》中嘗試運用移動感應技術，以身體的力量為媒介讓物體產生運動。",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=680&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "怎辦！字型怪怪的？Oops！The Fonts Went Wrong...",
@@ -1002,7 +1002,7 @@ eventsA = [
         "description": "虛擬國度中，文字因為奇怪的病毒感染，忽然有了自己的意識與聲音。但它們竟吵成一團，讓居民不堪其擾。有些",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f93dc4c0-85fc-4450-b51b-44c0c5900833",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2021年台北國際自行車展創新設計獎｜獲獎作品特展",
@@ -1012,7 +1012,7 @@ eventsA = [
         "description": "iF台北設計沙龍首次以實體產品展出2021年台北國際自行車展創新設計獎獲獎作品。檔期氛圍(I)、(I",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a61dafad-e6ae-40fd-8571-34fe549eb5b8",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "消消防災BLOCK DISASTER-防災設計展",
@@ -1022,7 +1022,7 @@ eventsA = [
         "description": "自921大地震後，台灣各界透過防災教育深入校園、建立防災社區、防災士培育不斷地提升民眾的防災意識。然",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b8ae1405-34c8-492b-a2a0-23fbbdacdd47",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "本島舍快閃店｜木屋裡的印花布作",
@@ -1032,7 +1032,7 @@ eventsA = [
         "description": "我們的快閃店位在松山文創園區內的「松菸小賣所二號店」在上個世紀，它是ㄧ間可愛的松菸工廠人員出入口檢查",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?764d2f96-8bb6-46b9-b21c-a0d5eff883bc",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "松山文創-五月展演攻略",
@@ -1042,7 +1042,7 @@ eventsA = [
         "description": "這裡提供您最新的展演攻略，想看什麼展覽就進來看看吧～",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8546601c-419b-4b72-b1d9-9a9d055a04ce",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "覺醒浪潮-迢迢民主路上的自由呼聲特展",
@@ -1052,7 +1052,7 @@ eventsA = [
         "description": "邀請民眾回到民主現場，認識日治時期以來臺灣爭取民主人權的過程，一同回顧歷史、展望",
         "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04758&request_locale=tw",
         "type": "展覽活動",
-        "location": "中正紀念堂"
+        "location": "中正"
     },
     {
         "title": "3D視角・EYE TAIWAN",
@@ -1062,7 +1062,7 @@ eventsA = [
         "description": "喬好視角，3D立現 3D藝術展中正紀念堂奇幻登場 千呼萬喚，以臺灣在地特色主題的",
         "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04697&request_locale=tw",
         "type": "展覽活動",
-        "location": "中正紀念堂"
+        "location": "中正"
     },
     {
         "title": "接近─賴志盛",
@@ -1072,7 +1072,7 @@ eventsA = [
         "description": "藝想迴廊位於本館大廳挑高三層樓所圍塑的開放區域。有別於館內典型的白盒子展覽場，這",
         "href": "https://pse.is/3b5ayv",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     }
 ]
 
@@ -1086,7 +1086,7 @@ eventsB = [
         "description": "台灣音樂藝術才能教育制度培育下的優秀年輕學子，學習打擊樂多年的雙胞胎姊妹，用「雙擊」為主題，將創新多",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050411232385963",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團 《艾力克斯夢遊仙境》",
@@ -1096,7 +1096,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032616350098681",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場 音樂繪畫劇場《展覽會之畫》",
@@ -1106,7 +1106,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040113475071834",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團-繪本創作工作坊——爸爸媽媽，我跟你們說一個故事",
@@ -1116,7 +1116,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】帶領孩子發揮想像力，鼓勵孩",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118111103331",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團-繪本創作工作坊——如果如果，我是主角",
@@ -1126,7 +1126,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】戲劇教育現為英國培養學童認",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118295930152",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場 《時空修復師》",
@@ -1136,7 +1136,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032616012658286",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球之聲」——聲音徽章",
@@ -1146,7 +1146,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415561000882",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球火山」——火山爆發刮畫",
@@ -1156,7 +1156,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415540144216",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（大人戲劇場）",
@@ -1166,7 +1166,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】Let’sDEEPPLAY",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118183042622",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（親子繪畫場）",
@@ -1176,7 +1176,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】音樂可以變成線條、故事能不",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118243031504",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球生物」——奇幻蝴蝶旋轉畫",
@@ -1186,7 +1186,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415513597078",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】天馬戲創作劇團 馬戲音樂劇II《誰偷了我的，超能力！》",
@@ -1196,7 +1196,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032615371450404",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團-親子肢體互動工作坊",
@@ -1206,7 +1206,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】肢體是家長與孩子互動最原始",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118361037512",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】天馬戲創作劇團-紅旗舉起來，舞旗等你來",
@@ -1216,7 +1216,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118032819824",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團《國王與國王》",
@@ -1226,7 +1226,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032615120217260",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（親子戲劇場）",
@@ -1236,7 +1236,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】跟著聲音一起玩戲劇！聲音有",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117093362647",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（親子音樂場）",
@@ -1246,7 +1246,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】聲音有高有低、有長有短、有",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117184713404",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場-「各位觀眾，登場的是」—— 用燈光做顏料工作坊",
@@ -1256,7 +1256,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】一、引起動機：說明燈光的方",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117554616420",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場-「線在玩什麼？」——找到聲音裡的線條工作坊",
@@ -1266,7 +1266,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】一、引起動機：將聲音轉譯為",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116452209825",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場-「在家爬山・在客廳冒險」——發揮空間想像力工作坊",
@@ -1276,7 +1276,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】一、引起動機：透過想像力身",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116543451788",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】天馬戲創作劇團-生活中的馬戲",
@@ -1286,7 +1286,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117022800628",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】創造焦點《Free Play》",
@@ -1296,7 +1296,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032610565417248",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球主人翁」——印章自畫像",
@@ -1306,7 +1306,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415491391901",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球迷宮」——探索號彈珠檯",
@@ -1316,7 +1316,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415453747824",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球奇景」——色彩濾鏡",
@@ -1326,7 +1326,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415110053787",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團-口技工作坊",
@@ -1336,7 +1336,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】本工作坊將由口技演員－錢君",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116242609987",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】創造焦點-與馬戲同樂工作坊",
@@ -1346,7 +1346,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116140469403",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團-扮裝工作坊",
@@ -1356,7 +1356,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】本工作坊由扮裝皇后夢蘭嬌帶",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040115573070931",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團-小丑工作坊",
@@ -1366,7 +1366,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】小丑透過聲音表情、肢體動作",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040115403613065",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "跨界流行Rock ’n Roll",
@@ -1376,7 +1376,7 @@ eventsB = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21042212052112802",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-心流工作坊",
@@ -1386,7 +1386,7 @@ eventsB = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】有多久沒有拿起畫筆，為自己",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040115375120617",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     }
 ]
 
@@ -1400,7 +1400,7 @@ eventsC = [
         "description": "iDrip集結世界冠軍與茶、咖啡大師的手藝及選材，佐以米其林一星餐館——大三元酒樓一甲子的精湛廚藝，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21052211510176911",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ASTROLOGY氣味星象漫遊",
@@ -1410,7 +1410,7 @@ eventsC = [
         "description": "因應疫情升級，本活動至6/08(二)暫停營業相關資訊請見【最新消息公告】（請點連結）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21051112241150676",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "品嚐人蔘 林俞槿emma個展",
@@ -1420,7 +1420,7 @@ eventsC = [
         "description": "因應疫情升級，本活動至6/08(二)暫停營業相關資訊請見【最新消息公告】（請點連結）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21051112345521165",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     }
 ]
 
@@ -1437,7 +1437,7 @@ eventsALL = [
         "description": "台灣音樂藝術才能教育制度培育下的優秀年輕學子，學習打擊樂多年的雙胞胎姊妹，用「雙擊」為主題，將創新多",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050411232385963",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團 《艾力克斯夢遊仙境》",
@@ -1447,7 +1447,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032616350098681",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場 音樂繪畫劇場《展覽會之畫》",
@@ -1457,7 +1457,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040113475071834",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團-繪本創作工作坊——爸爸媽媽，我跟你們說一個故事",
@@ -1467,7 +1467,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】帶領孩子發揮想像力，鼓勵孩",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118111103331",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團-繪本創作工作坊——如果如果，我是主角",
@@ -1477,7 +1477,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】戲劇教育現為英國培養學童認",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118295930152",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場 《時空修復師》",
@@ -1487,7 +1487,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032616012658286",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球之聲」——聲音徽章",
@@ -1497,7 +1497,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415561000882",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球火山」——火山爆發刮畫",
@@ -1507,7 +1507,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415540144216",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（大人戲劇場）",
@@ -1517,7 +1517,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】Let’sDEEPPLAY",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118183042622",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（親子繪畫場）",
@@ -1527,7 +1527,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】音樂可以變成線條、故事能不",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118243031504",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球生物」——奇幻蝴蝶旋轉畫",
@@ -1537,7 +1537,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415513597078",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】天馬戲創作劇團 馬戲音樂劇II《誰偷了我的，超能力！》",
@@ -1547,7 +1547,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032615371450404",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】何日君再來劇團-親子肢體互動工作坊",
@@ -1557,7 +1557,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】肢體是家長與孩子互動最原始",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118361037512",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】天馬戲創作劇團-紅旗舉起來，舞旗等你來",
@@ -1567,7 +1567,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040118032819824",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團《國王與國王》",
@@ -1577,7 +1577,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032615120217260",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（親子戲劇場）",
@@ -1587,7 +1587,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】跟著聲音一起玩戲劇！聲音有",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117093362647",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-快樂感官工作坊（親子音樂場）",
@@ -1597,7 +1597,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】聲音有高有低、有長有短、有",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117184713404",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場-「各位觀眾，登場的是」—— 用燈光做顏料工作坊",
@@ -1607,7 +1607,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】一、引起動機：說明燈光的方",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117554616420",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場-「線在玩什麼？」——找到聲音裡的線條工作坊",
@@ -1617,7 +1617,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】一、引起動機：將聲音轉譯為",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116452209825",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】磚木取夥故事劇場-「在家爬山・在客廳冒險」——發揮空間想像力工作坊",
@@ -1627,7 +1627,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】一、引起動機：透過想像力身",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116543451788",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】天馬戲創作劇團-生活中的馬戲",
@@ -1637,7 +1637,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040117022800628",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】創造焦點《Free Play》",
@@ -1647,7 +1647,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21032610565417248",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球主人翁」——印章自畫像",
@@ -1657,7 +1657,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415491391901",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球迷宮」——探索號彈珠檯",
@@ -1667,7 +1667,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415453747824",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節×慢慢說工作坊「星球奇景」——色彩濾鏡",
@@ -1677,7 +1677,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21050415110053787",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團-口技工作坊",
@@ -1687,7 +1687,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】本工作坊將由口技演員－錢君",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116242609987",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】創造焦點-與馬戲同樂工作坊",
@@ -1697,7 +1697,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040116140469403",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團-扮裝工作坊",
@@ -1707,7 +1707,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】本工作坊由扮裝皇后夢蘭嬌帶",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040115573070931",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山親子表藝節】夾腳拖劇團-小丑工作坊",
@@ -1717,7 +1717,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】小丑透過聲音表情、肢體動作",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040115403613065",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "域外藝嚮：形狀一個藝文空間的未竟與可能",
@@ -1727,7 +1727,7 @@ eventsALL = [
         "description": "*竹圍工作室臉書頁直播",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21061015465399803",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "跨界流行Rock ’n Roll",
@@ -1737,7 +1737,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21042212052112802",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "侏羅紀Ｘ恐龍3.0 台北站",
@@ -1747,7 +1747,7 @@ eventsALL = [
         "description": "繼2018年「侏羅紀Ｘ恐龍樂園」帶來的生命奧妙與感動，從2019年「侏羅紀Ｘ恐龍水世界」領悟了世界之",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1a37584e-a580-4329-a4f9-203bae112e7e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "失敗博物館（Museum of Failure）",
@@ -1757,7 +1757,7 @@ eventsALL = [
         "description": "生活中數以萬計的產品被發明，隨著時代變遷及技術更新，有些產品在市場上大受歡迎，有些則因為不適用被淘汰",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b5a527cd-4195-4453-a6a4-d5d1a8bc65c1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "印象‧莫內—光影體驗展",
@@ -1767,7 +1767,7 @@ eventsALL = [
         "description": "2020年以【再見梵谷—光影體驗展】感動全台近30萬人的策劃團隊，耗時兩年打造全新沈浸式體驗展，完美",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9ed8dff1-bdc7-4659-ba79-275ed63a63da",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【華山親子表藝節】找我劇場-心流工作坊",
@@ -1777,7 +1777,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動取消辦理【2021華山親子表藝節取消公告】【活動內容】有多久沒有拿起畫筆，為自己",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21040115375120617",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Claire老師《超認真英文課》",
@@ -1787,7 +1787,7 @@ eventsALL = [
         "description": "Claire老師《超認真英文課》EnglishAlphabetChallenge",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21042114510611337",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】歡迎光臨，這裡是用心染上青春的「ㄕˋ」場",
@@ -1797,7 +1797,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21050611331960357",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021 X-site《爆炸容器》－多重真實",
@@ -1807,7 +1807,7 @@ eventsALL = [
         "description": "反思後工業建築的末日感，作品回應「多重真實」之命題，以聲音作為建築材料，形成多重",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=687&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "住家小宇宙",
@@ -1817,7 +1817,7 @@ eventsALL = [
         "description": "「住家小宇宙」展出本館典藏的黃薇珉作品《住宿》，將觀看畫作的視覺經驗，連結感知，",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=688&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "暗通款曲 快閃餐吧 Underground River Pop-up Deli & Bar",
@@ -1827,7 +1827,7 @@ eventsALL = [
         "description": "iDrip集結世界冠軍與茶、咖啡大師的手藝及選材，佐以米其林一星餐館——大三元酒樓一甲子的精湛廚藝，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21052211510176911",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "桌遊1+1 帶你玩起來！",
@@ -1837,7 +1837,7 @@ eventsALL = [
         "description": "桌遊1+1帶你玩起來！",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022014473792751",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Boris老師教你玩創意《華麗小島用手畫!》",
@@ -1847,7 +1847,7 @@ eventsALL = [
         "description": "Boris老師教你玩創意《華麗小島用手畫!》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21042114302454327",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ASTROLOGY氣味星象漫遊",
@@ -1857,7 +1857,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動至6/08(二)暫停營業相關資訊請見【最新消息公告】（請點連結）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21051112241150676",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "方塊動物砂畫",
@@ -1867,7 +1867,7 @@ eventsALL = [
         "description": "第一場14:00-15:00/第二場15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21042114130439833",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021「成為社會人」系列講座｜南港瓶蓋廠的前世今生",
@@ -1877,7 +1877,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21041513263754082",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "讀衣V藝術時尚跨界展",
@@ -1887,7 +1887,7 @@ eventsALL = [
         "description": "為配合政府防疫規範，暫停開放(依活動公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21042218335496536",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠流姐姐哥哥說故事《媽媽在哪裡?》、《祖父的祖父的祖父的祖父》",
@@ -1897,7 +1897,7 @@ eventsALL = [
         "description": "遠流姐姐哥哥說故事《媽媽在哪裡?》、《祖父的祖父的祖父的祖父》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031716420416425",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "｜青鳥帶你去旅行：出走的閱讀#2｜",
@@ -1907,7 +1907,7 @@ eventsALL = [
         "description": "｜青鳥帶你去旅行：出走的閱讀#2｜＃活動報名→https://www.accupass.com/go",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21050214434174753",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "世新大學廣電系27屆畢業成果複合展『日月放映所』",
@@ -1917,7 +1917,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21042820100414403",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "世新大學廣電系27屆畢業成果複合展『日月放映所』",
@@ -1927,7 +1927,7 @@ eventsALL = [
         "description": "世新廣電畢展為世新大學廣電系於畢業時所舉辦的展覽。廣電系應屆畢業學生須從劇論、專輯、廣播、新媒體、影",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21050419403727788",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021松山文創園區學園祭",
@@ -1937,7 +1937,7 @@ eventsALL = [
         "description": "松山文創學園祭為松山文創園區扶植文創人才、挖掘原創精神，以學生族群為主角，提供創意的舞臺，為園區與全",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?817b118f-4977-485d-9308-cd7e21517a8a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2021松山文創園區學園祭-專屬優惠",
@@ -1947,7 +1947,7 @@ eventsALL = [
         "description": "期間限定專屬優惠，只要你是學生，那你就適用",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c4050c13-e83e-4472-9584-5b7f37104078",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "香蕉秘密會－說不盡的美麗風華",
@@ -1957,7 +1957,7 @@ eventsALL = [
         "description": "報名期間04/2216:51~05/0118:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21042216525943952",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "香蕉秘密會－說不盡的美麗風華",
@@ -1967,7 +1967,7 @@ eventsALL = [
         "description": "報名期間04/2216:51~05/0118:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21042216525943952",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台北華山光影婚紗節",
@@ -1977,7 +1977,7 @@ eventsALL = [
         "description": "2021/05/01(11:0020:00)至2021/05/02(11:0018:00)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21040921262020008",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "生命的焦距 Focal Length in Life",
@@ -1987,7 +1987,7 @@ eventsALL = [
         "description": "5/109:00-19:005/209:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21041609592681951",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "島嶼採集課《拓印植物圖鑑》",
@@ -1997,7 +1997,7 @@ eventsALL = [
         "description": "第一場14:00-15:00/第二場15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031014532645113",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "生命的焦距 Focal Length in Life",
@@ -2007,7 +2007,7 @@ eventsALL = [
         "description": "5/109:00-19:005/209:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21041609592681951",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台北華山光影婚紗節",
@@ -2017,7 +2017,7 @@ eventsALL = [
         "description": "2021/05/01(11:0020:00)至2021/05/02(11:0018:00)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21040921262020008",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Red Bull Bar Block 無夜城",
@@ -2027,7 +2027,7 @@ eventsALL = [
         "description": "每個週末只有48小時的時限，但這個週末將給你的精彩體驗，沒有極限！一張車票，歡迎來到無夜城，精選台北",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?963fbf28-e00e-48a3-86af-4f00ca25cb5b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "塩田千春：顫動的靈魂",
@@ -2037,7 +2037,7 @@ eventsALL = [
         "description": "「塩田千春：顫動的靈魂」是以柏林為據點、現今活躍於世界舞台的藝術家塩田千春舉辦迄",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=zh-tw&id=686&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "阿里山EASY GO精選好物 年中好禮分享節",
@@ -2047,7 +2047,7 @@ eventsALL = [
         "description": "「阿里山EASYGO年中好禮分享節」一、活動介紹：2021/04/30(五)~05/02(日)每日1",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21033015483325612",
         "type": "展覽活動&&論壇講座&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "浪漫╳閱讀──生活書展",
@@ -2057,7 +2057,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主，5/2至18:00)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21041520081632531",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "阿里山EASY GO精選好物 年中好禮分享節",
@@ -2067,7 +2067,7 @@ eventsALL = [
         "description": "「阿里山EASYGO年中好禮分享節」一、活動介紹：2021/04/30(五)~05/02(日)每日1",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21033015483325612",
         "type": "展覽活動&&論壇講座&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "體驗・好感日常｜器物的美好滋味",
@@ -2077,7 +2077,7 @@ eventsALL = [
         "description": "因應疫情升級，6/08(二)前所有活動皆暫停相關資訊請見【最新消息公告】（請點連結）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21050214160622438",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "果敢果感｜夏天到了 芒果熟了",
@@ -2087,7 +2087,7 @@ eventsALL = [
         "description": "因應疫情升級，6/08(二)前所有活動皆暫停相關資訊請見【最新消息公告】（請點連結）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21050214175895937",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《拉庫拉庫溪流域布農族舊社溯源與重塑系列叢書》新書發表會",
@@ -2097,7 +2097,7 @@ eventsALL = [
         "description": "2017年，花蓮縣政府獲得文化部的補助，辦理「再造歷史現場專案計畫—拉庫拉庫溪流域布農族舊社溯源與重",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21041217311744655",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Claire老師《超認真英文課》",
@@ -2107,7 +2107,7 @@ eventsALL = [
         "description": "Claire老師《超認真英文課》EnglishAlphabetChallenge",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031717134937360",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Boris老師教你玩創意《驚奇動物翻翻書》",
@@ -2117,7 +2117,7 @@ eventsALL = [
         "description": "Boris老師教你玩創意《驚奇動物翻翻書》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21032112253323738",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "泰北高中105週年校慶演藝科科展暨畢業展",
@@ -2127,7 +2127,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21031218074979872",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "蔬果怪獸出沒！",
@@ -2137,7 +2137,7 @@ eventsALL = [
         "description": "第一梯次14:00-15:00、第二梯次15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031717020720055",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "亞洲城鄉創生沙龍－風土餐桌與市集策展",
@@ -2147,7 +2147,7 @@ eventsALL = [
         "description": "當世界正在震盪，台灣鄉鎮的力量卻蓄勢待發。創生，需要技能、資源，更需要素養。立足鄉鎮、放眼亞洲，傾聽",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21041511194969441",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【紙本和影像的互文——青年創作成果發表會】",
@@ -2157,7 +2157,7 @@ eventsALL = [
         "description": "作家、影評人陳韋任X避風港文化編輯陳珮瑄「未來學家」彭啓東X春暉映像執行長孔繁芸從影像到文字化、從影",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21041014334064802",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大遷徙：盧明德",
@@ -2167,7 +2167,7 @@ eventsALL = [
         "description": "「遷徙」是指動物或人類因為某種原因，而進行一種大規模、長距離改變居住地的遷移行為",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=685&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "2021臺灣文博會",
@@ -2177,7 +2177,7 @@ eventsALL = [
         "description": "週五至週日10:00-21:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21040210512797227",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "造樂器，玩聲音",
@@ -2187,7 +2187,7 @@ eventsALL = [
         "description": "造樂器，玩聲音",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21032312195970263",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021臺灣文博會",
@@ -2197,7 +2197,7 @@ eventsALL = [
         "description": "週五至週日10:00-21:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21040210512797227",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "光透美學–玻璃藝術的無限可能",
@@ -2207,7 +2207,7 @@ eventsALL = [
         "description": "玻璃的主要成分是矽砂，是人類文明發展史上最早誕生的人工材料之一，為矽酸鹽類的透明",
         "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=10207&request_locale=tw",
         "type": "展覽活動",
-        "location": "中正紀念堂"
+        "location": "中正"
     },
     {
         "title": "華山論藝-泰北設計大放藝彩 105週年校慶系列活動",
@@ -2217,7 +2217,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21030516391714948",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "環保署「環境關懷設計競賽」頒獎典禮暨作品成果展 以設計推動永續發展",
@@ -2227,7 +2227,7 @@ eventsALL = [
         "description": "行政院環保署積極擴大環境教育的參與層面與多元可能性，追求環境教育的創新與發展，讓環境教育成果更為具體",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?06013acc-71df-40ae-8cf5-c5692916fc0d",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "華麗島小教室《創意夢幻星空瓶》",
@@ -2237,7 +2237,7 @@ eventsALL = [
         "description": "華麗島小教室《創意夢幻星空瓶》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031717093236078",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【2021科研發光】 前進未來 青年講堂-AI智慧闖入未來新生活",
@@ -2247,7 +2247,7 @@ eventsALL = [
         "description": "(13:00開放報到入場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031514023858150",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "共伴計畫：共伴的社會設計之旅",
@@ -2257,7 +2257,7 @@ eventsALL = [
         "description": "報名期間03/1210:00~04/0810:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031210540939466",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "品嚐人蔘 林俞槿emma個展",
@@ -2267,7 +2267,7 @@ eventsALL = [
         "description": "因應疫情升級，本活動至6/08(二)暫停營業相關資訊請見【最新消息公告】（請點連結）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21051112345521165",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《Non-Odinary》余金文x張堅貴",
@@ -2277,7 +2277,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21030511322979331",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "花園──王煜松個展",
@@ -2287,7 +2287,7 @@ eventsALL = [
         "description": "王煜松以作品《花蓮白燈塔》獲選為「2017臺北美術獎」首獎得主，其近年創作著力於",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=684&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "2021數感嘉年華",
@@ -2297,7 +2297,7 @@ eventsALL = [
         "description": "數感嘉年華為一邀請社會大眾走入數學的年度盛典。藉著眾多數學愛好者們聚集的場合，我們邀約逾30組攤商聯",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21033015363903620",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021數感嘉年華",
@@ -2307,7 +2307,7 @@ eventsALL = [
         "description": "數感嘉年華為一邀請社會大眾走入數學的年度盛典。藉著眾多數學愛好者們聚集的場合，我們邀約逾30組攤商聯",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21033015363903620",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《古早味零食》版畫套色工作坊",
@@ -2317,7 +2317,7 @@ eventsALL = [
         "description": "《古早味零食》版畫套色工作坊",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031716514764927",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "One-Forty 混（Mix）音樂節",
@@ -2327,7 +2327,7 @@ eventsALL = [
         "description": "[One-Forty混（Mix）音樂節]4/4（日）華山登場！全台第一場由東南亞移工樂團和台灣樂團共",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21033118444167248",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "島嶼採集課《發現恐龍化石！》",
@@ -2337,7 +2337,7 @@ eventsALL = [
         "description": "第一梯次14:00-15:00、第二梯次15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031716390829878",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021「成為社會人」系列講座｜南港瓶蓋廠的前世今生",
@@ -2347,7 +2347,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21031717523768240",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "揹起REBIRTH，文化風景袋著走!",
@@ -2357,7 +2357,7 @@ eventsALL = [
         "description": "當看展蔚為風潮，展覽後的大量輸出物何去何從?以台北市過去10年為例，文化活動所衍生的輸出帆布，累積超",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21033110421005908",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台東紅特展",
@@ -2367,7 +2367,7 @@ eventsALL = [
         "description": "「到不了台東，那就把台東帶回家吧」台東是台灣最後一片淨土，坐擁山和海的懷抱，純淨水質和肥沃土地的滋養",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21033110510108662",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台灣森永四季之詩限定3D藝術牆",
@@ -2377,7 +2377,7 @@ eventsALL = [
         "description": "📣這次文創與牛奶糖的結合。台灣森永四季之詩限定3D藝術。喜愛文學的朋友，趕流行瘋潮流的同學，趕快拉著",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21040214355958800",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "鹿野紅烏龍的冒險奇幻之旅",
@@ -2387,7 +2387,7 @@ eventsALL = [
         "description": "2008年誕生於東部淨土的新茶品，臺東鹿野得天獨厚的風土環境，再以紅烏龍獨特工藝，雜揉出東西方的經典",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b69cdd32-11e3-4f9d-8359-34a815001e7b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Digital Craft Meetup 探索數位工藝 開發創新的可能性",
@@ -2397,7 +2397,7 @@ eventsALL = [
         "description": "DigitalCraftMeetup探索數位工藝開發創新的可能性Fromtraditionalcra",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21032611023553327",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "開箱：身體現場",
@@ -2407,7 +2407,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21030810295960840",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "飛行地圖-郭飛飛2017-2021個人繪本作品原畫畫展",
@@ -2417,7 +2417,7 @@ eventsALL = [
         "description": "本檔展覽開展正值兒童節期間，繪本藝術家郭飛飛展出從2017至今，累積的6本出版作品與繪本原稿作品，其",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?98c4534b-aad0-416e-89f2-2c31d4d60953",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "小孩愛玩劇《故事玩劇盒-蠟筆盒信箱》",
@@ -2427,7 +2427,7 @@ eventsALL = [
         "description": "華麗島kidsmosaxDramaKids小孩愛玩劇《故事玩劇盒-蠟筆盒信箱》》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022811300461136",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "埃里克．邦特 法國玻璃雕塑大師個展",
@@ -2437,7 +2437,7 @@ eventsALL = [
         "description": "「世界最大穹頂玻璃造物神」──法國傳奇穹頂藝術家埃里克．邦特EricBonte，首度在台北松山文創園",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0a0296c5-64f2-4b36-aa33-28060ad93d7b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "甲蟲拼貼畫",
@@ -2447,7 +2447,7 @@ eventsALL = [
         "description": "甲蟲拼貼畫",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022015222821035",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】地方創生的風土設計課-人回來‧留得住‧過得好-找出未發現的魅力，為地方再創生機",
@@ -2457,7 +2457,7 @@ eventsALL = [
         "description": "所謂的地方魅力，指的大多是在地文化、歷史、景觀與物產的集合體，它沒有具體的形狀，卻是大家口中最能介紹",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022710421060644",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021 樂事美味釣魚機全台巡迴活動",
@@ -2467,7 +2467,7 @@ eventsALL = [
         "description": "【樂事美味釣魚機】去年場場爆滿大排長龍、網路瘋狂討論的巨無霸400倍大「樂事美味釣魚機」，今年即將改",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21032617471610018",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "數位刺繡甜點套餐:橘橘 xTajima",
@@ -2477,7 +2477,7 @@ eventsALL = [
         "description": "下午場14:30~17:00/傍晚場18:00~20:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21032611254126242",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Finders Keepers：陳建榮個展",
@@ -2487,7 +2487,7 @@ eventsALL = [
         "description": "本展延續藝術家近年的創作核心，將對人為秩序的深沉憧憬，轉化為覆蓋、轉譯與改寫等方",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=681&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "injector after Null：鄭先喻個展",
@@ -2497,7 +2497,7 @@ eventsALL = [
         "description": "延續鄭先喻2017年個展「injector before Null」中作品《sa",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=683&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "心神出遊─廖祈羽個展",
@@ -2507,7 +2507,7 @@ eventsALL = [
         "description": "廖祈羽睽違三年推出全新個展。展覽主要分為兩個系列創作：延續藝術家近年以手繪攝影佈",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=682&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "變形中：傅雅雯個展",
@@ -2517,7 +2517,7 @@ eventsALL = [
         "description": "傅雅雯在作品《變形中》中嘗試運用移動感應技術，以身體的力量為媒介讓物體產生運動。",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=680&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "怎辦！字型怪怪的？Oops！The Fonts Went Wrong...",
@@ -2527,7 +2527,7 @@ eventsALL = [
         "description": "虛擬國度中，文字因為奇怪的病毒感染，忽然有了自己的意識與聲音。但它們竟吵成一團，讓居民不堪其擾。有些",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f93dc4c0-85fc-4450-b51b-44c0c5900833",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Boris老師教你玩創意《我的找找口袋書》",
@@ -2537,7 +2537,7 @@ eventsALL = [
         "description": "Boris老師教你玩創意《我的找找口袋書》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022512074777742",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "金旋音樂節｜ 後春分特調",
@@ -2547,7 +2547,7 @@ eventsALL = [
         "description": "【金旋音樂節｜後春分特調】時間：2021/03/21（日）14:00～20:00地點：華山1914文",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031616362809718",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠山人物展－國際NPO領域導讀 x 職涯故事 x 募款祕技",
@@ -2557,7 +2557,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21031016354536234",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "繞繞線的藝術-創意海龜線畫",
@@ -2567,7 +2567,7 @@ eventsALL = [
         "description": "繞繞線的藝術-創意海龜線畫-",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022015093404811",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Jo Malone London全新熱帶島嶼花園系列香氛吧",
@@ -2577,7 +2577,7 @@ eventsALL = [
         "description": "JoMaloneLondon今年春天為了迎接Blossoms花園系列上市十周年，打造全台唯一「JoM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031311465472156",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "歪歪姊姊民俗童話時間《懷舊玩具箱》",
@@ -2587,7 +2587,7 @@ eventsALL = [
         "description": "歪歪姊姊-民俗童話時間《懷舊玩具箱》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21031014484291414",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021年台北國際自行車展創新設計獎｜獲獎作品特展",
@@ -2597,7 +2597,7 @@ eventsALL = [
         "description": "iF台北設計沙龍首次以實體產品展出2021年台北國際自行車展創新設計獎獲獎作品。檔期氛圍(I)、(I",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a61dafad-e6ae-40fd-8571-34fe549eb5b8",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "島嶼採集課《發現恐龍化石！》",
@@ -2607,7 +2607,7 @@ eventsALL = [
         "description": "島嶼採集課《發現恐龍化石!》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21030316180978184",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021「成為社會人」系列講座｜人屋物語",
@@ -2617,7 +2617,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21030309445926532",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠流姐姐哥哥說故事《蜜蜂樹》、《門鈴又響了》",
@@ -2627,7 +2627,7 @@ eventsALL = [
         "description": "遠流姐姐哥哥說故事《蜜蜂樹》、《門鈴又響了》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022014455912344",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "消消防災BLOCK DISASTER-防災設計展",
@@ -2637,7 +2637,7 @@ eventsALL = [
         "description": "自921大地震後，台灣各界透過防災教育深入校園、建立防災社區、防災士培育不斷地提升民眾的防災意識。然",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b8ae1405-34c8-492b-a2a0-23fbbdacdd47",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "安井顯太玻璃藝術 Kenta Yasui's glass art（ 致敬浮世繪暨台日玻璃藝術交流 ）",
@@ -2647,7 +2647,7 @@ eventsALL = [
         "description": "安井顯太1963年出生於日本神奈川大磯，來自琵琶湖東擁有200年美術底蘊的安井小彌太家族，是一位玻璃",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?48be429b-2c80-444e-b6b3-4c7535a3de5f",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "日台友情 Always Here",
@@ -2657,7 +2657,7 @@ eventsALL = [
         "description": "免費入場/平日:11:00-18:00、假日:10:30-18:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21030214371425304",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021臺北時裝週AW21．2021 Taipei Fashion Week AW21",
@@ -2667,7 +2667,7 @@ eventsALL = [
         "description": "臺北時裝週首度舉辦秋冬季時裝週，三月盛大開演",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?beb8a460-9eed-40e7-b158-21bf6536f382",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Do-Re-Mi 畫聲音徽章",
@@ -2677,7 +2677,7 @@ eventsALL = [
         "description": "Do-Re-Mi畫聲音徽章",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022014255148180",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "歪歪姊姊民俗童話時間《懷舊玩具箱》",
@@ -2687,7 +2687,7 @@ eventsALL = [
         "description": "歪歪姊姊-民俗童話時間《懷舊玩具箱》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022014130211533",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "賀寶芙 第三季90天健康活躍挑戰賽暨決賽",
@@ -2697,7 +2697,7 @@ eventsALL = [
         "description": "賀寶芙第三季90天健康活躍挑戰賽暨決賽",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022615070284373",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021年「美學，其實我們都有關係」-3個數據、3條人生道路、3月的第一場爐邊談話",
@@ -2707,7 +2707,7 @@ eventsALL = [
         "description": "沒有所謂的大數據，不需要5G技術，不傳簡訊、不發語音，不在雲端，讓我們回到最原始的狀態，面對面坐在一",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21021815485415947",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "以興趣之名——生態微景觀創作展",
@@ -2717,7 +2717,7 @@ eventsALL = [
         "description": "▍以興趣之名|生態微景觀創作展▍#一起進入大自然的領域#你有多久沒有關注自己的興趣了呢展覽概念:在繁",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21022520053246758",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "轉吧！色彩陀螺",
@@ -2727,7 +2727,7 @@ eventsALL = [
         "description": "分上下兩梯次，第一梯次14:00-15:00、第二梯次15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102815125953753",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台灣x約旦，一起玩砂畫",
@@ -2737,7 +2737,7 @@ eventsALL = [
         "description": "台灣x約旦，一起玩砂畫",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21011715083846160",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021「成為社會人」系列講座｜文資保存歷程中的多元思考~大谷光瑞的逍遙園",
@@ -2747,7 +2747,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21021010042410911",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "開運招財貓",
@@ -2757,7 +2757,7 @@ eventsALL = [
         "description": "開運招財貓",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111310565591661",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "泊人ANKR ▞ 綠隱密林 Asylum ▚ 音樂市集",
@@ -2767,7 +2767,7 @@ eventsALL = [
         "description": "層層音頻堆疊的有機結構，在戶外場域開展的音樂生命力包覆著人們與自然氣息的緊密觸碰規律環繞的節奏引導著",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4e933d00-80ee-4dfb-9d5f-1a388fad8be1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "華麗島小教室《黏踢踢無毒史萊姆》",
@@ -2777,7 +2777,7 @@ eventsALL = [
         "description": "第一梯次14:00-15:00、第二梯次15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21020711245458983",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠流姐姐哥哥說故事《和我玩好嗎？》、《風喜歡和我玩》",
@@ -2787,7 +2787,7 @@ eventsALL = [
         "description": "遠流姐姐哥哥說故事《和我玩好嗎？》、《風喜歡和我玩》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21011714145047454",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】後疫情時代的移動新生活",
@@ -2797,7 +2797,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21020114311701118",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Miu 朱俐靜 《來日方長》專輯音樂會",
@@ -2807,7 +2807,7 @@ eventsALL = [
         "description": "2020世界驟然變色讓人慌張不安2021拾起笑容溫柔的種下希望不管未來有多長此時此刻我們一同相聚於此",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21021714081981724",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "桌遊1+1 帶你玩起來！",
@@ -2817,7 +2817,7 @@ eventsALL = [
         "description": "桌遊1+1帶你玩起來！",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21011717125405921",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Claire老師《英文趣味故事劇場》",
@@ -2827,7 +2827,7 @@ eventsALL = [
         "description": "Claire老師《英文趣味故事劇場》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111713412645667",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華麗島小教室《黏踢踢無毒史萊姆》",
@@ -2837,7 +2837,7 @@ eventsALL = [
         "description": "第一梯次14:00-15:00、第二梯次15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111719042985018",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「高瞻遠矚：高而潘建築作品珠玉展」巡迴展",
@@ -2847,7 +2847,7 @@ eventsALL = [
         "description": "(除夕休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21020911103255614",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「眷戀色彩－十個眷村，十倍色彩採集」眷村色彩採集推廣展",
@@ -2857,7 +2857,7 @@ eventsALL = [
         "description": "休館日：每周一及周二、除夕、初一、初二",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21012018101309372",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Ｕ3創衍計畫-U project",
@@ -2867,7 +2867,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21012510105606567",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Claire老師的故事手作時間",
@@ -2877,7 +2877,7 @@ eventsALL = [
         "description": "Claire老師的故事手作時間",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121516064790064",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】藝術祭後的日常-藝術祭成就了地方，還是？",
@@ -2887,7 +2887,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20122810274734035",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "日本東北311地震十週年 東北樂遊趣展",
@@ -2897,7 +2897,7 @@ eventsALL = [
         "description": "最後入場時間5:30PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21012517110415210",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "動物創意立體紙扇",
@@ -2907,7 +2907,7 @@ eventsALL = [
         "description": "動物創意立體紙扇",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121515552684675",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "日本東北311地震十週年 東北樂遊趣展",
@@ -2917,7 +2917,7 @@ eventsALL = [
         "description": "最後入場時間5:30PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21012517110415210",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "畫出你自己",
@@ -2927,7 +2927,7 @@ eventsALL = [
         "description": "畫出你自己",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21012115351876250",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021向北出走演出計畫-《哪吒小子》、《今古風雲傳》",
@@ -2937,7 +2937,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20120710245883223",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華麗島故事時間《大家來玩躲貓貓》",
@@ -2947,7 +2947,7 @@ eventsALL = [
         "description": "華麗島故事時間《大家來玩躲貓貓》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121516032635812",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2021「成為社會人」系列講座｜文資保存歷程中的多元思考~大谷光瑞的逍遙園",
@@ -2957,7 +2957,7 @@ eventsALL = [
         "description": "2021「成為社會人」系列講座由台灣歷史資源經理學會丘如華秘書長策劃，向喻肇青老師的頑固致敬!每月邀",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_21011917431585712",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大亨堡黏土FUN手做",
@@ -2967,7 +2967,7 @@ eventsALL = [
         "description": "大亨堡黏土FUN手做",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102317264080850",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "索拉舞蹈空間《太倉一粟A drop in the ocean》",
@@ -2977,7 +2977,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20120111553926234",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《文字之後，我們是誰》After Lettering,then? Who am I",
@@ -2987,7 +2987,7 @@ eventsALL = [
         "description": "除夕及初一公休",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21011314100203057",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "這是什麼？",
@@ -2997,7 +2997,7 @@ eventsALL = [
         "description": "分上下兩梯次，第一梯次14:00-15:00、第二梯次15:30-16:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120919390685040",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "畫出你自己",
@@ -3007,7 +3007,7 @@ eventsALL = [
         "description": "畫出你自己",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102815041952783",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "If I don’t come back 如果我不會回來",
@@ -3017,7 +3017,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20120317561490144",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "本島舍快閃店｜木屋裡的印花布作",
@@ -3027,7 +3027,7 @@ eventsALL = [
         "description": "我們的快閃店位在松山文創園區內的「松菸小賣所二號店」在上個世紀，它是ㄧ間可愛的松菸工廠人員出入口檢查",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?764d2f96-8bb6-46b9-b21c-a0d5eff883bc",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "桌遊1+1 帶你玩起來！",
@@ -3037,7 +3037,7 @@ eventsALL = [
         "description": "桌遊1+1帶你玩起來！",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120920313570423",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠流姐姐哥哥說故事《在森林裡》、《愛花的牛》",
@@ -3047,7 +3047,7 @@ eventsALL = [
         "description": "遠流姐姐哥哥說故事《在森林裡》、《愛花的牛》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120920150144863",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "英文現代體手寫課 × 燙金皮革書籤 工作坊",
@@ -3057,7 +3057,7 @@ eventsALL = [
         "description": "||閱讀冬日－英文現代體手寫課x燙金皮革書籤好樣VVGXLettersByAnn冬日，來到了一個總是",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121718061500827",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "街頭作品實驗室⑤ 一起上台玩！",
@@ -3067,7 +3067,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20120914565439765",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "FLIPPOS 翻轉時光 聯合體驗店",
@@ -3077,7 +3077,7 @@ eventsALL = [
         "description": "除夕及初一公休",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21012013471952075",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "小小蛋糕師的創意甜點手作",
@@ -3087,7 +3087,7 @@ eventsALL = [
         "description": "小小蛋糕師的創意甜點手作",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121515535416582",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Keigo展-我的生活不可能那麼壞",
@@ -3097,7 +3097,7 @@ eventsALL = [
         "description": "(17:30停止售票及入場)(除夕當日休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20122420005479724",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "屁屁偵探特展 噗噗！與屁屁偵探完美破案！台北篇",
@@ -3107,7 +3107,7 @@ eventsALL = [
         "description": "(17:30停止售票及入場)(除夕當日休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120914464358252",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「文資游草—臺灣傳統建築」專題講座",
@@ -3117,7 +3117,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20112616361745555",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "小鏡頭看見動物的大愛 狐獴媽媽攝影展",
@@ -3127,7 +3127,7 @@ eventsALL = [
         "description": "甫以「聽見非洲的聲音—肯亞生態永續路」奪下2020第四屆全球華文永續報導獎(專業組融媒體類)優等的攝",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20110610290562054",
         "type": "展覽",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "青藝盟X花樣20週年回顧展",
@@ -3137,7 +3137,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20120711042959783",
         "type": "展覽",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "DV ASIA 影視技術實戰課",
@@ -3147,7 +3147,7 @@ eventsALL = [
         "description": "從影片拍攝技巧、劇情片剪輯、動態影像製作、3D視覺特效到⾳效、聲⾳的運⽤，「影視技術實戰課」是⼀個前",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20122318155020078",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "山田卓司X鄭鴻展 微縮人生特展",
@@ -3157,7 +3157,7 @@ eventsALL = [
         "description": "(17:30停止售票及入場)(除夕當日休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120914404998246",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "色廊2.0－夢境製造所",
@@ -3167,7 +3167,7 @@ eventsALL = [
         "description": "(17:30停止售票及入場)(除夕當日休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120914553531533",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "不可思議怪怪島，小小探險隊出發！",
@@ -3177,7 +3177,7 @@ eventsALL = [
         "description": "(17:30停止售票及入場)(除夕當日休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121816334859815",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "FGO冬日祭2020大馬戲團",
@@ -3187,7 +3187,7 @@ eventsALL = [
         "description": "「FGO冬日祭2020大馬戲團」由咕噠子領軍的大馬戲團帶來許多專屬限量週邊及活動，更換上全新裝扮領著",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20122317340241433",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "桌遊1+1 從遊戲中開啟孩子的基本能力",
@@ -3197,7 +3197,7 @@ eventsALL = [
         "description": "桌遊1+1從遊戲中開啟孩子的基本能力",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102013594894387",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】用設計，增添地方風采-為傳統物件賦予新價值",
@@ -3207,7 +3207,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20113014465344048",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020嘉義新舞風《絢光》",
@@ -3217,7 +3217,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20110311142591851",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "AUDIO ARCHITECTURE：聲音的建築展 in 台北",
@@ -3227,7 +3227,7 @@ eventsALL = [
         "description": "(17:30停止售票及入場)(除夕當日休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120914354330322",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松山文創-五月展演攻略",
@@ -3237,7 +3237,7 @@ eventsALL = [
         "description": "這裡提供您最新的展演攻略，想看什麼展覽就進來看看吧～",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8546601c-419b-4b72-b1d9-9a9d055a04ce",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "飾覺。思學  藝術迴路  藝術飾品展",
@@ -3247,7 +3247,7 @@ eventsALL = [
         "description": "藝術飾品不只是一件穿戴首飾，也是一件裝置藝術品，藝術設計師利用畫展展覽概念，以畫框裱框的方式展現藝術",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?56d28fde-254c-4c7c-9b81-1f17ace583e5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "文化987，在華山對話 ——【伴出活力，蔓出生機】文化園區交流論壇",
@@ -3257,7 +3257,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20121116343986152",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠流姊姊說故事《100萬隻貓》",
@@ -3267,7 +3267,7 @@ eventsALL = [
         "description": "遠流姊姊說故事《100萬隻貓》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111209500842173",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "時間果實 —— Kamaro’an 自然材質月",
@@ -3277,7 +3277,7 @@ eventsALL = [
         "description": "平日10am-7pm、週末11am-9pm",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_21010813550140468",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "茶。當下茶會TEA THE MOMENT",
@@ -3287,7 +3287,7 @@ eventsALL = [
         "description": "從古至今，喝茶的文化不斷推移演進，歷史的軌跡都是造就現代茶藝文化百花盛開的養分。此茶會將設有五席時光",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?823107c6-907a-46bf-bac9-95a6249287bd",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "熱青年Keep Going！第三屆互動展",
@@ -3297,7 +3297,7 @@ eventsALL = [
         "description": "熱青年KeepGoing！第三屆互動展「熱青年」，是一群對生活、環境、社會有想法，渴望找尋問題，解決",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20113015453389660",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台南吃好牛-2020國產牛肉行銷宣傳記者會",
@@ -3307,7 +3307,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121320431157028",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "熱青年Keep Going！第三屆互動展",
@@ -3317,7 +3317,7 @@ eventsALL = [
         "description": "熱青年KeepGoing！第三屆互動展「熱青年」，是一群對生活、環境、社會有想法，渴望找尋問題，解決",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20113015453389660",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "嬉戲百老匯VII《一起園遊會Let’s Play》",
@@ -3327,7 +3327,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20103016533997251",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020 Simple Life Original 簡單生活節",
@@ -3337,7 +3337,7 @@ eventsALL = [
         "description": "「SimpleLife簡單生活節」十多年來持續專注青年生活，推動風格多元的音樂與生活創作，體現食衣住",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120915263946024",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "王春子老師創作分享會《大家來玩躲貓貓》",
@@ -3347,7 +3347,7 @@ eventsALL = [
         "description": "王春子老師創作分享會《大家來玩躲貓貓》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20112609310461346",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第三屆青年公益實踐計畫成果發表會暨第四屆入選公告",
@@ -3357,7 +3357,7 @@ eventsALL = [
         "description": "我們一起往未來前進！社會及環境的快速變遷，我們的世界出現了許多問題，正衝擊著我們的生活，不論是貧窮、",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120713492204176",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020【突破論壇】亞洲創生合作",
@@ -3367,7 +3367,7 @@ eventsALL = [
         "description": "近年來台灣的「地方創生」推展得如火如荼，許多青創團隊發揮地方鄉鎮的特色，以創新、創意、創業強化地方文",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20112312321891435",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "⼩⼈物探險隊 《⼀房間的世界》",
@@ -3377,7 +3377,7 @@ eventsALL = [
         "description": "創作理念與⽬的空間是⼀個平凡無奇的⼩書房，或許像是你的、我的、我們的⽣命中曾經出現的房間樣貌，桌上散",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20112613313812444",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "好樣VVGX花意空間 幸運星聖誕⼩市集",
@@ -3387,7 +3387,7 @@ eventsALL = [
         "description": "想好今年聖誕節要去哪裡了嗎?好樣思維VVGThinking已經準備好和⼤家⼀起開⼼過聖誕～今年與致⼒",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120611450519764",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山藝文節目研討會-親子節目大哉問2",
@@ -3397,7 +3397,7 @@ eventsALL = [
         "description": "台灣文創發展股份公司持續與藝文團隊合作交流，推動表演藝文節目的育成計畫，培植原創表演節目製作及表演人",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20111815460611912",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠流姊姊說故事《小火車頭歷險記》",
@@ -3407,7 +3407,7 @@ eventsALL = [
         "description": "遠流姊姊說故事《小火車頭歷險記》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111209494988513",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "手風琴冬日戀曲",
@@ -3417,7 +3417,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20102110580382250",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《買一把幸福》",
@@ -3427,7 +3427,7 @@ eventsALL = [
         "description": "天剛亮，忙碌的人們是幽微的小點，那是聚集的光點，是日常卻是最美好的事，那就是幸福的微光。2018以獨",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f782a555-5685-4ec1-9996-aab1051159ee",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "混青生活",
@@ -3437,7 +3437,7 @@ eventsALL = [
         "description": "【混青生活】109年Changemaker計畫成果展12/5-6在臺北華山還在談「創生」嗎落伍了，「",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120219413704357",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "DAS陶藝小教室《咪鹿創意收納筒》",
@@ -3447,7 +3447,7 @@ eventsALL = [
         "description": "DAS陶藝小教室《咪鹿創意收納筒》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111318203580424",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "混青生活",
@@ -3457,7 +3457,7 @@ eventsALL = [
         "description": "【混青生活】109年Changemaker計畫成果展12/5-6在臺北華山還在談「創生」嗎落伍了，「",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20120219413704357",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文創園區的文化社會影響力：從「伴」到「蔓」的永續路徑】論壇",
@@ -3467,7 +3467,7 @@ eventsALL = [
         "description": "／我們，要跟大家說個故事／由臺灣文化政策研究學會、國立臺灣藝術大學臺灣文化政策智庫中心、國立臺灣藝術",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20112711373489800",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "愛爾康Freshlook CC美瞳 不凡眼技快閃店",
@@ -3477,7 +3477,7 @@ eventsALL = [
         "description": "（12/415:00開放，12/620:00結束）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20112614023047167",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020 第三屆 台北插畫藝術節 「誰, 是誰的, 誰?」",
@@ -3487,7 +3487,7 @@ eventsALL = [
         "description": "「誰是誰的誰？」一句時不時出現在歌詞、小說、散文或是詩句裡的疑問句，這回竟成為第三屆台北插畫藝術節的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3befea22-b250-45c3-b0bf-d70e81d3929c",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "微軟水果來玩BAR",
@@ -3497,7 +3497,7 @@ eventsALL = [
         "description": "周一、二、四：17:00～21:00週三、周五：17:00～21:30周六~周日：13:00～21:",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20121114463820080",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "桌遊1+1 帶你玩起來！",
@@ -3507,7 +3507,7 @@ eventsALL = [
         "description": "桌遊1+1帶你玩起來！",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102013202243385",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "SOBDEALL 體驗一日皮革工匠師",
@@ -3517,7 +3517,7 @@ eventsALL = [
         "description": "需提前預約",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20100919240217207",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "GreenDay 綠日子｜未來能野餐",
@@ -3527,7 +3527,7 @@ eventsALL = [
         "description": "氣候變遷所造成的影響你不能忽視，再不改變…未來三十年會變得如何？透過【GreenDay未來能野餐】一",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20112721044071446",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】為未來說的故事-延續與環境互動後的良善價值",
@@ -3537,7 +3537,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102611114842142",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山一拍就影：新手拍片入門實戰3班",
@@ -3547,7 +3547,7 @@ eventsALL = [
         "description": "想要利用影片經營社群，提升客戶忠誠度嗎？想要透過影片展示服務，帶來銷售轉換率嗎？想要拍個短片，讓潛在",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101011584512154",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "數位威權 – 虛擬劇場",
@@ -3557,7 +3557,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20110515380864215",
         "type": "展覽",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "METAEDU SUMMIT 2020智慧教育高峰會",
@@ -3567,7 +3567,7 @@ eventsALL = [
         "description": "2020METAEDUSUMMIT智慧教育高峰會以「全球趨勢掌握」、「優良業者展示」、「國際品牌打造",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2a5d4043-6dea-4e63-82a8-14afa9d4bcc0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "插畫家們，台灣集合！",
@@ -3577,7 +3577,7 @@ eventsALL = [
         "description": "說著不同語言，來自世界不同角落，我們在英國相遇。泰晤士河畔的街頭藝人、水石書店的旋轉階梯、劍橋碧綠的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?19665159-f776-4274-b1df-1429c4c77f60",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "狂美親子音樂劇場《幻想曲2020》",
@@ -3587,7 +3587,7 @@ eventsALL = [
         "description": "透過現場樂團呈現真實動人之聲，搭配各類演出形式深受大小觀眾喜愛的狂美交響管樂團，在今年度為向《幻想曲",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e23cf079-b9af-4b52-9b27-654b68bcbc9b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【複選名單公布】共伴計畫:文化永續．創新實踐＿團隊現場提案評選會議",
@@ -3597,7 +3597,7 @@ eventsALL = [
         "description": "時間：2020年11月22日(日)13:00-17:00地點：華山1914文創產業園區華山會客室(中",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111714474154678",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《阿不拉桑の太太》",
@@ -3607,7 +3607,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20092411472630813",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大米缸計畫 台灣米 善動力",
@@ -3617,7 +3617,7 @@ eventsALL = [
         "description": "大米缸計畫台灣米善動力善變就是可能ChangetoChance5種面向，3樣態度，1個方向，吃飯是一",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111114202676454",
         "type": "展覽活動&&論壇講座&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大米缸計畫 台灣米 善動力",
@@ -3627,7 +3627,7 @@ eventsALL = [
         "description": "大米缸計畫台灣米善動力善變就是可能ChangetoChance5種面向，3樣態度，1個方向，吃飯是一",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111114202676454",
         "type": "展覽活動&&論壇講座&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "DIT創作者博覽會 / JINART快閃店",
@@ -3637,7 +3637,7 @@ eventsALL = [
         "description": "購票入場(活動依現場公告為主，活動最後一天至16:00)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110614451132835",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山一拍就影：不拍片做影片之影音自造快手2班",
@@ -3647,7 +3647,7 @@ eventsALL = [
         "description": "想要利用影片傳達品牌但不想露臉嗎？想要用圖片與簡單動畫傳達資訊嗎？影音創客的「不拍片做影片」，將帶領",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101011010862254",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "任歲月帶你回家",
@@ -3657,7 +3657,7 @@ eventsALL = [
         "description": "走，讓我們帶你回家！總是覺得回一趟老家很遠，還是有些心裡話不敢認真說、認真想？心裡那塊最柔軟的地方，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?cf0184db-de92-4309-b028-59266844539b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「2020 偶戲學院」11月系列講座",
@@ -3667,7 +3667,7 @@ eventsALL = [
         "description": "台北偶戲館「2020偶戲學院」與松山文創園區合作，在11月帶來兩場精彩講座！11月14日邀請國立臺北",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0a76302a-eaf9-435e-916c-6a849d4bc073",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "覺醒浪潮-迢迢民主路上的自由呼聲特展",
@@ -3677,7 +3677,7 @@ eventsALL = [
         "description": "邀請民眾回到民主現場，認識日治時期以來臺灣爭取民主人權的過程，一同回顧歷史、展望",
         "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04758&request_locale=tw",
         "type": "展覽活動",
-        "location": "中正紀念堂"
+        "location": "中正"
     },
     {
         "title": "2020華文朗讀節-為新日常而讀",
@@ -3687,7 +3687,7 @@ eventsALL = [
         "description": "(一)~(四)11:00-18:00、(五)~(日)11:00-21:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110318031724563",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "BEMO Cafe｜與咖啡的對話",
@@ -3697,7 +3697,7 @@ eventsALL = [
         "description": "濾掛式單品咖啡新銳品牌BEMOCafe，是台灣第一個重視美學，強調咖啡品質的選品品牌。擁有日本超高規",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102512022805605",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "遠流哥哥姊姊說故事《龍的來信》",
@@ -3707,7 +3707,7 @@ eventsALL = [
         "description": "遠流哥哥姊姊說故事《龍的來信》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102317512239673",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「推動中小企業城鄉創生轉型輔導計畫」成果展",
@@ -3717,7 +3717,7 @@ eventsALL = [
         "description": "即將邁入第四年的SBTR計畫，將於109年11月7日展開為期2天的成果展。歷經三年的成長，這些創生種",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110410340986985",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "DAS陶藝小教室《小鯨魚手感器皿》",
@@ -3727,7 +3727,7 @@ eventsALL = [
         "description": "DAS陶藝小教室《小鯨魚手感器皿》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102313554048111",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "109年環境教育繪本嘉年華會",
@@ -3737,7 +3737,7 @@ eventsALL = [
         "description": "109年環境教育繪本嘉年華」集結全國22縣市以在地環境為故事背景，透過創作徵選之環境教育繪本書籍，以",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102816284150047",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020行腳台灣巡演《奴山節考》台北場",
@@ -3747,7 +3747,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20092810271154370",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "游離狀態 FREE STATE  ｜ Art Exhibition",
@@ -3757,7 +3757,7 @@ eventsALL = [
         "description": "展覽藝術家皆由英國倫敦藝術大學中央聖馬丁碩士畢業,返台後持續創作，猶如游離狀態一般地在吸取養分後再各",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1a542e53-0d5a-43e3-b543-8d45a96525b0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "友善地球計畫 eco-friendly plan for the Earth",
@@ -3767,7 +3767,7 @@ eventsALL = [
         "description": "你們的餐桌＋牠們的生活＝我們的地球農人友善用「心」耕耘，保育蟲魚鳥獸，生產蘊含大地元氣的好食材金風送",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a1b8881a-4374-493f-8157-1779aaed201e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "未知的場域 Unknown Site",
@@ -3777,7 +3777,7 @@ eventsALL = [
         "description": "陳家翊「未知」系列作品傳遞對於⼟地劇烈變化的不安意象，使⼈類的棲息環境跳脫以往⽇常空間的侷限與想像，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111014032421551",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "TAMASHII FEATURES 2020 in Taiwan",
@@ -3787,7 +3787,7 @@ eventsALL = [
         "description": "11/612:00~19:00,11/7~11/810:00~19:00(最後入場時間18:30)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20103018575324574",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "未知的場域 Unknown Site",
@@ -3797,7 +3797,7 @@ eventsALL = [
         "description": "陳家翊「未知」系列作品傳遞對於⼟地劇烈變化的不安意象，使⼈類的棲息環境跳脫以往⽇常空間的侷限與想像，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20111014032421551",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "POWER OF ZERO 零廢棄時尚｜永續的故事",
@@ -3807,7 +3807,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110211171352253",
         "type": "展覽活動&&期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "國產落花生109年推廣行銷",
@@ -3817,7 +3817,7 @@ eventsALL = [
         "description": "余順豐農產加工廠、創立於民國45年，為全國第一家花生觀光工廠，觀光工廠主要業務為花生加工，為典型的人",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110217540073803",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大專校院創新創業教育計畫暨平臺成果展",
@@ -3827,7 +3827,7 @@ eventsALL = [
         "description": "「大專校院創新創業教育計畫暨平臺成果展」將於11月4日在華山1914文化創意產業園區東2A館登場，以",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110318440881725",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "國產落花生109年推廣行銷",
@@ -3837,7 +3837,7 @@ eventsALL = [
         "description": "余順豐農產加工廠、創立於民國45年，為全國第一家花生觀光工廠，觀光工廠主要業務為花生加工，為典型的人",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110217540073803",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "POWER OF ZERO 零廢棄時尚｜永續的故事",
@@ -3847,7 +3847,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20110211171352253",
         "type": "展覽活動&&期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華麗島×小孩愛玩劇《怪獸大餐上菜囉！》",
@@ -3857,7 +3857,7 @@ eventsALL = [
         "description": "華麗島kidsmosaxDramaKids小孩愛玩劇《香噴噴、超美味─怪獸大餐上菜囉》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102314054161254",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【力世代】願景工程×社企流社會創新嘉年華",
@@ -3867,7 +3867,7 @@ eventsALL = [
         "description": "10/31(六)10:00-17:30、11/1(日)10:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102220493013048",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台創祭-原創漫畫x圖文創作x手作設計",
@@ -3877,7 +3877,7 @@ eventsALL = [
         "description": "購票入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20093014162464971",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【2020銀齡樂活節】《我們想的跟你不一樣》街頭劇",
@@ -3887,7 +3887,7 @@ eventsALL = [
         "description": "免費入場(下午14:00、15:00、16:00各演出一場，演出時間每場35分鐘)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102815475188011",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【力世代】願景工程×社企流社會創新嘉年華",
@@ -3897,7 +3897,7 @@ eventsALL = [
         "description": "10/31(六)10:00-17:30、11/1(日)10:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102220493013048",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "好侍滾滾節",
@@ -3907,7 +3907,7 @@ eventsALL = [
         "description": "活動官網：https://www.accupass.com/org/2020housecurry官方",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101720295104686",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第七屆小王子愛塗鴉繪畫比賽 展覽暨頒獎典禮",
@@ -3917,7 +3917,7 @@ eventsALL = [
         "description": "第七屆小王子愛塗鴉繪畫比賽展覽暨頒獎典禮味王王子麵50歲了!第七屆小王子愛塗鴉繪畫比賽，今年特地以【",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102221013486678",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "普樂士豆趣派對",
@@ -3927,7 +3927,7 @@ eventsALL = [
         "description": "【PLUS豆趣派對登場】天天陪伴你的PLUS好朋友舉辦派對囉✨首場將在華山金8廣場舉辦，週末快來一起",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102617490531828",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "瓜地馬拉藝文情．咖啡香特展  Guatemala Coffee, Art & Culture Exhibition",
@@ -3937,7 +3937,7 @@ eventsALL = [
         "description": "10/3012:00-19:00、10/3111:00-19:00、11/0111:00-19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102918482305637",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020第七屆無障礙生活節-歲月製造所",
@@ -3947,7 +3947,7 @@ eventsALL = [
         "description": "10/30(五)13:00-18:00及10/31(六)-11/01(日)10:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092814020684865",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大同未來進行室特展",
@@ -3957,7 +3957,7 @@ eventsALL = [
         "description": "免費入場(依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102312310300271",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020年「美學，其實我們都有關係」 <聰明與外國人往來的禮儀 Part 2> - 關於日本，我們失禮了嗎?",
@@ -3967,7 +3967,7 @@ eventsALL = [
         "description": "報名期間10/1421:03~10/3021:04",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101421052693123",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大同未來進行室特展",
@@ -3977,7 +3977,7 @@ eventsALL = [
         "description": "免費入場(依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102312310300271",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "熟成台北 新書發表記者會暨關鍵論壇",
@@ -3987,7 +3987,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20102710191887962",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020年家庭照顧者公益舞台劇『家-誰在呼喊我？』展演",
@@ -3997,7 +3997,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20102314504627963",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台灣，再定義 —— 故事 StoryStudio 六週年論壇",
@@ -4007,7 +4007,7 @@ eventsALL = [
         "description": "購票入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102313310760950",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華麗島實驗室",
@@ -4017,7 +4017,7 @@ eventsALL = [
         "description": "科學很無聊又很難嗎?小朋友總是喜歡問的為什麼，可能就是科學探究的開始。科學若是少了想要嘗試、少了親自",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092416480836476",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山一拍就影：新手拍片入門實戰2班",
@@ -4027,7 +4027,7 @@ eventsALL = [
         "description": "想要利用影片經營社群，提升客戶忠誠度嗎？想要透過影片展示服務，帶來銷售轉換率嗎？想要拍個短片，讓潛在",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101010350869432",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】書寫秘密的地方基地-留下對未來生活的期待",
@@ -4037,7 +4037,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20100509573454925",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "氣味展超Version1.5",
@@ -4047,7 +4047,7 @@ eventsALL = [
         "description": "從各式各樣的氣味中精選出有趣的味道，結合色彩與聲光，帶領大家進入深奧又滑稽的「氣味的世界」。本次介紹",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101610110032543",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《孵夢2020》綠野仙蹤嬉遊記畫展",
@@ -4057,7 +4057,7 @@ eventsALL = [
         "description": "因為相信一群來自陽明山的孵夢天使3年完成最想追求的自我是「勇氣」展「智慧」,存有「愛」故事,在每幅畫",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20102614275076408",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「烏龜才有的快感」幕後的故事-技術分享會",
@@ -4067,7 +4067,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20101418292984954",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "不驚嚇南瓜Party",
@@ -4077,7 +4077,7 @@ eventsALL = [
         "description": "不驚嚇南瓜Party",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092118450438348",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「臺三線村里文化地圖及村徽設計推廣計畫-恁靚光景．臺三線」總體成果發表會",
@@ -4087,7 +4087,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101413501050057",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《遠流哥哥姐姐說故事》怪獸大餐",
@@ -4097,7 +4097,7 @@ eventsALL = [
         "description": "書籍介紹｜好餓好餓的一天，怪獸抓到了小男孩──晚餐。怪獸好高興，因為晚餐看起來真是美味，他還因此寫信",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092917322915137",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020Look台味-台灣職人日",
@@ -4107,7 +4107,7 @@ eventsALL = [
         "description": "10/17有空嗎？把時間留給台灣吧!邀請你來看全國第一場＂最台＂的服裝秀及展覽活動！近幾年不同領域的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?97b30d65-200e-4b98-a132-68ac9544c7d2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2020微客國際志工生活節",
@@ -4117,7 +4117,7 @@ eventsALL = [
         "description": "10/1616:00-20:00、10/179:00-20:00、10/189:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20070916053478486",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "曉劇場第十三號年度製作《潮來之音》",
@@ -4127,7 +4127,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20092813505601306",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台北蚤之市 Taipei Flea Market 2020",
@@ -4137,7 +4137,7 @@ eventsALL = [
         "description": "即將在10/16(五)至10/18(日)揭幕的第八回台北蚤之市，一直以來是老靈魂的掏寶天堂，本次活動",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3743ad05-cd0e-4995-84ca-93519a5c66b1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "華山一拍就影：旅拍手機拍片快閃班",
@@ -4147,7 +4147,7 @@ eventsALL = [
         "description": "10/15、10/17、11/7、11/12",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101009552410018",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【2020創生塾系列講堂】十月場｜空間活化x街區再生",
@@ -4157,7 +4157,7 @@ eventsALL = [
         "description": "【2020創生塾系列講堂】2020，林事務所「創生塾」講堂，嚴選多項創生主題，策劃20場內容講座，共",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101215384435272",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山數位講堂】直播社群尬電商，吸睛更吸金",
@@ -4167,7 +4167,7 @@ eventsALL = [
         "description": "（COVID-19）疫情重創全球產業與經濟發展，在這一波凜冽寒冬中，不僅零售業者積極透過數位轉型推出",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20101318185484112",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Retroma｜「植擴香」存在的理由",
@@ -4177,7 +4177,7 @@ eventsALL = [
         "description": "某個看似平凡的那個瞬間，小礫石矮牆外的那一排七里香，直挺挺的簇擁，毫不起眼卻透過香氣在心中札入了細微",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20100918575443770",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "計畫徵件說明會「共伴計畫：文化永續．創新實踐」",
@@ -4187,7 +4187,7 @@ eventsALL = [
         "description": "「共伴計畫：文化永續．創新實踐」基於促進文化公共利益與社會治理的理念，鼓勵民間文化組織在公共性議題發",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20100714254907772",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「共伴計畫-文化永續．創新實踐」徵件說明會",
@@ -4197,7 +4197,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20101012344353268",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "桌遊1+1 帶你玩起來！",
@@ -4207,7 +4207,7 @@ eventsALL = [
         "description": "桌遊1+1帶你玩起來！",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20091116573033685",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Data Landscape展覽",
@@ -4217,7 +4217,7 @@ eventsALL = [
         "description": "2020年COVID-19疫情肆虐，導致全球經濟受到嚴重衝擊，各國重要城市過去的繁華光景也已不在，全",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20093015581772971",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "萬代組裝模型特展",
@@ -4227,7 +4227,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20093012170486685",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「i上原子能 綠能e世界」原子能科技科普展",
@@ -4237,7 +4237,7 @@ eventsALL = [
         "description": "官方粉絲團:https://www.facebook.com/radiationsafety/pos",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20100118285713625",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "『PASHA DE CARTIER探索自我』特展",
@@ -4247,7 +4247,7 @@ eventsALL = [
         "description": "(週日活動提早於8:00PM結束)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092712275875237",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020國際手作設計節 2020 International Craft Design Festival",
@@ -4257,7 +4257,7 @@ eventsALL = [
         "description": "【2020國際手作設計節InternationalCraftDesignFestival】－2020",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20091811044310676",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Data Landscape展覽",
@@ -4267,7 +4267,7 @@ eventsALL = [
         "description": "2020年COVID-19疫情肆虐，導致全球經濟受到嚴重衝擊，各國重要城市過去的繁華光景也已不在，全",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20093015581772971",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "『PASHA DE CARTIER探索自我』特展",
@@ -4277,7 +4277,7 @@ eventsALL = [
         "description": "(週日活動提早於8:00PM結束)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092712275875237",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "囚身口─在成為你知道的我之前！",
@@ -4287,7 +4287,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20090111125092505",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "創造焦點女馬系列完整版《#Since1994》",
@@ -4297,7 +4297,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20071517104583474",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「共伴計畫：文化永續．創新實踐」計畫徵件！",
@@ -4307,7 +4307,7 @@ eventsALL = [
         "description": "報名期間10/0600:00~11/0900:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20100615491039881",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020台北時裝周，2020 Taipei Fashion Week",
@@ -4317,7 +4317,7 @@ eventsALL = [
         "description": "2020臺北時裝週SS21將於10月6日開始在松山文創園區，16場台灣設計師品牌，將接力登場舉行大秀",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e6ae8423-d608-4a39-9862-902ca911aedd",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《遠流哥哥姐姐說故事》屁屁偵探：幸運貓落到誰手上！",
@@ -4327,7 +4327,7 @@ eventsALL = [
         "description": "★小朋友爭相搶讀，大朋友也愛不釋手，迫不及待想翻開的【屁屁偵探讀本】第9集報到……書籍介紹｜《屁屁偵",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092214322224914",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "手作黏土：不給創意就搗蛋趣",
@@ -4337,7 +4337,7 @@ eventsALL = [
         "description": "藉由親子黏土活動，讓孩子盡情發揮創意，DIY出獨一無二的創作品。透過親子DIY的創意活動，刺激孩子們",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092118311725070",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "烏龜才有的快感——5G成長體計畫",
@@ -4347,7 +4347,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20100111475880278",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "雲南茶馬古道紀實攝影展覽",
@@ -4357,7 +4357,7 @@ eventsALL = [
         "description": "活動時間:10/113:00-19:00、10/2-10/411:00-19:00；免費入場(活動依",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092615495316313",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "BANPRESTO EXPO 2020",
@@ -4367,7 +4367,7 @@ eventsALL = [
         "description": "10/112:00~20:00,10/2~10/410:00~19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092410013134430",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "百萬網者KOL商業模式快閃店",
@@ -4377,7 +4377,7 @@ eventsALL = [
         "description": "全新型態網紅創業投資節目《MillionCreators百萬網者》，當網紅創業當老闆已成趨勢，要吸引",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20092516264312765",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】君不老，心如花——時間淬鍊後的智慧比你想的更強大",
@@ -4387,7 +4387,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20083118245949255",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020阿里山Let’s購-大型展售博覽會",
@@ -4397,7 +4397,7 @@ eventsALL = [
         "description": "台灣阿里山擁有層疊翠綠的山林小徑、變化萬千的流雲飛瀑及獨特的原民文化，9月25日至27日於華山文創園",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090210095373820",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020森林市集：我的新森活",
@@ -4407,7 +4407,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20091813294820682",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "TJ Connect Fair 2020台日產業媒合大會",
@@ -4417,7 +4417,7 @@ eventsALL = [
         "description": "09/2509:20-17:30.09/2610:00-19:00.09/2710:30-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20091616022584412",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《中興造紙 百年風華》紀錄片放映暨映後座談",
@@ -4427,7 +4427,7 @@ eventsALL = [
         "description": "過去，中興紙廠支持著宜蘭整個二結與四結地區的居民生計，更是全東南亞產量最大的造紙工廠，開拓著關於紙的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20081215224147268",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《中興造紙 百年風華》紀錄片放映暨映後座談",
@@ -4437,7 +4437,7 @@ eventsALL = [
         "description": "過去，中興紙廠支持著宜蘭整個二結與四結地區的居民生計，更是全東南亞產量最大的造紙工廠，開拓著關於紙的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20081215224147268",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《青ㄟ搖擺》擊鼓跨界三號作品",
@@ -4447,7 +4447,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20091009501838613",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "3D視角・EYE TAIWAN",
@@ -4457,7 +4457,7 @@ eventsALL = [
         "description": "喬好視角，3D立現 3D藝術展中正紀念堂奇幻登場 千呼萬喚，以臺灣在地特色主題的",
         "href": "https://event.culture.tw/CKSMH/portal/Registration/C0103MAction?useLanguage=tw&actId=04697&request_locale=tw",
         "type": "展覽活動",
-        "location": "中正紀念堂"
+        "location": "中正"
     },
     {
         "title": "農村再生-10載幸福",
@@ -4467,7 +4467,7 @@ eventsALL = [
         "description": "行政院農業委員會水土保持局在民國99年「農村再生條例」通過後，便致力於帶動農業產業發展，美化農村景觀",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2811f442-14f1-4297-bb03-69bfdcb0c0be",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《一起來吃飯！》另類擊樂音樂會",
@@ -4477,7 +4477,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20080415500431816",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山一拍就影：新手拍片入門實戰班",
@@ -4487,7 +4487,7 @@ eventsALL = [
         "description": "華山講堂-OMOLAB數位課程華山一拍就影：新手拍片入門實戰班想要利用影片經營社群，提升客戶忠誠度嗎",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082016073045754",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《「懂事」總經理的30個思考：工作不是湯，不能用熬的》新書分享會",
@@ -4497,7 +4497,7 @@ eventsALL = [
         "description": "懂事，讓職場開外掛用奧美董事總經理謝馨慧「懂事哲學」擺脫苦逼人生「身為公司的最高主管，就好像是整個公",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20091712211392105",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ELLE好奇心俱樂部",
@@ -4507,7 +4507,7 @@ eventsALL = [
         "description": "還記得那個曾經對世界充滿好奇的自己嗎？其實好奇心始終在你身邊，帶上他，一起參加ELLE即將舉辦的「好",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20091115251138383",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山一拍就影：不拍片做影片之影音自造快手班",
@@ -4517,7 +4517,7 @@ eventsALL = [
         "description": "華山講堂-OMOLAB數位課程華山一拍就影：不拍片做影片之影音自造快手班想要利用影片傳達品牌但不想露",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082116512258528",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "被動旅行 -氣候變遷與世界人權系列講座",
@@ -4527,7 +4527,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20091413594848440",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《財訊》第二屆「危老+都更」博覽會",
@@ -4537,7 +4537,7 @@ eventsALL = [
         "description": "9/19(六)-9/20(日)9:30-17:30於松山文創園區2、3、4號倉庫舉行。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?80cec39f-9c73-44c5-838d-3dc3b59a7e34",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "邊緣人市集｜高畫質蠢材 (因天候因素活動取消)",
@@ -4547,7 +4547,7 @@ eventsALL = [
         "description": "現實生活太過清晰高畫質的都市生存，讓人類喘不過氣本單位從不提供錦囊妙計但鼓勵各位不要活在別人的眼裡在",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b948923b-1520-4c3f-9597-f8d448a3bd9b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【2020創生塾系列講堂】九月場｜科技導入x 集資共創",
@@ -4557,7 +4557,7 @@ eventsALL = [
         "description": "報名期間08/3118:44~09/3018:44",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20083118451522448",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "流域創生 x 華山講堂 – 【 明日餐桌，美味的社會創新！ 】",
@@ -4567,7 +4567,7 @@ eventsALL = [
         "description": "流域為生命之母，不同生物在此循環生滅，依水之姿，多樣的生命在此交會且無盡綿延。#流域創生由多年深耕坪",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090313085552935",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山玩創意 我玩BESV",
@@ -4577,7 +4577,7 @@ eventsALL = [
         "description": "喜歡BESV的車主都有一個明顯的共同點－好奇心！他們都是樂於嚐鮮的代表，喜歡接觸不同的領域或是熱愛探",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090910420906051",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山玩創意 我玩BESV",
@@ -4587,7 +4587,7 @@ eventsALL = [
         "description": "喜歡BESV的車主都有一個明顯的共同點－好奇心！他們都是樂於嚐鮮的代表，喜歡接觸不同的領域或是熱愛探",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090910420906051",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "流域創生 x 華山講堂 – 【 由地區產業出發走向區域共好 】",
@@ -4597,7 +4597,7 @@ eventsALL = [
         "description": "流域為生命之母，不同生物在此循環生滅，依水之姿，多樣的生命在此交會且無盡綿延。#流域創生由多年深耕坪",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082516532720036",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "青村有氧運動，洄游農村十週年特展",
@@ -4607,7 +4607,7 @@ eventsALL = [
         "description": "來自各種專業領域的年輕人，在農村進行了洄游滾輪、青年深蹲、在地挺舉、農村向上、國際伸展的「青村有氧運",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?928bcc5f-7589-45c0-b482-ef4eedca1aaf",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "香檬健康好滋味  產官攜手創新機  臺灣香檬推廣記者會",
@@ -4617,7 +4617,7 @@ eventsALL = [
         "description": "行政院農業委員會於本(109)年9月10日上午10時於華山1914文化創意產業園區-中5B鍋爐室舉辦",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090715460665335",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "流域創生 x 華山講堂 – 【 你想活出怎樣的小鎮？】",
@@ -4627,7 +4627,7 @@ eventsALL = [
         "description": "流域為生命之母，不同生物在此循環生滅，依水之姿，多樣的生命在此交會且無盡綿延。#流域創生由多年深耕坪",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090313041125263",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "童嘉《小胖貓的創作之路》分享會",
@@ -4637,7 +4637,7 @@ eventsALL = [
         "description": "童嘉x「小胖貓」創作之路",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090309481585117",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "[ 畫學課 ] 電繪風格實作坊",
@@ -4647,7 +4647,7 @@ eventsALL = [
         "description": "兩日課程時間皆為10:00-18:00；09/05額滿，僅開放09/06單日報名。",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20080418574182232",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "[ 畫學課 ] 電繪風格實作坊",
@@ -4657,7 +4657,7 @@ eventsALL = [
         "description": "兩日課程時間皆為10:00-18:00；09/05額滿，僅開放09/06單日報名。",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20080418574182232",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Dyson 美髮科學沙龍",
@@ -4667,7 +4667,7 @@ eventsALL = [
         "description": "(19:30最後入場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082514471750810",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "政大金旋獎初賽｜暖潮",
@@ -4677,7 +4677,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20083116042352246",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020「原點美學-再現初心」走進松菸兒童寫生夏令營成果展暨師生聯展",
@@ -4687,7 +4687,7 @@ eventsALL = [
         "description": "此次展覽總參與人數31人，作品94件，用藝術的眼光看世界會發現許多美好，在充滿未知的將來，用藝術療癒",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ae2484f6-7001-44d4-b750-3a51bca57c11",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Dadiogaosai個展",
@@ -4697,7 +4697,7 @@ eventsALL = [
         "description": "每週一公休",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090114301664257",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "流域創生 x 華山講堂 –第九講【農棄物轉型環境友善商品， 一起實踐「梨想生活」吧！】",
@@ -4707,7 +4707,7 @@ eventsALL = [
         "description": "流域為生命之母，不同生物在此循環生滅，依水之姿，多樣的生命在此交會且無盡綿延。#流域創生由多年深耕坪",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082515170860156",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Dadiogaosai個展",
@@ -4717,7 +4717,7 @@ eventsALL = [
         "description": "每週一公休",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20090114301664257",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2030 未來 超越圈圈 Future All Together",
@@ -4727,7 +4727,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20081815260564485",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【Design Can Help ,Design Is Helping 】4th DFT 社會設計展",
@@ -4737,7 +4737,7 @@ eventsALL = [
         "description": "『Designcanhelp／Designishelping』第四屆DesignForTaiwan社",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9fca3fc2-0a7d-4c9a-b17e-798470b718a8",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "流域創生 x 華山講堂 –【瀕危農業文化遺產—臺灣小米文化生態圈 】",
@@ -4747,7 +4747,7 @@ eventsALL = [
         "description": "流域為生命之母，不同生物在此循環生滅，依水之姿，多樣的生命在此交會且無盡綿延。#流域創生由多年深耕坪",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082514061883120",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《街仔路採集誌》大師痕跡筆畫活動",
@@ -4757,7 +4757,7 @@ eventsALL = [
         "description": "街仔路採集誌：無用之用再發現！看見台式加減美學大師痕跡筆畫活動-「我畫故我在」自製創意畫筆",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20081911042755960",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "零時小學校競賽日 Demo Day 2020",
@@ -4767,7 +4767,7 @@ eventsALL = [
         "description": "g0v黑客松自2012年開辦以來，g0v參與者以每兩個月一次的頻率，透過g0v黑客松，協作出一個個屬",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082114092700865",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】情感連結實驗室—互動後創造出來的在地價值",
@@ -4777,7 +4777,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20072712415988735",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【大展身手做展覽】 華山特別場",
@@ -4787,7 +4787,7 @@ eventsALL = [
         "description": "8/28(五)14:00正式開幕",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082619435038728",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "流域創生 x 華山講堂 –第八講【這一年，我在石虎米水田發生的 故事…】",
@@ -4797,7 +4797,7 @@ eventsALL = [
         "description": "流域為生命之母，不同生物在此循環生滅，依水之姿，多樣的生命在此交會且無盡綿延。#流域創生由多年深耕坪",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082513310951735",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《食物語》半週年紀念慶典",
@@ -4807,7 +4807,7 @@ eventsALL = [
         "description": "«超過200萬粉絲敲碗期盼««治癒系RPG手遊．食物語半週年超大型慶典«2020年度最高人氣的二次元",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20081014405638434",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《食物語》半週年紀念慶典",
@@ -4817,7 +4817,7 @@ eventsALL = [
         "description": "«超過200萬粉絲敲碗期盼««治癒系RPG手遊．食物語半週年超大型慶典«2020年度最高人氣的二次元",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20081014405638434",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【後疫時代-文化經濟新走向、再超前部署】文創扶植分享講座",
@@ -4827,7 +4827,7 @@ eventsALL = [
         "description": "文創產業重視生活的體驗，強調吸引人的故事性、鼓勵大家走進實體店面感受作品的溫潤手感……。然而今年的疫",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?0a7857ee-07d1-4368-8923-bccfff1ad327",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "文創扶植工作坊&參訪系列課程分享",
@@ -4837,7 +4837,7 @@ eventsALL = [
         "description": "文創扶植參訪及工作坊開始報名囉！",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?b193f129-14a5-466e-a451-f73124431f64",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "林柏廷《一個像海的地方》新書分享會",
@@ -4847,7 +4847,7 @@ eventsALL = [
         "description": "林柏廷《一個像海的地方》新書分享會手作《趣味手印畫-守護大鯨鯊》",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20080513103219261",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Hear the Light — an immersive exhibition by Rayna Chou",
@@ -4857,7 +4857,7 @@ eventsALL = [
         "description": "不安時，與音樂一起離開舒適圈。2020年夏末聽到光明的沉浸式展覽!「像是在逃離這世界的黑暗般，我們隨",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20080516160112717",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020 台北藝穗節",
@@ -4867,7 +4867,7 @@ eventsALL = [
         "description": "自2008年起，臺北藝穗節在主流藝文表演之外，提供一個屬於另類的、非主流的、具實驗性的平台，以開放自",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?666ad450-d20a-41bc-a15c-05c2fd235e54",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "TFT年度特展——有問題的請舉手 When Something's Wrong",
@@ -4877,7 +4877,7 @@ eventsALL = [
         "description": "小時候老師常說：「有問題的請舉手」長大後，你還記得自己上次因為什麼問題而舉手呢？今年TFT年度特展以",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9dbd2e1c-822c-4cb7-a807-516fb4da7af4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "拙八郎ＸStudio Q《屈辱》文學劇場",
@@ -4887,7 +4887,7 @@ eventsALL = [
         "description": "源自於表演課程的探索，反思自我生命歷程，和這片土地的連結與歷史。本次的成人進階班跳脫以往表演課的模式",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20072511490045153",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《屁屁偵探養成班》Story Time+手作",
@@ -4897,7 +4897,7 @@ eventsALL = [
         "description": "《屁屁偵探養成班》StoryTime+手作",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20080116454403833",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "星級主廚餐車 享受美味 讓愛無界",
@@ -4907,7 +4907,7 @@ eventsALL = [
         "description": "滿載星級主廚創意餐點的「桂格&福樂星級主廚餐車」，於8月10日正式開跑，預計巡迴北、中、南，將美味與",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20081211274104335",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「2020台北新藝術博覽會．番外篇」國際藝術特展",
@@ -4917,7 +4917,7 @@ eventsALL = [
         "description": "台北新藝術博覽會首創「以藝術家為核心」的全新概念，每一展位就是一位藝術家個展，打造出亞洲國際藝術展會",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3fddf059-8d48-4391-bbc2-3c018000aa8a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Squarebear the labe 嘉年華特賣會",
@@ -4927,7 +4927,7 @@ eventsALL = [
         "description": "此次特賣以遊園會為主題，裡面包括了夾娃娃機/拉霸機等小遊戲，消費即可獲得兌換卷，Squarbear挑",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c32aed00-8563-4157-af36-503f47e7e179",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "#BarREHOW 一日設計師體驗",
@@ -4937,7 +4937,7 @@ eventsALL = [
         "description": "時間：一~四11:00-20:00、五~日11:00-21:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082110451892781",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節《美好時光》",
@@ -4947,7 +4947,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20041510042731515",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020神工傳藝 北港百年藝鎮巡迴展(台北場)",
@@ -4957,7 +4957,7 @@ eventsALL = [
         "description": "「2020神工傳藝北港百年藝鎮巡迴展(台北場)」，透過策展人蕭青陽大師的當代藝術視野，以空間藝術及衝",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20082314574470342",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "藝穗十三，一起fun閃 「開幕約會，全部給我閃起來!」",
@@ -4967,7 +4967,7 @@ eventsALL = [
         "description": "告別無聊約會，與閃！閃！動人的藝穗團隊來一場舞會。八月十五日星期六準備出門前默念一次口訣:「手機鑰匙",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b479e83c-7bef-4a55-b6e6-d6154f568219",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "北緯60度的芬蘭設計－luonnonläheinen elämä",
@@ -4977,7 +4977,7 @@ eventsALL = [
         "description": "“luonnonläheinenelämä”在芬蘭文中代表「自然生活」，可以解釋為「生活在大自然裡」",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?47655baa-aed1-4892-9aa3-27070fd24be7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「2020 偶戲學院」8月系列講座",
@@ -4987,7 +4987,7 @@ eventsALL = [
         "description": "台北偶戲館「2020偶戲學院」與松山文創園區合作，在8月帶來兩場精彩講座！8月22日邀請台原亞洲偶戲",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?318c42bf-7b8b-44f9-b869-263236edb7cd",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《華麗現身！屁屁偵探人偶登場！》",
@@ -4997,7 +4997,7 @@ eventsALL = [
         "description": "持攝影券讀者報到時間：13:30-14:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20073018392105025",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大亞集團65週年《STEADY POWER穩定日常》線形藝術展",
@@ -5007,7 +5007,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20071919111967523",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "天滿天神梅酒祭2020",
@@ -5017,7 +5017,7 @@ eventsALL = [
         "description": "每年最期待！小器梅酒屋一年一度的大盛事來了！〖天滿天神梅酒祭2020〗今年再度將於華山展開！！此次將",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20070912171993462",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "魚取漁囚-守護海洋行動體驗特展",
@@ -5027,7 +5027,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)。週一至週四為：11:00-19:00週五至週日為：11:00-21:",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20071112051808402",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020年「美學，其實我們都有關係」 <聰明與外國人往來的禮儀 Part 2> - 從生活經驗學習國際禮儀",
@@ -5037,7 +5037,7 @@ eventsALL = [
         "description": "熱身活動6:30開始",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20072014262883156",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節 寶寶劇場《馬麻，不見了！》",
@@ -5047,7 +5047,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20041418181407276",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "幸福與感恩的饗宴—手做家具師生畢業聯展",
@@ -5057,7 +5057,7 @@ eventsALL = [
         "description": "木工班由發芽、到成長茁壯的二十四年來，有著許許多多的愛澆灌著我們，木工班才得以伸展枝幹，開展出濃綠的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20070915275600841",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節《抓住星星的野人阿爾迪》",
@@ -5067,7 +5067,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20041417493905527",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】維護傳統提攜未來-文資教育培養皿",
@@ -5077,7 +5077,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20062212200223866",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Richart汪廚去哪兒",
@@ -5087,7 +5087,7 @@ eventsALL = [
         "description": "汪廚去哪兒_華山站線上新戶活動登錄：https://reurl.cc/NjvY9m線下活動詳情：一、",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20072316293244953",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松菸邊緣人市集＿涼的最高等級",
@@ -5097,7 +5097,7 @@ eventsALL = [
         "description": "有人就會有情，人情間的交流就是世間最高等級的勁涼舒爽。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7d483892-3e01-4958-896f-5a050ab4387d",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "華山親子表藝節《茉莉的魔法歷險》",
@@ -5107,7 +5107,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20041415183821461",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Deep Talks深談時刻-後疫情時代，全球旅遊大進化",
@@ -5117,7 +5117,7 @@ eventsALL = [
         "description": "根據世界旅遊組織(UNWTO)2020年5月預估，疫情過後全球的國際旅客人次，與去年同期相比恐會減少",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20071811465693054",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Joel Lo 個人攝影展",
@@ -5127,7 +5127,7 @@ eventsALL = [
         "description": "這是我第一個個展，只有兩年的經驗。我想為參觀的大家帶來在我眼中的世界，在不同國家的經驗，甚至是我家隔",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?adbd0005-5c6d-4620-a657-d0d08315dd30",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "當代購物體驗製造機：BEHIND THE BARCODE",
@@ -5137,7 +5137,7 @@ eventsALL = [
         "description": "當商品成為承載故事的容器，成本與定價不再有血緣關係，消費者買的已不只是商品，但你有想過自己買的到底是",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?87a732ed-b5f0-46c6-a602-c239cd6684d7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "小典藏X華山親子表藝節  繪本動起來工作坊",
@@ -5147,7 +5147,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20070117343060017",
         "type": "工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節《山珍海味吃飽了沒》",
@@ -5157,7 +5157,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20041416151091156",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "左岸巷弄沙龍計畫",
@@ -5167,7 +5167,7 @@ eventsALL = [
         "description": "【2020左岸巷弄沙龍計畫】打造關於獨立書店的精神色彩場域當年的塞納河畔，咖啡館內薈萃出舉世非凡的思",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20070218304054784",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "迷路森林-夢遊森林",
@@ -5177,7 +5177,7 @@ eventsALL = [
         "description": "每一個創作者都是夢的製造者，創造出獨一無二的夢境，迷路森林這座森林在這市集裡串聯著每個幻境，帶著各位",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ed1a8232-5173-482b-9b16-33b3114a485d",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《幽☆遊☆白書》特展",
@@ -5187,7 +5187,7 @@ eventsALL = [
         "description": "搶先全球！《幽☆遊☆白書》特展終於確定來台！即便在電視動畫25周年的實體特別活動，《幽☆遊☆白書》也",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20063012421403750",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "樂高Level Up想像力大作戰",
@@ -5197,7 +5197,7 @@ eventsALL = [
         "description": "週一至週四-10amto7pm、週五至週六-10amto9pm、週日-10amto6pm",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20070311292840777",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山親子表藝節 自然童心三部曲《滾地球》",
@@ -5207,7 +5207,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20041417311261517",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Dream Big元大公益圓夢計畫公益教育展",
@@ -5217,7 +5217,7 @@ eventsALL = [
         "description": "疫情改變全民生活型態，教育與弱勢服務卻不停歇！元大金控暨元大文教基金會所發起「DreamBig元大公",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20070610093519285",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【2020創生塾系列講堂】七月場｜二地居住x移居戰略",
@@ -5227,7 +5227,7 @@ eventsALL = [
         "description": "【2020創生塾系列講堂】2020，林事務所「創生塾」講堂，嚴選多項創生主題，策劃20場內容講座，共",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20062918425056416",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "HYUNDAI 【跨越當代 馭見未來】品牌工藝展",
@@ -5237,7 +5237,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20070311561097964",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020 樂事嘴饞釣魚機全台巡迴活動",
@@ -5247,7 +5247,7 @@ eventsALL = [
         "description": "嘴饞的時候特別容易想到”樂事”，樂事有好多各種不同風味的洋芋片，每個口味都超好吃的~樂事現在就是要來",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20062017055213304",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "玩玩具",
@@ -5257,7 +5257,7 @@ eventsALL = [
         "description": "07.03一般遊客13:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20063011592800011",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺灣美食嘉年華 美食購夠GO",
@@ -5267,7 +5267,7 @@ eventsALL = [
         "description": "7/3（五）11:30-18:30,7/4（六）11:00-18:30,7/5（日）11:00-18",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20063012264119065",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "玩玩具",
@@ -5277,7 +5277,7 @@ eventsALL = [
         "description": "07.03一般遊客13:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20063011592800011",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "安佳X臺虎精釀　一起調啤",
@@ -5287,7 +5287,7 @@ eventsALL = [
         "description": "安佳X臺虎潮流限定啤兒蓋芝，7/3-7/5相約在華山，與你一起調啤！誰說奶蓋只專屬於手搖飲？獨具魅力",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20062216423154368",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【殼】跨界裝置藝術展",
@@ -5297,7 +5297,7 @@ eventsALL = [
         "description": "本次展覽作為品牌2020FW-2021SS系列同展覽名稱【殼】的前導，並跨界邀約「瓦愣紙藝術家-鍾凱",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?23aaeb09-8795-46e1-a4cd-f2f652bbde1a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "世紀當代舞團 2020《荒塚的繁花》首演",
@@ -5307,7 +5307,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20051417091391376",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "迷 你的城市－MINI夏日巡迴展",
@@ -5317,7 +5317,7 @@ eventsALL = [
         "description": "自1959年開下英國Longbridge生產線那刻開始，MINI始終堅持只做那個唯一。堅持問世之初的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20062014062820737",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020華山親子表藝節「日藏驚喜」",
@@ -5327,7 +5327,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20042017145784967",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "接近─賴志盛",
@@ -5337,7 +5337,7 @@ eventsALL = [
         "description": "藝想迴廊位於本館大廳挑高三層樓所圍塑的開放區域。有別於館內典型的白盒子展覽場，這",
         "href": "https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw&id=671&allObj=%7B%22JJMethod%22%3A%22GetEx%22%2C%22Type%22%3A%221%22%7D",
         "type": "展覽活動",
-        "location": "臺北市立美術館"
+        "location": "北美館"
     },
     {
         "title": "西班牙奇幻攝影大師 尤傑尼歐特展",
@@ -5347,7 +5347,7 @@ eventsALL = [
         "description": "購票入場(最後售票入場時間17:30)/(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20060114310607537",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】曾經的過客，如今的歸人 ─ 留在家鄉真的比較好",
@@ -5357,7 +5357,7 @@ eventsALL = [
         "description": "13:30開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20060116555685623",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "年輕世代的技術劇場人座談會",
@@ -5367,7 +5367,7 @@ eventsALL = [
         "description": "當劇場界因疫情衝擊而不得不暫緩腳步，除了自我反思與沉澱，還有什麼是我們可以做的呢？表演藝術界因為有許",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20061610462723408",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "從亞利安漫步到巴洛克花園的路上-2020 HENRY PAN思覺彩繪創作展",
@@ -5377,7 +5377,7 @@ eventsALL = [
         "description": "流連在外太空的亞利安男孩，轉世前喝了太多孟婆湯，忘記了地球的語彙和符碼，就像沒有規格化的硬碟，需要建",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ab91bbfb-ebb0-476e-a1f7-9b5651c9882e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "SleepCare 快閃活動",
@@ -5387,7 +5387,7 @@ eventsALL = [
         "description": "SleepCare眠之初照顧你的睡眠，跳脫傳統框架，小資族也可以躺好床!為了讓更多的民眾體驗Slee",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20061014435240616",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "銘傳大學數位媒體設計學系第17屆畢業展_ THX",
@@ -5397,7 +5397,7 @@ eventsALL = [
         "description": "「謝了，當代教我一無所懼。」感謝這個時代，不停止的訊息彈跳和反覆濫造的媒體，壞透了卻也好得無比。我們",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?55dc5d1b-05d6-4253-a667-27a286b19e59",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2020國立聯合大學建築學系畢業展覽失序Disorder",
@@ -5407,7 +5407,7 @@ eventsALL = [
         "description": "空間對每個人都有各自的理解，處於我們的記憶深處，決定於我們的成長。學習階段我們順應社會的規範與期待，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f26db9c3-0d3f-416c-9164-6f07036cb623",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "國立東華大學藝術與設計學系109級畢業展<署名>",
@@ -5417,7 +5417,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20061510365201003",
         "type": "展覽",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "收訊範圍外",
@@ -5427,7 +5427,7 @@ eventsALL = [
         "description": "華梵大學美術與文創學系的第二十一屆畢業展，每位同學積極地將自己的想法透過作品傳達給觀者，而舉辦展覽不",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a2075cd4-fa58-41f9-8b5f-b000e2474f3f",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "3D WALK™｜ 3D列印城市慢跑鞋 體驗會",
@@ -5437,7 +5437,7 @@ eventsALL = [
         "description": "『3DWALK™｜3D列印城市慢跑鞋』體驗會，會讓大家感受這項新的產品，透過新的製程、新的概念，做出",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20052511033059710",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020 北科建築畢業設計 - 臨界點",
@@ -5447,7 +5447,7 @@ eventsALL = [
         "description": "少一點多一點都是多餘時便是臨界點。我們或許尋求和諧；或許尋求矛盾，在此刻，我們嘗試與時代對話，尋找此",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3dfd3f4d-ff93-40d0-84aa-e900d15a35c0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Xperia 1 II 為速度而生 粉絲搶先體驗會",
@@ -5457,7 +5457,7 @@ eventsALL = [
         "description": "如活動說明",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20060216553703424",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Design Connection 連接設計展",
@@ -5467,7 +5467,7 @@ eventsALL = [
         "description": "台日連結，設計連線疫情當下，全球進入大鎖國時代，多數跨國展覽不是延期就是取消，也因此缺少了許多產品設",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2e8383a5-080f-4dc0-be1e-e0054cf824f9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2020國立臺灣科技大學建築系畢業展覽",
@@ -5477,7 +5477,7 @@ eventsALL = [
         "description": "貳零貳零台灣科技大學建築系105級宣言沒有意象，建築是建造的異議，是悖離乏味或成見，是逆行於表象或消",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?915f26e6-97eb-4cd7-b3f3-d76a5776fe2e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【2020創生塾系列講堂】六月場｜體驗遊程x魅力挖掘",
@@ -5487,7 +5487,7 @@ eventsALL = [
         "description": "正取名額已滿",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20060116404009707",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "成大建築壹零捌級畢業特展",
@@ -5497,7 +5497,7 @@ eventsALL = [
         "description": "踏入建築教育的第五年，以畢業設計為名，對自身及世界拋出探詢，建築是什麼？我如何面對建築？人們如何透過",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?53087eee-6540-4461-b030-446198ce20fe",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】在地文化發信地-老屋的味道與記憶",
@@ -5507,7 +5507,7 @@ eventsALL = [
         "description": "(13:30開放網路報名觀眾進場；13:45開放現場報名觀眾進場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20050411191848135",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "BMW Urban Touring 風格野遊",
@@ -5517,7 +5517,7 @@ eventsALL = [
         "description": "活動官網：https://event.bmw.com.tw/campaign/2020/3serie",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20032112062755651",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "銘傳大學建築系第17屆畢業展-Gestalt place完形場所",
@@ -5527,7 +5527,7 @@ eventsALL = [
         "description": "．「完形場所GestaltPlace」-．「場所形塑個體-個體組成我們-我們創造場所」每個人的人生歷",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ae58b6b4-3001-4015-b607-7a13cc23a714",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "玩遊藝",
@@ -5537,7 +5537,7 @@ eventsALL = [
         "description": "透過展覽的形式傳遞文化，對於台灣工藝有更深的認知，透過互動感受生活之美的價值【有遊戲、吸引人流、互動",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?35c96674-ac2b-43ff-b36b-3553156349f1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "下十年，循環設計展 | 系列講座工作坊",
@@ -5547,7 +5547,7 @@ eventsALL = [
         "description": "以下十年循環設計展主題「塑膠/包裝」、「時尚/紡織」、「居住/物件」延伸，自海廢、循環時尚及日常物件",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?a25af737-7e49-485b-9b21-ffb089d22ecf",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【2020創生塾系列講堂】五月場｜地藝術季x 交流戰術",
@@ -5557,7 +5557,7 @@ eventsALL = [
         "description": "2020，林事務所「創生塾」講堂，嚴選多項創生主題，策劃20場內容講座，共同探討關於台灣地域活化可行",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20043016590521673",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "請幫我記得",
@@ -5567,7 +5567,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20040811011647578",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "東南科大表演藝術系第二屆畢業製作(戲劇組)《刻板映像》 Stereotype",
@@ -5577,7 +5577,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20032415105314572",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「人造關係」 文化大學資訊傳播2020畢業成果展",
@@ -5587,7 +5587,7 @@ eventsALL = [
         "description": "Web4.0的時代來臨！科技發展與人類文明的演進息息相關，程式設計、網站規劃、數位行銷都是由人們所創",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7a3df3db-2652-420b-b915-dc285d052455",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "文大2020聯合畢展／大學博覽會  5/1~3松山文創 重磅登場",
@@ -5597,7 +5597,7 @@ eventsALL = [
         "description": "精采展翼創意起飛文大2020聯合畢展／大學博覽會5/1~3松山文創重磅登場是作者，企劃者，也是策展人",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8d64ee1f-12f7-45d1-b384-43072f6cbfdf",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "深夜練等",
@@ -5607,7 +5607,7 @@ eventsALL = [
         "description": "眼眶暈染著疲憊的黑身體勞累精神卻一絲不減宵夜是慰藉支持著HP的來源戰場在書桌上被窩內風扇咔咔轉動吹不",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3c496a49-b200-4ca5-870b-6b289bd898b2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "靜觀未來：身體影像短片展   Unfolding Futures – Body Motion Short Film Festival",
@@ -5617,7 +5617,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20041710295461877",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "T-bone水泥手作工坊",
@@ -5627,7 +5627,7 @@ eventsALL = [
         "description": "T-bone水泥工作室於2015年5月成立，專注於水泥材質創作。以台灣Taiwan的T為品牌的起頭，",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?3d8b2b09-51b1-405d-b537-13d628f56928",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "東南科大表藝系第二屆畢業製作(音樂劇組)《顛倒童話》",
@@ -5637,7 +5637,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20032415052965048",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "立物創意｜原創 收納 生活展",
@@ -5647,7 +5647,7 @@ eventsALL = [
         "description": "週五、六及例假日前一天到9:00pm",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20032710300473346",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "馬卡龍腳趾｜文具雜貨店",
@@ -5657,7 +5657,7 @@ eventsALL = [
         "description": "週五、六及例假日前一天到9:00pm",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20032710423957662",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "本質展 - 生活飾物",
@@ -5667,7 +5667,7 @@ eventsALL = [
         "description": "「凡踵事增華皆謂之飾」，凡物去其塵垢即所以增其光彩。飾物，裝飾之物，如家飾品、穿戴飾品等。從生活中的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1a3ae0fe-baa2-49c1-badf-87b218a94a14",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松菸風格店家】November Tresaure 週末限定手作體驗",
@@ -5677,7 +5677,7 @@ eventsALL = [
         "description": "「搖曳燭光，一瓣心香，喚醒內心深處感知記憶。」在洛杉磯唸書時期無意間打翻了一顆香氛蠟燭，開啟了我與s",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?2c8e649a-7da1-4895-bc92-8e71bd3b98af",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】透過藝術打造地方魅力DNA 《停辦》",
@@ -5687,7 +5687,7 @@ eventsALL = [
         "description": "【華山文旅學X相遇地方】因新型冠狀病毒的關係，考量政府政策以及防疫行動，原訂為3月28日的文旅學停辦",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20030409380156381",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "輔大廣告公司",
@@ -5697,7 +5697,7 @@ eventsALL = [
         "description": "輔大廣告公司徵才中！本公司由七個團隊組成，並分別服務六個品牌。本公司最大的特色在於內部皆由社會新血大",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?68e502d4-d048-48b1-8402-3fb4e7f9ab80",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "金旋音樂節｜夢境交換所",
@@ -5707,7 +5707,7 @@ eventsALL = [
         "description": "由政大金旋獎所主辦的「金旋音樂節」將於3月15日在華山1914文化創意產業園區盛大展開，秉持著推廣學",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20030411271062122",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "IKKO TANAKA ISSEY MIYAKE No.5　展",
@@ -5717,7 +5717,7 @@ eventsALL = [
         "description": "由平面設計師田中一光先生的作品為主題的第五次服裝系列。此系列於2016年推出，作為向田中一光先生致敬",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20030613431691180",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "IKKO TANAKA ISSEY MIYAKE No.5　展",
@@ -5727,7 +5727,7 @@ eventsALL = [
         "description": "由平面設計師田中一光先生的作品為主題的第五次服裝系列。此系列於2016年推出，作為向田中一光先生致敬",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20030613431691180",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "坐座做．做座展｜SIT DOWN PLEASE",
@@ -5737,7 +5737,7 @@ eventsALL = [
         "description": "在我們醒著的時間裡，有80%是坐著的；因此，椅子是我們每天接觸最頻繁、也最依賴的一種生活道具。坐具文",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e4713d22-0498-4609-b4cf-26c05071e634",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2020相遇舞蹈節—共創",
@@ -5747,7 +5747,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19122316343674168",
         "type": "表演&&工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "GABI+SKIN｜Wake up your skin",
@@ -5757,7 +5757,7 @@ eventsALL = [
         "description": "週五、六及例假日前一天到9:00pm",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20022812065312051",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Takumi Next 2020",
@@ -5767,7 +5767,7 @@ eventsALL = [
         "description": "JETRO（日本貿易振興機構）與未来市攜手，將來自日本18縣道、43品牌及品牌職人（TAKUMI）匠",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20022812095470515",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松菸小賣所主題特展—花漾 GALLERY",
@@ -5777,7 +5777,7 @@ eventsALL = [
         "description": "松菸小賣所本次主題特展以春天為發想，網羅春季主題與繽紛色系的商品，要在春暖花開之際來一場屬於松菸的花",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f9e3b539-5a09-47f6-bb0a-90da457614e0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "\"GROWTH\" — 中村萌 個展",
@@ -5787,7 +5787,7 @@ eventsALL = [
         "description": "03.0811:00AM-5:00PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20022314164930324",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020循環設計展 下十年 逆轉地球超載日",
@@ -5797,7 +5797,7 @@ eventsALL = [
         "description": "在一年之中，人類將地球可再生資源用完的那天，被稱為「地球超載日」；以2019年而言，「地球超載日」是",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?23f1c634-ce46-4d7d-82d6-c65f7fbe910d",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "日本52PRO！劇團新作《夾縫轍痕》",
@@ -5807,7 +5807,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19120513332272017",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Products Exhibition - 8 Stories ｜日本八尾市的8個生活產品開發故事",
@@ -5817,7 +5817,7 @@ eventsALL = [
         "description": "◤ProductsExhibition-8Stories｜日本八尾市的8個生活產品開發故事◢///地",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20022814180404727",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "文化空間的未來之路 Imagine A Cultural Organization For Next Generation",
@@ -5827,7 +5827,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20020112442574730",
         "type": "工作坊&&講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "淺野木工武士大賽作品展暨頒獎典禮",
@@ -5837,7 +5837,7 @@ eventsALL = [
         "description": "為推廣環保綠建材，鼓勵木工與設計師一起激發創意火花，「日本A&A淺野矽酸鈣板」以「武士」職人精神為號",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20020815120515683",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "#hellobaobao",
@@ -5847,7 +5847,7 @@ eventsALL = [
         "description": "時尚品牌們翻新LOGO才剛過不久，馬上又推出一波迷你到裝不下任何東西的包包新風潮。在2020年東京奧",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20011918450320122",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "SUSAN BIJL 早春 POP-UP",
@@ -5857,7 +5857,7 @@ eventsALL = [
         "description": "成立於2000年，來自荷蘭的袋包品牌SUSANBIJL帶著荷蘭自由大膽的精神，在設計輪廓上挑戰簡化，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20020511090059777",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "#hellobaobao",
@@ -5867,7 +5867,7 @@ eventsALL = [
         "description": "時尚品牌們翻新LOGO才剛過不久，馬上又推出一波迷你到裝不下任何東西的包包新風潮。在2020年東京奧",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20011918450320122",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大師講座 : 西村幸夫 [都市構想力 – 從生活經驗找到都市前進的方向]",
@@ -5877,7 +5877,7 @@ eventsALL = [
         "description": "台灣文創發展股份有限公司、財團法人臺北市會展產業發展基金會與台灣歷史資源經理學會合力邀請西村幸夫教授",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20010609464514964",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "極致雲龍箔工藝｜物外台日跨界合作分享會",
@@ -5887,7 +5887,7 @@ eventsALL = [
         "description": "歷時三年時間籌備，橫跨台日兩地1800公里，物外以台灣精品文具品牌，造訪京都百年工藝工房，跨界合作，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20012315552977625",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "水水藝術節",
@@ -5897,7 +5897,7 @@ eventsALL = [
         "description": "過年不想在高速公路上塞好塞滿，還能帶家人去哪裡?水水文創每年新春舉辦的大型手創市集-「水水藝術節」將",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20012216502198245",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "植田正治逝世20年紀念回顧展",
@@ -5907,7 +5907,7 @@ eventsALL = [
         "description": "購票入場(最後售票入場時間17:30)/除夕休館(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19121512500712210",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "AKB48 Team TP mini concert～只有夕陽沒有驚喜～",
@@ -5917,7 +5917,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20010219555416634",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "家．流動與安住：臺灣住屋建築風景之一隅",
@@ -5927,7 +5927,7 @@ eventsALL = [
         "description": "建築是臺灣藝術文化重要的一環，反映出不同時代的社會環境與文化變遷。面對著民間的倡議、催生臺灣建築博物",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20010115373029218",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "國家文化記憶庫：記憶樹報攤",
@@ -5937,7 +5937,7 @@ eventsALL = [
         "description": "▎記憶樹報攤以島土為根、故事為養分，從不同年代、地區、事件的維度發展出枝芽後，長出一棵具臺灣文化DN",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20011417235992335",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "JFOODO 日本開運魚 快閃料亭",
@@ -5947,7 +5947,7 @@ eventsALL = [
         "description": "即日起～2020.01.29時間：11:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20010914200990331",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Netflix 彼岸之嫁”麗蘭的婚禮”特展",
@@ -5957,7 +5957,7 @@ eventsALL = [
         "description": "平日13:30-20:00;假日11:00-22:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_20010914264640255",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "The Misused誤用論｜日常五金文化觀察與誤用指南",
@@ -5967,7 +5967,7 @@ eventsALL = [
         "description": "誤用論始於2018年，為兩位工業設計師自行發起的世界五金文化研究計畫。每年聚焦於一特定國家的五金，在",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b3c1f548-c09c-4bdc-99f4-022044075bb9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2020 InTW《New Step》",
@@ -5977,7 +5977,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_20010609545625686",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "狗狗GoGoGo！華山機場 狗狗主場",
@@ -5987,7 +5987,7 @@ eventsALL = [
         "description": "身為理所當然，家裡的一份子除了公園、寵物友善餐廳之外，你一定也想著好希望還能帶著汪星人到哪裡好好玩耍",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120916374631155",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "花寓  YU FLORIST  -珠寶花卉寓所 FLORIST   ART",
@@ -5997,7 +5997,7 @@ eventsALL = [
         "description": "透過飲食.選品.體驗.三大元素，將花藝靈感與創新輕珠寶工藝碰撞幻化成一場藝術饗宴；花的柔，珠寶的繽紛",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f9f15710-7373-421c-ae39-d4e8523cb548",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "水豚君日日是好日~15周年特展",
@@ -6007,7 +6007,7 @@ eventsALL = [
         "description": "除夕休館、每周一休館實施消毒清潔17:30停止售票及入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19121018174583557",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「Story Wear」傳承與時尚永續 只有一線之間",
@@ -6017,7 +6017,7 @@ eventsALL = [
         "description": "有感於時尚產業為「全世界第二大污染源」而全球環境問題攀升之際，StoryWear零廢棄時尚品牌，希望",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19122517383648105",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "myVideo x 阿奇抱抱日",
@@ -6027,7 +6027,7 @@ eventsALL = [
         "description": "(14:00-14:30及15:00-15:30為阿奇抱抱見面會)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19123015200252125",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "myVideo x 阿奇抱抱日",
@@ -6037,7 +6037,7 @@ eventsALL = [
         "description": "(14:00-14:30及15:00-15:30為阿奇抱抱見面會)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19123015200252125",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "小熊學校特展",
@@ -6047,7 +6047,7 @@ eventsALL = [
         "description": "超療癒的小熊學校，想看傑琪與她的11個哥哥不用飛日本~今年冬天熊古錐、熊歡喜的「小熊學校特展」將展出",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8a8659af-30e5-4781-b7fb-023e17e9e0e1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "LearnFitAPP瘦身革命親子野餐園遊會",
@@ -6057,7 +6057,7 @@ eventsALL = [
         "description": "我是一休2019/12/29號，我會在台北華山文創園區（新生高架八德路口）舉辦「LearnFitAP",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19122617172805756",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "卡娜赫拉展 小動物眼中的15年與未來",
@@ -6067,7 +6067,7 @@ eventsALL = [
         "description": "用Q萌世界觀療癒占領全亞洲的日本插畫家-卡娜赫拉15年特展與卡娜赫拉和最可愛、討喜的小動物們，一起迎",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e60f1be5-0c77-4f33-a840-eca89f0ee358",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "我把動物FUN大了!霍夫曼的療癒動物園",
@@ -6077,7 +6077,7 @@ eventsALL = [
         "description": "17:30最後入場;除夕休館",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120509572865250",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "超．大恐龍展",
@@ -6087,7 +6087,7 @@ eventsALL = [
         "description": "除夕(1/24)休館",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100218255918385",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大華山地區兒童導覽半日遊，現正報名中！",
@@ -6097,7 +6097,7 @@ eventsALL = [
         "description": "開放0人預約",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120718203809356",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「扭蛋星球開麥拉」聯名特展",
@@ -6107,7 +6107,7 @@ eventsALL = [
         "description": "各位扭蛋星人們，扭蛋星球又來了！這一次要帶各位扭蛋星人一起拍電影啦～ACTION!",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?36b8341e-b908-4970-8c0e-44ce08967b85",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「拉拉熊懶萌日常」 特展",
@@ -6117,7 +6117,7 @@ eventsALL = [
         "description": "萌翻天的拉拉熊與他好朋友們回來了！拉拉熊，遠道而來，再度登台與粉絲見面！快跟著拉拉熊與他的好朋友們腳",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?bb190c93-5a00-4a4a-9cb5-5c912130228e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "玩具變變變 - 創客養成記特展",
@@ -6127,7 +6127,7 @@ eventsALL = [
         "description": "「玩具變變變～創客養成記」特展集合世界各國、老、中、青、少、古、今、中、外的各式玩具，在紙製人型玩偶",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?48afb597-18cf-4900-b8df-5f697278659e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "PANTONE COLOR INSTITUTE™｜TAIPEI 全球城市玩色計劃",
@@ -6137,7 +6137,7 @@ eventsALL = [
         "description": "全球第一個以城市色彩為主題的藝術展。串聯11位藝術家、11個關於台北的故事，橫跨平面、攝影、光雕、拼",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d262e7c4-dd43-4e37-a7bf-4badd9006070",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "987動感樂園蠟筆小新x白爛貓聯名期間限定店",
@@ -6147,7 +6147,7 @@ eventsALL = [
         "description": "位於松山文創園區-北向製菸工廠，全新打造的120坪樂園風格購物中心，全台唯一結合蠟筆小新、白爛貓的期",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8d5521be-bf7d-41fe-b0e7-ffc6f3a84e72",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松菸講堂×微笑台灣】2019冬季場，冬季限定 給旅人的台味禮物地圖",
@@ -6157,7 +6157,7 @@ eventsALL = [
         "description": "【松菸講堂×微笑台灣】2019冬季場，12/28（六）冬季限定給旅人的台味禮物地圖又到了冬天，表達心",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?d10180b7-427d-48d4-ae21-840fa01381c7",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "背包客劇團第六號作品《未知的旅行》",
@@ -6167,7 +6167,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19102111421790077",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019 董怡芬X安娜琪舞蹈劇場「與時間牽手II-我們就是時間」",
@@ -6177,7 +6177,7 @@ eventsALL = [
         "description": "編舞者董怡芬延續2017年於安娜琪駐團期間所發表的作品『與時間牽手』，再次對「時間」提出不同的探索向",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0997298c-a6be-4bf1-8e18-625c6a624dd8",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "玩具電｜All You Need is Toy",
@@ -6187,7 +6187,7 @@ eventsALL = [
         "description": "例假日10:00-19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19122010452768507",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "巴黎龐畢度中心 兒童藝術工作坊｜我的眼睛！視覺探索大冒險",
@@ -6197,7 +6197,7 @@ eventsALL = [
         "description": "每週五、六、日限額開放<時間：指定日五組場次，單場1.5小時>(※除夕(2020/1/24)休館；每",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102118354760128",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "黃阿瑪的後宮生活　相遇十週年小店舖",
@@ -6207,7 +6207,7 @@ eventsALL = [
         "description": "除夕休館",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19121220042978030",
         "type": "展覽活動&&期間限定店",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "LINE FRIENDS 潮玩限定店",
@@ -6217,7 +6217,7 @@ eventsALL = [
         "description": "平日：11:00-19:00；假日：10:00-19:00(除夕休館)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19121011542193256",
         "type": "展覽活動&&期間限定店",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「發現綠色奇蹟 展現花卉魅力」花卉展",
@@ -6227,7 +6227,7 @@ eventsALL = [
         "description": "臺灣花卉產業實力在產、官、學多年來齊心努力下，早已厚植豐富產業能量及國際能見度。不僅眾人熟知的蝴蝶蘭",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19121716173138342",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】地方創生的風土設計課-青年如何參與地方創生，創造自己的志業與事業",
@@ -6237,7 +6237,7 @@ eventsALL = [
         "description": "【華山文旅學X相遇地方】地方創生的風土設計課-青年如何參與地方創生，創造自己的志業與事業國立台南藝術",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112612263626368",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Garmin「vívomove系列獨一有二快閃店」",
@@ -6247,7 +6247,7 @@ eventsALL = [
         "description": "全台限時Garmin「vívomove系列獨一有二快閃店」享獨家優惠再加贈精品禮Garmin新品展演",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120916304174407",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Creative Mornings Taipei 創意早晨講座：Silence寂靜",
@@ -6257,7 +6257,7 @@ eventsALL = [
         "description": "終於到了十二月，心裡有沒有特別興奮呢？想著終於要放假了，希望睡醒隔天就是放假日。每個月一次的Crea",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19121710385234950",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺大戲劇系第18屆畢業製作《皮爾·金特》",
@@ -6267,7 +6267,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19102711180325045",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第二屆 台北插畫藝術節「壞壞壞 Why Why Why」",
@@ -6277,7 +6277,7 @@ eventsALL = [
         "description": "第二屆台北插畫藝術節，我們試著來談談「壞品味」這個概念，關於插畫的三種不同的「壞」，從插畫形式上的「",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d3c04d6f-34aa-492e-813c-9197b725afc8",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "大身體製造  劉彥成 X 王筑樺 X 沈樂  A Piece of Cake",
@@ -6287,7 +6287,7 @@ eventsALL = [
         "description": "大身體製造2019全新創作劉彥成X王筑樺X沈樂APieceofCake詼諧日常x衝破框線X痛快享受活",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?257c7f09-65c6-470c-9271-33a2dd23bd71",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第三屆青年公益實踐計畫成果發表會",
@@ -6297,7 +6297,7 @@ eventsALL = [
         "description": "和我們一起往未來前進！社會及環境的快速變遷，我們的世界出現了許多問題，正衝擊著我們的生活，不論是貧窮",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120419303352332",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "美業文青潮市集",
@@ -6307,7 +6307,7 @@ eventsALL = [
         "description": "12/14AM10:00~PM9:00,12/15AM10:00~PM6:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120321542315303",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "神腦原鄉踏查紀錄片競賽頒獎暨特映會",
@@ -6317,7 +6317,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112515465572411",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019第七屆 華文朗讀節-故事的力量",
@@ -6327,7 +6327,7 @@ eventsALL = [
         "description": "這個時代，每個人都需要故事！從小我們在故事中理解世界的景象。透過朗讀，我們在上一代的故事想像中馳騁。",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112315573786882",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "熱青年Action！第二屆互動展",
@@ -6337,7 +6337,7 @@ eventsALL = [
         "description": "「熱青年」，是一群對生活、環境、社會有想法，渴望找尋問題，解決問題並改變社會的青年，抱著一股熱血，將",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102915123130443",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺師大表演藝術學士學位學程畢業製作《換你許願》",
@@ -6347,7 +6347,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19100112224008035",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "天涯海角攝影展",
@@ -6357,7 +6357,7 @@ eventsALL = [
         "description": "透過鏡頭，從天涯海角正視地球暖化與永續發展。由牽成永續發展文教基金會及中華民國永續發展學會共同舉辦攝",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a6e5676b-9b66-481e-9a75-b6b98ca4e9a9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《靈戲．九歌》 華岡藝展  中國文化大學藝術學院2019年院展",
@@ -6367,7 +6367,7 @@ eventsALL = [
         "description": "在科技與現實的碰撞中、在記憶的底層裡，遠古九歌神明浪漫情懷，泛著溫暖光暈在其中尋找：新的價值、新的人",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?68b73de2-ce6c-4ef6-b767-87c0281d6da6",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "台北蚤之市 Taipei Flea Market 2019",
@@ -6377,7 +6377,7 @@ eventsALL = [
         "description": "2019台北蚤之市TaipeiFleaMarket即將在12月13日(五)至12月15日(日)揭幕的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?da890197-e1a9-4bbc-9ca8-f47dea11bed4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "黎明技術學院服飾設計系第四屆畢業展演 旬錦",
@@ -6387,7 +6387,7 @@ eventsALL = [
         "description": "織品為土壤時間為肥料四年所學傾注於此以布傾訴所望只求美麗花開",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f0715133-ea48-46d2-9048-faafb668e7d9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "新女力創業節 Startup Festival",
@@ -6397,7 +6397,7 @@ eventsALL = [
         "description": "2019新女力創業節「新住民回娘家囉！」本次活動，將發表《新住民創業女性加速器計劃》舉辦三屆以來，提",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112618280495781",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ＰＣ聖誕趴 — 2019 台北 ＸＦ網聚",
@@ -6407,7 +6407,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110210194318767",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "108年青年行動啟程轉動Changemaker計畫成果展",
@@ -6417,7 +6417,7 @@ eventsALL = [
         "description": "活動官網：https://act.ydachangemaker.tw/#售票連結：https://w",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120315512095288",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "108年青年海外和平工作團表揚暨博覽會",
@@ -6427,7 +6427,7 @@ eventsALL = [
         "description": "教育部青年發展署於今(108)年補助157個青年團隊、1,612名青年赴24個國家進行海外服務工作；",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120321284275666",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "瑞典日 (Sweden Day)",
@@ -6437,7 +6437,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120315260153623",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "108年青年行動啟程轉動Changemaker計畫成果展",
@@ -6447,7 +6447,7 @@ eventsALL = [
         "description": "活動官網：https://act.ydachangemaker.tw/#售票連結：https://w",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120315512095288",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "108年青年海外和平工作團表揚暨博覽會",
@@ -6457,7 +6457,7 @@ eventsALL = [
         "description": "教育部青年發展署於今(108)年補助157個青年團隊、1,612名青年赴24個國家進行海外服務工作；",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120321284275666",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Helinox 10th Anniversary Pop-up Store Taipei",
@@ -6467,7 +6467,7 @@ eventsALL = [
         "description": "12/711:00-21:0012/811:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120514395167216",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "家樂福小農市集",
@@ -6477,7 +6477,7 @@ eventsALL = [
         "description": "家樂福把農場搬到城市12/7、12/8華山小農市集全場15個結合小農、進口與食育展攤12/6前透過家",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120809561577461",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "流浪的田｜文學・藝術 台灣農情記事",
@@ -6487,7 +6487,7 @@ eventsALL = [
         "description": "春耕夏耘秋收冬藏，泥土滋養著作物，更賜予人們心靈安適與豐足。2019立體文學展覽，以『農田』為主軸，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?688ca30d-dc4c-4bbc-bab2-c56f6f31eae9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "窩在印花裡 Happy Cozy Prints",
@@ -6497,7 +6497,7 @@ eventsALL = [
         "description": "印花樂是一個成長於台灣的設計品牌，以印花布料創造美感與共好生活，2008年由三位從大學美術系畢業的創",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120612033966864",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "LION POP-UP STUDIO",
@@ -6507,7 +6507,7 @@ eventsALL = [
         "description": "日期：12/6(五)15:00-19:00、12/7(六)11:00-19:00、12/8(日)11",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120315093415718",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019台北藝術自由日 Free Art Fair",
@@ -6517,7 +6517,7 @@ eventsALL = [
         "description": "第五屆「台北藝術自由日」，12月6日至12月8日於松山文創園區2、3號倉庫盛大登場。本屆以「愛情神話",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4c95bd2e-11aa-4d6e-a733-6f7c2115d8f6",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019通訊大賽 - 頒獎典禮暨新創成果展",
@@ -6527,7 +6527,7 @@ eventsALL = [
         "description": "這個素有「通訊界的奧斯卡獎」美譽的競賽，是由經濟部工業局、經濟部工業局網通產業發展推動辦公室共同主辦",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112617055762571",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "LIFE IS CREATIVE 設計改變社會 - 神戶的創造力",
@@ -6537,7 +6537,7 @@ eventsALL = [
         "description": "在經歷阪神大地震後，日本神戶市民有著共同的目標-「打造出全新的神戶市」！於是不同專業領域、不同年齡的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?800f8960-85ef-4ea5-a7a6-dd78c13373dd",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "瀨戶內海游藝遊 青年培力與國際實踐 座談會",
@@ -6547,7 +6547,7 @@ eventsALL = [
         "description": "報名期間11/2000:00~11/3000:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112015590456075",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "AKB48 Team TP mini concert～Are you ready for TP again～",
@@ -6557,7 +6557,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19111117354376320",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "去你的南極Go！Go！South Pole",
@@ -6567,7 +6567,7 @@ eventsALL = [
         "description": "你去過南極點嗎？去年底橘子關懷基金會創辦人劉柏園、陳彥博、宥勝、2位大夢青年林語萱與吳昇儒成功完成挑",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?629c7aed-f268-4c41-8646-d4e76d81aae9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松菸創作者工廠機具教育課程】11/30 UV硬化平面印刷機初階",
@@ -6577,7 +6577,7 @@ eventsALL = [
         "description": "【松菸創作者工廠機具教育課程】11/30UV硬化平面印刷機初階",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?6a0375f9-4fe0-459a-b742-e26bafacb4cf",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《戰車世界》Roadshow",
@@ -6587,7 +6587,7 @@ eventsALL = [
         "description": "11/29(五)16：00-20：00-11/30(六)13：00-18：00免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112809302950085",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松菸小賣所主題特展 – 愛吃有禮",
@@ -6597,7 +6597,7 @@ eventsALL = [
         "description": "再怎麼樣的歲末年初都還是要好好過不論是犒賞自己或是要感謝身邊的任何支持請大大發揮最基本也最重要的權力",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a596fb37-93fc-4b0c-be60-212002cf64cb",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "idea TAIPEI創意工作營成果展【穿越那道牆，走進3.5坪的記憶】",
@@ -6607,7 +6607,7 @@ eventsALL = [
         "description": "近年來，擁有著歷史情感與群體記憶的眷村，面臨著拆遷搬離與保存活化的課題，來看看ideaTAIPEI創",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e3f74ace-59b3-4569-9dde-a84f07de4983",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "11/29-12/15 松菸 Lab 新主藝熱烈售票中",
@@ -6617,7 +6617,7 @@ eventsALL = [
         "description": "11/29-12/15松菸Lab新主藝熱烈售票中「三檔自製實驗節目，14場突破框架的舞蹈演出」",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b6333fa6-6448-4bfa-87af-82aeb3ab38d4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019原創基地節",
@@ -6627,7 +6627,7 @@ eventsALL = [
         "description": "遊走於松菸的地景藝術—相會在原創基地節連續七年在十二月舉辦的松山文創園區「原創基地節」，是歲末最受歡",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e4bf4a34-3a20-478d-b846-c328def63fef",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019 雜學校 ZA SHARE｜亞洲最大教育創新博覽會",
@@ -6637,7 +6637,7 @@ eventsALL = [
         "description": "11/2812:00-20:00;11/29-11/3010:00-20:00;12/0110:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112210362410175",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "NIKE JDI \"猶豫是對自己太客氣\" 華山數位投影秀",
@@ -6647,7 +6647,7 @@ eventsALL = [
         "description": "寧願挑戰後知道自己的極限，也不要老了還留在原地後悔來台北華山迎接全新的自己，放手一搏！JustDoI",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19120213090001218",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「松菸創作者工廠 x 設計乾杯」11月份系列講座",
@@ -6657,7 +6657,7 @@ eventsALL = [
         "description": "11/27商業溝通必修的簡報設計秘笈11/28圖像授權法律知識分享",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?97885df2-213b-45e9-a343-bc3763b261b1",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《科技藝術與它的產地》Arts@ITRI藝術家進駐工研院_成果發佈會",
@@ -6667,7 +6667,7 @@ eventsALL = [
         "description": "《科技藝術與它的產地》Arts@ITRI藝術家進駐工研院_成果發佈會快閃展x國際講座x開幕記者會x藝",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3238076b-e75a-4159-bc3d-c3a2a2fed26a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "青春揮灑就這young",
@@ -6677,7 +6677,7 @@ eventsALL = [
         "description": "年度最潮的打卡盛事，快閃台北松菸讓你成為秋冬最in潮流人物，性感DJ炸翻全場、神秘嘉賓驚喜現身！特別",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?bb787943-1ca6-42d1-b8fe-b42369a20f7f",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第五屆我是導播datavideo盃總決賽",
@@ -6687,7 +6687,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112118091500242",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】  熱情的青年啊，你的家鄉在哪裡？",
@@ -6697,7 +6697,7 @@ eventsALL = [
         "description": "（13:30開放網絡報名觀眾入場；13:45開放現場報名觀眾入場）",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102811590969935",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "活化歷史生命劇場《呷飽了沒》Are You Hungry?",
@@ -6707,7 +6707,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19092718242107516",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019科學少年STEAM實驗場",
@@ -6717,7 +6717,7 @@ eventsALL = [
         "description": "11/22-11/2310:00-18:00；11/2410:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100111242289254",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "W-Expo女性創新國際人才交流展覽會",
@@ -6727,7 +6727,7 @@ eventsALL = [
         "description": "免費入場(活動時間依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112018131153270",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "W-Expo女性創新國際人才交流展覽會",
@@ -6737,7 +6737,7 @@ eventsALL = [
         "description": "免費入場(活動時間依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19112018131153270",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「荒洋野草」荒野保護協會行動特展",
@@ -6747,7 +6747,7 @@ eventsALL = [
         "description": "荒野保護協會長期對「海洋」與「陸域」棲地的關注，透過現場呈現與互動，讓更多人了解環境關懷的眾多面向及",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7a197949-473e-4008-ba80-3de9e6c38b60",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "策展開外掛  非課金玩家的超級攻略",
@@ -6757,7 +6757,7 @@ eventsALL = [
         "description": "場次日期詳見活動說明",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19111213024762866",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第14屆文馨獎頒獎典禮",
@@ -6767,7 +6767,7 @@ eventsALL = [
         "description": "文化部依據「獎勵出資獎助文化藝術事業者辦法」舉辦「文馨獎」。「文」，代表文化，「馨」是芬芳的意思，意",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3eec6125-086b-4611-af21-5ef501c352e5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "108年中小企業「創新世代 X 共好生活」聯合成果展",
@@ -6777,7 +6777,7 @@ eventsALL = [
         "description": "11／16（六）10:30–19:00,11／17（日）10:30–17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19111217412871755",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "g0v 公民科技創新獎助金 2019 成果發表會暨 g0v 社群忘年會",
@@ -6787,7 +6787,7 @@ eventsALL = [
         "description": "首次社群尾牙：g0v社群忘年會為了促進g0v.tw社群成員彼此交流，慰勞社群參與者一整年的辛勞，g0",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102517260026402",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "金門酒廠It’s Me我的生活派對",
@@ -6797,7 +6797,7 @@ eventsALL = [
         "description": "飄香逾一甲子，堅持手工製麴釀造出的金門高粱酒，品質深受國際肯定，可謂臺灣白酒市場的第一品牌。為展現金",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102213515833961",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "紙博 in 台北 2019",
@@ -6807,7 +6807,7 @@ eventsALL = [
         "description": "11/16_11:00-19:00-11/17_10:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110510553987533",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松菸創作者工廠機具教育課程】11/16 UV硬化平面印刷機進階",
@@ -6817,7 +6817,7 @@ eventsALL = [
         "description": "松菸創作者工廠11月份機具教育課程",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?a815e7f1-6a49-43cb-9287-0a1358b48050",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松菸創作者工廠機具教育課程】11/16 雷射切割機具進階",
@@ -6827,7 +6827,7 @@ eventsALL = [
         "description": "【松菸創作者工廠機具教育課程】11/16雷射切割機具進階",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?bee644c2-e6bd-4fbb-914f-ff1ec38ca5a9",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "樂事風味光影展",
@@ -6837,7 +6837,7 @@ eventsALL = [
         "description": "官方粉絲團：https://www.facebook.com/LaysTW台灣休閒零食的第一大品牌-",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110715360081548",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019微客國際志工生活節",
@@ -6847,7 +6847,7 @@ eventsALL = [
         "description": "11/1513:00-20:00、11/169:00-20:00、11/179:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101718511853621",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「美學，其實我們都有關係」not just talk 系列 2  < Friday Blues with One Roof >",
@@ -6857,7 +6857,7 @@ eventsALL = [
         "description": "香港最厲害的藍調天團即將來台演出。可以近距離跟他們一起玩音樂，這麼難得的機會絕對不要錯過!歡迎帶上自",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102314145769137",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "樂事風味光影展",
@@ -6867,7 +6867,7 @@ eventsALL = [
         "description": "官方粉絲團：https://www.facebook.com/LaysTW台灣休閒零食的第一大品牌-",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110715360081548",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "不銹鋼舞團年度演出《ＨＵＥ》",
@@ -6877,7 +6877,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19101511031900086",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "JOAN CORNELLÀ：I’M FULL OF SHIT 台北特展2019",
@@ -6887,7 +6887,7 @@ eventsALL = [
         "description": "現實永遠比想像更荒誕無稽。經常以性、宗教、種族、政治為題材的西班牙怪才JoanCornellà，以獨",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a139a0ee-4348-46ca-98f7-d19dfcde63ee",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "全齡快樂進行市",
@@ -6897,7 +6897,7 @@ eventsALL = [
         "description": "全齡快樂進行市，將引領每位「銀光時空家」，開啟一場從體驗老化到改變觀念的時光旅行，了解現今台灣對於全",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?dbafccb2-d2ee-41a7-a033-2b474b3d00b5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "台灣原創IP快閃店",
@@ -6907,7 +6907,7 @@ eventsALL = [
         "description": "108年上海國際品牌授權展的參展原創圖像角色，11月15到18號齊聚松山文創園區。「香蕉人胖胖蕉」、",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c3809a77-d91c-4c67-b648-f52a6652c4e7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019金點設計展",
@@ -6917,7 +6917,7 @@ eventsALL = [
         "description": "「全球警世鐘來到23:59，人們看見危險，我們看見饗宴。」關於未來，始終都是一體兩面。因為氣候變遷、",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d1674048-1c6b-4f07-bcf7-50fcb30b8e75",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第四屆 2019 Pop Up Asia 亞洲手創展",
@@ -6927,7 +6927,7 @@ eventsALL = [
         "description": "讓喜歡的事成為生活，鏈結亞洲手創生態系13國25城X500個手創品牌與平台X千名買家X八萬參與者｜1",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4b70b3f0-283c-45f9-bd01-e2992b3b893b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第6屆經濟部國家產業創新獎 產業創新論壇 臺北文創場",
@@ -6937,7 +6937,7 @@ eventsALL = [
         "description": "報名期間11/0100:00~11/1219:08",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110210504211122",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ETtoday好朋友放閃音樂節",
@@ -6947,7 +6947,7 @@ eventsALL = [
         "description": "多組藝人情歌獻唱X超CHILL互動體驗X聲林之王2同樂會天氣慢慢變涼，開始覺得空虛寂寞冷了嗎？別擔心",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100309163248463",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ETtoday好朋友放閃音樂節",
@@ -6957,7 +6957,7 @@ eventsALL = [
         "description": "多組藝人情歌獻唱X超CHILL互動體驗X聲林之王2同樂會天氣慢慢變涼，開始覺得空虛寂寞冷了嗎？別擔心",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100309163248463",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Pulima表演新藝站-奔放",
@@ -6967,7 +6967,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19100115345129237",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「舊時代的美好」-2019紙上躍躍然．典美插畫大賞",
@@ -6977,7 +6977,7 @@ eventsALL = [
         "description": "用插畫保存經典台灣味，典美插畫大賞精選17組插畫作品，跟著插畫創作人打開時光寶盒，召喚台灣舊時代的回",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b610aeaf-061f-4d3c-a61c-d942f011dd08",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "臺東地方文化館生活日特展《臺東日常的動靜之間》",
@@ -6987,7 +6987,7 @@ eventsALL = [
         "description": "臺東地方文化館生活日特展-臺東日常的動靜之間是由臺東縣政府文化處主辦，帶領9間地方文化館舍，首次於縣",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?26fcfaca-b936-4dd0-894c-5fcff5e27900",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "台灣文創珠寶展",
@@ -6997,7 +6997,7 @@ eventsALL = [
         "description": "你參觀過珠寶展嗎？其實逛珠寶展也可以充滿樂趣，更可以是親朋好友同樂的文創行程！「台灣文創珠寶展」為台",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?bfbcc772-8371-4ef0-866c-45062893efb9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "新住民女性創業節 Startup Festival",
@@ -7007,7 +7007,7 @@ eventsALL = [
         "description": "2019新住民女性創業節「新住民回娘家囉！」本次活動，將發表《新住民創業女性加速器計劃》舉辦三屆以來",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110710435749544",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "郭飛飛×奇亞子 物件日記聯展",
@@ -7017,7 +7017,7 @@ eventsALL = [
         "description": "每個生活物件像是本既私密又公開的日記。這是一個從生活出發的計畫。購物的發票明細、隨手筆記的小抄、喝過",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e4fd6a16-4e78-4cb2-830b-0f6920533ccb",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Light Bus - 2019金赫獎年度設計展",
@@ -7027,7 +7027,7 @@ eventsALL = [
         "description": "平日12:00-19:00/假日11:00-19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110120222321811",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "讀衣IV藝術時尚跨界展",
@@ -7037,7 +7037,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092520571311764",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "夢想需要不怕失敗的堅持 - 海碩網球系列賽特展",
@@ -7047,7 +7047,7 @@ eventsALL = [
         "description": "回顧以往，海碩網球系列賽已分別有12年（台北）及7年（高雄）歷史，除了球場上的精彩賽事外，今年更精心",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101717445627758",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "伊甸基金會 第六屆 無障礙生活節 「微老小鎮」老後人生體驗特展",
@@ -7057,7 +7057,7 @@ eventsALL = [
         "description": "想知道30年後的自己會是怎樣嗎?無障礙生活節，邀您體驗老後人生！伊甸基金會將於11/2-4舉辦無障礙",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7fc7652f-672e-4ee5-ac0d-63f83be4cbb9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "德明財經科技大學多媒體設計系第十三屆畢業成果發表展「計．生」",
@@ -7067,7 +7067,7 @@ eventsALL = [
         "description": "設計，始終寄生於我們腦海深處，卻從未真正找到過它。這次我們將熟睡中的設計因子喚醒，揭開全新的領域，讓",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e59d3fe3-a44a-4eb5-870c-ad2068eb6bf5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "松菸講堂×大人物品牌小聚－品牌經營課之四：Facebook廣告不可不知的進階知識",
@@ -7077,7 +7077,7 @@ eventsALL = [
         "description": "【松菸講堂×大人物品牌小聚】從基礎觀念建立，說明與媒體及KOL合作時應該如何觀察宣傳效果、除了曝光以",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?7c0a8ae6-14ee-4a31-96ce-4d90496ad801",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "溫事 ✕ Warmgrey Tail 生活設計展",
@@ -7087,7 +7087,7 @@ eventsALL = [
         "description": "WarmgreyTail是一個來自韓國的設計品牌，根據其自然風格的插圖創作各種商品。由丈夫和妻子組成",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19110110240458833",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019 國際手作設計節 2019 International Craft Design Festival",
@@ -7097,7 +7097,7 @@ eventsALL = [
         "description": "活動官網：https://www.facebook.com/events/7096941728285",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092616300245227",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "崇右影藝科技大學 演藝事業系 秋季展演",
@@ -7107,7 +7107,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19102712233963876",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019臺灣地方創生展",
@@ -7117,7 +7117,7 @@ eventsALL = [
         "description": "因應臺灣人口結構以及國土發展的現況，行政院將2019訂為地方創生元年，以「地、產、人」為核心不斷地推",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7bf902a6-b516-4c39-8554-9829ba5d5b5b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "臺北市公用頻道影片徵選頒獎典禮與成果展",
@@ -7127,7 +7127,7 @@ eventsALL = [
         "description": "為推廣有線電視公用頻道（第3頻道）與媒體近用權，臺北市政府觀光傳播局及臺北市公用頻道協會在華山191",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101817450986045",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Maker Faire Taipei 2019 臺北創客嘉年華 2019",
@@ -7137,7 +7137,7 @@ eventsALL = [
         "description": "一年一度的Maker大聚會，臺北創客嘉年華2019即將在10/26(六)、27(日)兩天於華山191",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102118012639478",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019【長弓舞蹈劇場】年度製作《BOUT》",
@@ -7147,7 +7147,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19090314123458526",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "生活的形狀—新竹縣工藝展",
@@ -7157,7 +7157,7 @@ eventsALL = [
         "description": "新竹縣生活的形狀，是什麼樣子？日本民藝運動之父柳宗悅曾說：「美是用的體現，用與美結合，就是工藝。」創",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5472d0b0-37d1-47b6-bb1f-600ddc5118a9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "重返山村日常《Made In Forest山林製造》新書分享會",
@@ -7167,7 +7167,7 @@ eventsALL = [
         "description": "在你心目中，山村是什麼模樣？來自森林的賜予、祖先的智慧與土地的召喚我們一起前往山村走走看看！",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?69d4b697-7cf6-4c1b-9a1b-83dddaaa6a55",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "幸福  同在一起  2019 大同心生活特展",
@@ -7177,7 +7177,7 @@ eventsALL = [
         "description": "在台灣已邁入100年的家電領導品牌大同公司，持續打造適合各種居家環境的家電，陪伴我們生活每一天。「幸",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102121400214987",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "幸福  同在一起  2019 大同心生活特展",
@@ -7187,7 +7187,7 @@ eventsALL = [
         "description": "在台灣已邁入100年的家電領導品牌大同公司，持續打造適合各種居家環境的家電，陪伴我們生活每一天。「幸",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19102121400214987",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "One-Forty【 轉機：台灣 】年度攝影展",
@@ -7197,7 +7197,7 @@ eventsALL = [
         "description": "1.【轉機：台灣】年度攝影展是One-Forty成立四年來規模最大的展覽，透過300張攝影作品、30",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?712c1a28-c24e-41b6-834f-9bfbca3b55e4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019 米米桑創作聯展「Élégant  」",
@@ -7207,7 +7207,7 @@ eventsALL = [
         "description": "每一年米米桑舉辦的創作聯展，是Doris老師與一群作家們的心血展演，象徵著這一年努力的成果，更是米米",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5e5d721f-c0bd-42f4-8c37-69e20888eaae",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "罕病20特展－生生不息 愛不罕見",
@@ -7217,7 +7217,7 @@ eventsALL = [
         "description": "罕病20特展－生生不息愛不罕見",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8cb8a2e2-13cb-40eb-a9c3-b917b73ec5b0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「松菸創作者工廠 x 設計乾杯」10月份系列講座",
@@ -7227,7 +7227,7 @@ eventsALL = [
         "description": "「紅點設計獎」源自60年前二戰後的德國工業。每年德國著名製造業大廠都會定期參加紅點設計獎的評選，透過",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?c7ba0487-589a-4e45-a653-842e1c45047b",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019 TID AWARD台灣室內設計大獎 巡迴展-台北站",
@@ -7237,7 +7237,7 @@ eventsALL = [
         "description": "TaiwanInteriorDesignAward(簡稱TIDAward，台灣室內設計大獎)於201",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?68bdfa46-9f6f-439b-9d9e-6599f07c8b5b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "HiDeWey教育展",
@@ -7247,7 +7247,7 @@ eventsALL = [
         "description": "10/19-13:00~20:00、10/20-10:00~19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100917182215521",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019救國團全國學友才藝觀摩嘉年華",
@@ -7257,7 +7257,7 @@ eventsALL = [
         "description": "救國團為慶祝終身學習中心成立65週年，10月19日【週六】下午12時30分至晚上6時，於華山1914",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100116372180362",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】光復河山-環境資本主義的實踐行動",
@@ -7267,7 +7267,7 @@ eventsALL = [
         "description": "【華山文旅學X相遇地方】光復河山-環境資本主義的實踐行動國立臺北藝術大學/于國華2021社會企業創辦",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101616512205852",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "浪漫台三線藝術季台北特展：茶遇－天光　行山",
@@ -7277,7 +7277,7 @@ eventsALL = [
         "description": "「逢山必有客,逢客必有茶」今年秋季浪漫台三線一連開啟九個客庄一系列的國際藝術季，走客自有慢讀每個客庄",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?56f2b69b-4f2d-4e10-abd0-b518512eb2bf",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松菸講堂×微笑台灣】2019秋季場",
@@ -7287,7 +7287,7 @@ eventsALL = [
         "description": "【松菸講堂×微笑台灣】2019秋季場走走停停秋日裡的139公路旅行在這個收穫的季節，適合一場尋找意義",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?8d421851-1c8a-4a4b-8d16-5205f8a7e823",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019 TMS 影視音實驗教育展【周登的立場 Come to class】",
@@ -7297,7 +7297,7 @@ eventsALL = [
         "description": "相傳～值日神，是四位時間之神中最忙碌的一位，每日值班，有事，必隨傳隨到，不得馬虎。---------",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101512203510417",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019 TMS 影視音實驗教育展【周登的立場 Come to class】",
@@ -7307,7 +7307,7 @@ eventsALL = [
         "description": "相傳～值日神，是四位時間之神中最忙碌的一位，每日值班，有事，必隨傳隨到，不得馬虎。---------",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101512203510417",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《魔獸世界》15週年慶祝派對延期舉行",
@@ -7317,7 +7317,7 @@ eventsALL = [
         "description": "原訂10月18日(五)到20日(日)於華山1914文化創意產業園區的《魔獸世界》15週年慶祝派對將延",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101717154700354",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "體相舞蹈劇場2019年度製作《ZERO》",
@@ -7327,7 +7327,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19090314001716841",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2020草率季",
@@ -7337,7 +7337,7 @@ eventsALL = [
         "description": "如果可以草莽率性，誰想要一本正經。草率季於2016年秋天發起，原先誕生於北投藝術家聚落「空場」，第二",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?103f535f-3341-4eee-b80c-ed847188ecee",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "教育部藝術與設計菁英海外培訓計畫 返國學員成果展",
@@ -7347,7 +7347,7 @@ eventsALL = [
         "description": "教育部自94年起，每年選送當年最優秀的藝術與設計學生到海外公費研習一年。今年返國的學員將於「華山19",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101511051084523",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ZenBook Pro Duo【映照美力．互動藝術展】",
@@ -7357,7 +7357,7 @@ eventsALL = [
         "description": "10月16日(三)17:00-19:0010月17日(四)、10月20日(日)12:00-19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19101114050610627",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Fxiii｜About Time 關於時間 刺繡插畫展",
@@ -7367,7 +7367,7 @@ eventsALL = [
         "description": "無公休日",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092718353537036",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019大城小肆音樂劇節",
@@ -7377,7 +7377,7 @@ eventsALL = [
         "description": "10/11─11/24第二屆《大城小肆音樂劇節》在松菸，開幕派對、藝文沙龍講座、音樂劇論壇、創意競賽",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2ba580b9-635e-4f57-b45c-309b5b485154",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "安琪兒華山婦幼展-2019孕媽咪時尚秀",
@@ -7387,7 +7387,7 @@ eventsALL = [
         "description": "活動依現場公告為主",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092609213808652",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "富士山雷龍與動物達摩改造展",
@@ -7397,7 +7397,7 @@ eventsALL = [
         "description": "由玩具獵人主辦的「富士山雷龍與動物達磨改造展」，將於10月10日到10月13日在台北華山文創園區-中",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090512472630575",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Marimekko pop up store",
@@ -7407,7 +7407,7 @@ eventsALL = [
         "description": "Marimekko首次發表街頭服飾系列翻轉創意無極限芬蘭設計師品牌Marimekko全台首度曝光Ki",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100210335327523",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "富士山雷龍與動物達摩改造展",
@@ -7417,7 +7417,7 @@ eventsALL = [
         "description": "由玩具獵人主辦的「富士山雷龍與動物達磨改造展」，將於10月10日到10月13日在台北華山文創園區-中",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090512472630575",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "藝文採購革新策略計畫公聽會",
@@ -7427,7 +7427,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19092615442481562",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "百變義大利：你一定要認識的關鍵設計！",
@@ -7437,7 +7437,7 @@ eventsALL = [
         "description": "義大利，是現代品味、精緻生活的根源，1909年義大利詩人馬里內蒂發表「未來主義宣言」，對現代藝術設計",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?bf0d432f-030f-4d26-b451-5486bd05eea2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "傳說對決S7城市賽",
@@ -7447,7 +7447,7 @@ eventsALL = [
         "description": "傳說城市賽為《Garena傳說對決》官方主辦的大型巡迴賽事，賽制層級上可分為城市巡迴賽以及城市總冠軍",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091912382705518",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "科創講堂 Tech-Talk FORUM 2019 – 科技農業",
@@ -7457,7 +7457,7 @@ eventsALL = [
         "description": "主題講堂Ⅰ先端農業－積極因應環境挑戰2019.10.06SUN09:30-12:15(09:00開放",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092614531822074",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "田田日和",
@@ -7467,7 +7467,7 @@ eventsALL = [
         "description": "蒐羅日本各地好物，於秋收時節羅列成市，巧藝鮮碧、薈萃濃鬱—今日，田田日和。未來式作為美好生活的實踐者",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092814595483768",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松菸講堂×大人物品牌小聚｜品牌經營課之三：Facebook廣告不可不知的關鍵基礎",
@@ -7477,7 +7477,7 @@ eventsALL = [
         "description": "從7月份第一堂【松菸講堂×大人物品牌小聚】品牌經營課之一：放大與媒體、網紅的合作效益開始，大人物營運",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?2bd8e60c-f725-4817-917e-0235940b3d56",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "享時光樂體驗～微中小企業智慧銷售服務體驗活動",
@@ -7487,7 +7487,7 @@ eventsALL = [
         "description": "有選擇障礙？這麼多的咖啡到底那種適合我？你知道電腦不只會選”投到”還會幫你選咖啡？你想知道你的微笑價",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092613554583038",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Stop And Go不要停一直去  卡米地站立幫Ｑ毛-個人脫口秀",
@@ -7497,7 +7497,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19092615350055917",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺北市文創產業交流媒合會 開放報名中！",
@@ -7507,7 +7507,7 @@ eventsALL = [
         "description": "如何打造一個品牌？如何讓通路看見自己？通路選品的策略是什麼？通路與品牌要如何相輔相成？誠摯地邀請業界",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?f337d355-7b89-4543-a3cb-26615bfdcb57",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "你可以是你原來的樣子 Far away from myself",
@@ -7517,7 +7517,7 @@ eventsALL = [
         "description": "伏流物件✕郭欣翔陶偶✕插畫展從自己的樣子裡出走，像是遠行。僅帶著了一些賴以為生的東西，實用的工具，像",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092813405969587",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ANTOU On the desk",
@@ -7527,7 +7527,7 @@ eventsALL = [
         "description": "岸頭，同音案頭，意指書桌上。我們喜歡具系統與邏輯的思考方式，追求真誠與直白的設計，並真切的替各種生活",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092814201846147",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019文化科技論壇Culture Tech X Next",
@@ -7537,7 +7537,7 @@ eventsALL = [
         "description": "臺灣有豐富的在地素材及故事，自由、開放的創作環境，讓這片土地擁有多元的文化色彩。透過影視音、出版創作",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100114014498361",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Windows 10 X Daniel Wong 「美不設限，想像實現」展覽",
@@ -7547,7 +7547,7 @@ eventsALL = [
         "description": "「美」是一件主觀的意象每個人都會以不同型態與情感去定義它它可以是一首歌、一座藝術品、一件衣服，甚至是",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092914052125215",
         "type": "論壇講座&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019文化科技論壇Culture Tech X Next",
@@ -7557,7 +7557,7 @@ eventsALL = [
         "description": "臺灣有豐富的在地素材及故事，自由、開放的創作環境，讓這片土地擁有多元的文化色彩。透過影視音、出版創作",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100114014498361",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "心動提案所",
@@ -7567,7 +7567,7 @@ eventsALL = [
         "description": "邀請您親身體驗華山生活美學百年蒸餾室中匯聚台灣精銳各路設計好手；豐沛的設計能量，讓您感受台灣品牌的無",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19100517291539682",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Windows 10 X Daniel Wong 「美不設限，想像實現」展覽",
@@ -7577,7 +7577,7 @@ eventsALL = [
         "description": "「美」是一件主觀的意象每個人都會以不同型態與情感去定義它它可以是一首歌、一座藝術品、一件衣服，甚至是",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092914052125215",
         "type": "論壇講座&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Hey! Say! JUMP POP! UP! STORE",
@@ -7587,7 +7587,7 @@ eventsALL = [
         "description": "Hey!Say!JUMPPOP!UP!STOREJohnny’spresentsHey!Say!JU",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091310064745310",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《2019 Gourmet Taipei異國風情美食節》",
@@ -7597,7 +7597,7 @@ eventsALL = [
         "description": "第六屆《2019GourmetTaipei異國風情美食節》將於9/28、9/29於台北華山文創園區登",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091715104643906",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "教育部青年學生國際連結成果展 遨遊學海 FUN飛夢想",
@@ -7607,7 +7607,7 @@ eventsALL = [
         "description": "古人云：「讀萬卷書，行萬里路」，豐厚的閱歷、富有的知識乃是人生的養份。人就是在不斷學習中淬練，提升自",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090910251677014",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019 憶起教師節 憶起返航一日展 / 頒獎典禮",
@@ -7617,7 +7617,7 @@ eventsALL = [
         "description": "華山劇場10:30-20:00/中4B2F-112:30-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092517553956581",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "談戲風生 － 毛俊輝說文本、舞台、表演",
@@ -7627,7 +7627,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090517250791072",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "教育部青年學生國際連結成果展 遨遊學海 FUN飛夢想",
@@ -7637,7 +7637,7 @@ eventsALL = [
         "description": "古人云：「讀萬卷書，行萬里路」，豐厚的閱歷、富有的知識乃是人生的養份。人就是在不斷學習中淬練，提升自",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090910251677014",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】傳統基因，現代瀰因：老店 X 工藝",
@@ -7647,7 +7647,7 @@ eventsALL = [
         "description": "13:30開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090316171139032",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "談戲風生 － 毛俊輝說文本、舞台、表演",
@@ -7657,7 +7657,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090517250791072",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "大師華山論見 蔡爾平藝術講座",
@@ -7667,7 +7667,7 @@ eventsALL = [
         "description": "蔡爾平大師首次在台公開講座旅美藝術家蔡爾平在美國30多年,得過白宮頒發全美工藝獎,與貝律銘,李安獲得",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092511380505724",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "全新MINI CLUBMAN賞車活動",
@@ -7677,7 +7677,7 @@ eventsALL = [
         "description": "1969年「Clubman」之名首次問世，MiniClubmanEstate承襲MINI經典短前懸、",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19092913192853455",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "毓見香氛．香氛特展快閃登場",
@@ -7687,7 +7687,7 @@ eventsALL = [
         "description": "【遇見香氛、一場腦海裡的深層回憶之旅】〝曾經發生的事不可能忘記，只是暫時想不起來而已〞–神隱少女風前",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19082910170376546",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "步旅",
@@ -7697,7 +7697,7 @@ eventsALL = [
         "description": "與攝影及塗鴉相遇，改變了MonsterAJ看世界的角度與記錄人生的公式。人生有很多視角就像創作一樣，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?244c2e59-8c87-492f-a69b-5fe548cccdeb",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "前導講堂：台灣電音製作潮流剖析",
@@ -7707,7 +7707,7 @@ eventsALL = [
         "description": "電音職人KNOW-HOW：華語流行電音編曲及DJ音樂創作思路＃免費報名＃額滿為止特邀滾石電音主理人D",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?abc66813-793b-42d0-a446-56170adfcb32",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「心好有你」1925(依舊愛我) 一起來做生命守門人  安心專線特展",
@@ -7717,7 +7717,7 @@ eventsALL = [
         "description": "記者會：9月27日(五)AM10:00-11:00,民眾入場：9.27(五)AM11:00-PM5:",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19090417320889538",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「松菸創作者工廠 x 設計乾杯」系列講座 - 勇者時代人氣漫畫家創作歷程分享",
@@ -7727,7 +7727,7 @@ eventsALL = [
         "description": "本月小聚，邀請到黃色書刊YellowBook分享創作歷程，以及如何從日常生活得到創作養分，同時亦將分",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?44a3e078-d13b-4286-93c0-3805d991a633",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "嶼泥 Be with you - 水泥手作工作坊",
@@ -7737,7 +7737,7 @@ eventsALL = [
         "description": "我們從一棟水泥建築，穿梭過另外一棟水泥建築，在台灣，水泥這一個材質，不僅不可或缺，更是充滿在每個日常",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7fddf3ca-b76f-4783-b1ce-295dc86ccb6a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "科創講堂 Tech-Talk FORUM 2019 – 腦科學",
@@ -7747,7 +7747,7 @@ eventsALL = [
         "description": "主題講堂Ⅰ09:30-12:15(09:00開放報到入場)；主題講堂Ⅱ14:00-18:10(13:",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091616124156846",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "阿里山 Let’s購",
@@ -7757,7 +7757,7 @@ eventsALL = [
         "description": "09.2310:00AM-5:00PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091010204117508",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "瑞典 X 臺灣 爸比的育兒日常攝影展",
@@ -7767,7 +7767,7 @@ eventsALL = [
         "description": "自從1974年，瑞典政府開放父母都可以請育嬰假之後，至今請育嬰假的男性，已達總申請者的25%。照這樣",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19082811553186433",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019秋冬新品發表會及升級再造工作坊",
@@ -7777,7 +7777,7 @@ eventsALL = [
         "description": "(9/21)10:30-21:00,(9/22)10:30-20:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091811505782485",
         "type": "論壇講座&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019【突破論壇】新時代政府-醫療鬆綁",
@@ -7787,7 +7787,7 @@ eventsALL = [
         "description": "如果在家就能看醫生，是不是就不用舟車勞頓了！如果有電腦醫生，你相信它的診斷嗎?如果有一天醫院的醫療數",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091010452922014",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019秋冬新品發表會及升級再造工作坊",
@@ -7797,7 +7797,7 @@ eventsALL = [
         "description": "(9/21)10:30-21:00,(9/22)10:30-20:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091811505782485",
         "type": "論壇講座&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Creative Mornings創意早晨講座／九月／Muse 繆思",
@@ -7807,7 +7807,7 @@ eventsALL = [
         "description": "靈感是創作的泉源，創意賦予作品生動的生命力。一本雜誌的誕生是集結了創作人的理想、生命經驗，以及對世界",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19091614243159448",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「美學，其實我們都有關係」not just talk 系列 2  < 聰明與外國人往來的禮儀 >",
@@ -7817,7 +7817,7 @@ eventsALL = [
         "description": "活動名稱:「美學，其實我們都有關係」notjusttalk系列2<聰明與外國人往來的禮儀>主講者:虞",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19082711511729517",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「松菸創作者工廠 x 設計乾杯」系列講座 - 2019 台灣設計師週 Lite",
@@ -7827,7 +7827,7 @@ eventsALL = [
         "description": "2019「台灣設計師週Lite」換裝登場，這次不僅要帶你直闖設計師後台，直擊設計產業背後的運作機制，",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?ff2714da-6a84-4793-858f-f53820738811",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "香港週2019@台北",
@@ -7837,7 +7837,7 @@ eventsALL = [
         "description": "西1館2019/9/18-29一-五11am-6pm六-日10am-7pm/西二館(詳見內容)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19080111162465640",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "翻牆 - Bluerider ART 2019 年度實驗特展",
@@ -7847,7 +7847,7 @@ eventsALL = [
         "description": "今年九月，BlueriderART將攜手五位國際藝術家，在為期五天的年度實驗性特展中，帶給觀眾一場充",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9a8c5fa0-17fd-4f34-8501-2025d657aa58",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019 國際失智月展覽 憶起關懷 - Embracing Reality",
@@ -7857,7 +7857,7 @@ eventsALL = [
         "description": "自民國83年開始，國際失智症協會(ADI)將每年的9月21日訂為國際失智症日(WorldAlzhei",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9f0a7aa3-4b7a-48fd-9933-3b2eabf1413e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「一縷光芒的奇蹟」 英國窯鑄玻璃藝術 橫跨三代 天團來台特展",
@@ -7867,7 +7867,7 @@ eventsALL = [
         "description": "世界70個國家博物館的收藏見證輝煌的英國國家玻璃藝術隊伍琉璃工房2019最重量級的展覽！9位英國窯鑄",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4159b6ae-b84c-4f5f-a07b-8bb618c9ddf3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "味王60週年慶暨小王子愛塗鴉頒獎典禮&展覽",
@@ -7877,7 +7877,7 @@ eventsALL = [
         "description": "09/0713:30-18:00/09/0811:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19082910020406138",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Tiffany& Co. 美鑽傳奇主題展",
@@ -7887,7 +7887,7 @@ eventsALL = [
         "description": "探索由精湛工藝與美鑽風采交織而成的體驗之旅Tiffany隆重呈獻「Tiffany&Co.美鑽傳奇主題",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19082612300459001",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "樂齡城市歷險記-彭祖十週年特展",
@@ -7897,7 +7897,7 @@ eventsALL = [
         "description": "一趟充滿挑戰的城市歷險，您將穿梭時光前往未來拯救彭祖爺爺的家，在這趟過程中你會背著老化的身軀前往領錢",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?86100594-9a0a-4935-9783-4af438ce7af2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "筌美術 Chu,an Design 系列展覽",
@@ -7907,7 +7907,7 @@ eventsALL = [
         "description": "把一座美術館搬進未來市如何？九月，出自筌美術（GalleryChuan）集結台灣新銳設計師與年輕藝術",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19082916245128164",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松菸小賣所主題特展—Circle Of Life",
@@ -7917,7 +7917,7 @@ eventsALL = [
         "description": "環保不是未來，而是現在，是一次一次的循環，是生生不息的轉動，在回收與再生的軌跡中，我們努力傾聽材料的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?41b91291-b458-486f-87a4-345f363a4103",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "盈青 個人畫展《Obsession》",
@@ -7927,7 +7927,7 @@ eventsALL = [
         "description": "Obsession代表著迷戀，展覽的繪畫風格以迷戀者的視角出發，仔細地看著被迷戀者，被迷戀者的一舉一",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?68a1a50d-7850-436d-960f-81fa0604f32e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "逆風劇團《青春日記簿II 草原》",
@@ -7937,7 +7937,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19081010015926111",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "同根聲 Initial Resonance｜荒物聲響裝置展 2",
@@ -7947,7 +7947,7 @@ eventsALL = [
         "description": "「地衣荒物」與「融聲創意」運用生活道具結合科技，透過互動網頁連動聲音裝置，將舊時物件重新轉化成為獨一",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d9229153-0980-4fcc-a7c4-6bee44fd6cc9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】農食行銷三袋論：腦袋、口袋、胃袋",
@@ -7957,7 +7957,7 @@ eventsALL = [
         "description": "13:30開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19080510151310031",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "智遊智在 智慧城鄉創意生活嘉年華",
@@ -7967,7 +7967,7 @@ eventsALL = [
         "description": "因白鹿颱風來襲，本周六8/24嘉年華活動，將另行擇期辦理，敬請期待【智遊智在智慧城鄉創意生活嘉年華∣",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19080515153842344",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "藝融．南北油彩藝術交流展",
@@ -7977,7 +7977,7 @@ eventsALL = [
         "description": "藝術能夠以共通的情感交流連繫著人們，對於理想的個人與社群，都是不可或缺的。今年夏天，台北市文化基金會",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?685e3c6b-21a9-4688-92dd-c98452999755",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "HOBBY EXHIBITION 組裝模型特展",
@@ -7987,7 +7987,7 @@ eventsALL = [
         "description": "免費入場，詳見內容(首日12:00開始；活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19081518253768173",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019 LOOKs!鞋靴生活節",
@@ -7997,7 +7997,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19080713580306753",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "包浩斯 然後呢 Beyond Bauhaus",
@@ -8007,7 +8007,7 @@ eventsALL = [
         "description": "「包浩斯然後呢BeyondBauhaus」由經濟部工業局主辦，台灣創意設計中心執行，JCArchit",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3cdf335d-3e22-48a9-aab1-31ed97167346",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "樂思錄II - 中文歌詞形聲意",
@@ -8017,7 +8017,7 @@ eventsALL = [
         "description": "閱讀經典歌詞，腦海不自覺唱起旋律。歌詞是讓歌曲琅琅上口、感動人心的關鍵角色，除此之外，也是你抄寫在書",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2b28c710-e053-4ea9-830b-dc863f1127af",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "用愛彌補-羅慧夫顱顏基金會30週年特展—這就是我！",
@@ -8027,7 +8027,7 @@ eventsALL = [
         "description": "每個人都是宇宙裡獨一無二的行星，然而沒有人是天生完美的，生命裡的缺口，可以用愛彌補，且日漸茁壯也互相",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4df32bcb-28d0-4abe-8123-a7b9f71c5f8a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "EDIFIER Club For FUN",
@@ -8037,7 +8037,7 @@ eventsALL = [
         "description": "EdifierClubforFUNSummer2019(ECFFSummer2019)一場響樂盛事，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19080513153654271",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松菸講堂×大人物品牌小聚】品牌經營課之二：品牌與KOL的互助共生關係",
@@ -8047,7 +8047,7 @@ eventsALL = [
         "description": "在7月份第一堂【松菸講堂×大人物品牌小聚】品牌經營課之一：放大與媒體、網紅的合作效益當中，大人物營運",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?c9d0e35d-0ed1-4252-9219-2d3c9a326676",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "DelGuard不易斷芯自動鉛筆 快閃店",
@@ -8057,7 +8057,7 @@ eventsALL = [
         "description": "活動官網：https://chimoz.com/delguard官方粉絲團：https://www.",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19081317564565233",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019華山親子表藝節-《武松，打哪隻虎？》",
@@ -8067,7 +8067,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19041211130372134",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "人生、媽的太長。 命、ギガ長ス",
@@ -8077,7 +8077,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19071419125548517",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "科創講堂 Tech-Talk FORUM 2019 – AI人工智慧",
@@ -8087,7 +8087,7 @@ eventsALL = [
         "description": "13:30開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19073114320889222",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "美．衝擊 未來超市",
@@ -8097,7 +8097,7 @@ eventsALL = [
         "description": "(因颱風緣故，8/10延至12:30開始，活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19071410271494348",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019華山親子表藝節-《沒有人愛我》",
@@ -8107,7 +8107,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19041215400179284",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "PChome狂禮88嘉年華 狂歡同樂會",
@@ -8117,7 +8117,7 @@ eventsALL = [
         "description": "今年PChome24h購物再升級，連續2日舉辦8/2、8/3「狂禮88嘉年華」打造夏日最Fun的園遊",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19072518320675958",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019華山親子表藝節-寶寶劇場特定空間展演《水》",
@@ -8127,7 +8127,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19041016565657340",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "蔡牧民 個人攝影展：二十四分之一",
@@ -8137,7 +8137,7 @@ eventsALL = [
         "description": "法國新浪潮導演尚盧・高達（Jean-LucGodard）曾說過：「攝影是真理，而電影是每秒24格的真",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4edbf035-7f40-4105-b824-179cdb511b8a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "跨文化的森林─雲豹「里古烙」",
@@ -8147,7 +8147,7 @@ eventsALL = [
         "description": "叢林居民雖然不是人類，卻也能被看作是人一般：有知覺、態度、喜好、性格、與特殊性。叢林空間和與森林居民",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19073121360485611",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "躍演《嬉戲百老匯6S—今天不導戲，全部給我來上課！》",
@@ -8157,7 +8157,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19070517060164140",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "未來製造 - 宇宙快閃自由行",
@@ -8167,7 +8167,7 @@ eventsALL = [
         "description": "你問我這趟旅行已經多久了？我也答不上來，那我們又是從哪裡出發的？你接著問，我們是從很遙遠的地方過來的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2d50a91b-4077-4608-8156-e68a48207805",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "乾杯20週年大感謝！ 傳說中的祭典今年華麗回歸！ 台北街頭到處都是浴衣跟甚平，這是怎麼一回事！",
@@ -8177,7 +8177,7 @@ eventsALL = [
         "description": "乾杯新祭典舞由在日本全國各地巡迴演出的潮男舞團東京鷹（CONDORS）在華山文創園區跟大家一起跳「乾",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19070211150780257",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第一銀行歡慶120週年 打卡上傳3重送",
@@ -8187,7 +8187,7 @@ eventsALL = [
         "description": "跟著第一銀行小粉獅歡慶120打卡上傳3重送第一重：活動日於第一銀行120週年美拍屋拍照上傳FB/IG",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19071912442189557",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松菸八十特展】「松山煙草工場(1937-1942)建築解密」講座",
@@ -8197,7 +8197,7 @@ eventsALL = [
         "description": "命中注定再相遇！200張珍貴建築原圖被發掘，回到松菸娘家，一起慶祝松菸80歲生日！松山菸廠以「工業村",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?4aeebf2b-b98e-430d-8206-9feb4e6c2c6d",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "BANPRESTO EXPO 2019",
@@ -8207,7 +8207,7 @@ eventsALL = [
         "description": "7/2612:00-20:00(20:00最後進場)7/27-2810:00-19:00(19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19071809421901745",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019華山親子表藝節-《爺爺的飛行車》",
@@ -8217,7 +8217,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19041514190814971",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019亞洲傳統戲曲工作坊－日本舞踏",
@@ -8227,7 +8227,7 @@ eventsALL = [
         "description": "StudioQ表演教室2019年度的亞洲傳統戲曲工作坊，邀請到日本舞踏家大野慶人、溝端俊夫來台，將在",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19072015282066866",
         "type": "工作坊",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "手繪神遊，發現台灣經典古建築中的匠心與創意－《直探匠心》新書講座暨分享會",
@@ -8237,7 +8237,7 @@ eventsALL = [
         "description": "報名期間07/0917:04~07/2116:40",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19070917042368732",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】青山裡的黑金(于國華、華偉傑、羅永昌)",
@@ -8247,7 +8247,7 @@ eventsALL = [
         "description": "13:30-13:50進場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19070213123323362",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "LA NEW 適足車 VS 迪士尼獅子王電影版形象活動",
@@ -8257,7 +8257,7 @@ eventsALL = [
         "description": "【走路有風．我就是王】7/20.21，華山快閃店登場#LANEW適足車再度出動上次錯過西門紅樓的活動",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19071911444055267",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松菸講堂×微笑台灣】2019夏季場 主題：夏日涼旅 過一個比涼快更涼快的夏天",
@@ -8267,7 +8267,7 @@ eventsALL = [
         "description": "炎炎夏天是不是讓你只想待在冷氣房不敢出門！但台灣擁有高海拔的山林、海洋資源豐沛的大小離島，再加上便利",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?1e0c6d9d-f4da-465e-ae36-a079ebd9db64",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019華山親子表藝節-音樂劇場《Hi！皮諾丘！》",
@@ -8277,7 +8277,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19040913242551978",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019臺北市文創產業扶植計畫【主題講座】免費報名中！",
@@ -8287,7 +8287,7 @@ eventsALL = [
         "description": "產業市場廣大又充滿未知文創業者如何創造、傳遞價值給消費者？今年度從永續、體驗、整合三種面向切入分享探",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?14cccc1d-ac85-431f-949b-ba3f2346567c",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《HENNESSY DECLASSIFIED解碼軒尼詩 互動體驗特展》",
@@ -8297,7 +8297,7 @@ eventsALL = [
         "description": "平日11:00－21:00、假日10:00－21:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19070214485265834",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019臺北市文創產業扶植計畫 – 地方設計力 -分享座談-",
@@ -8307,7 +8307,7 @@ eventsALL = [
         "description": "設計概念的創新與地方文化的保存如何達到雙向溝通、解決問題?本次座談分別從地方的體驗設計、品牌故事切入",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?a3c60293-f46b-4972-bdd3-bd58f2ed8c1b",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "腳下繁星 | 詹昱筑創作個展",
@@ -8317,7 +8317,7 @@ eventsALL = [
         "description": "「石子地上一點一點，葉縫裡的陽光灑在口香糖周邊，還在香甜中咀嚼，還在城市逛大街，突如一瞬間不溜煙地輾",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5e02913d-002f-44f3-b49f-7c614f4e555c",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "明治「塊」樂育兒親子園遊會",
@@ -8327,7 +8327,7 @@ eventsALL = [
         "description": "日本百年乳品大廠明治致力於提供新世代爸爸媽媽們更多育兒支持，於7月13~14日在華山1914文創園區",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19063017090087824",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "明治「塊」樂育兒親子園遊會",
@@ -8337,7 +8337,7 @@ eventsALL = [
         "description": "日本百年乳品大廠明治致力於提供新世代爸爸媽媽們更多育兒支持，於7月13~14日在華山1914文創園區",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19063017090087824",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松菸講堂 × 大人物品牌小聚】品牌經營課之一：放大與媒體、網紅的合作效益",
@@ -8347,7 +8347,7 @@ eventsALL = [
         "description": "公關合作是團體戰，那品牌如何推敲宣傳的可能性？如何與媒體及合適的意見領袖共同合作並創造最大價值？這些",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?34556ece-0d5f-4e38-a236-5c9c996ad089",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「美學，其實我們都有關係」not just talk 系列2  < 時尚的傲慢與偏見 >",
@@ -8357,7 +8357,7 @@ eventsALL = [
         "description": "時尚產業在一般大眾眼裡，看似光鮮亮麗、似乎也代表著一種美學的標準。那麼，時尚之於美學又是如何被定義的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19062016370345776",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019華山親子表藝節-《親愛的丑寶貝》",
@@ -8367,7 +8367,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19041210523638280",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "東京鐵塔搬家了！DV TOKYO童齡快閃店",
@@ -8377,7 +8377,7 @@ eventsALL = [
         "description": "時間：平日11:00-18:00假日11:00-20:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19070513350316638",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "金田一少年之事件簿探偵大展",
@@ -8387,7 +8387,7 @@ eventsALL = [
         "description": "無公休日",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19062722223351988",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "愛心結緣全面五折義賣書展",
@@ -8397,7 +8397,7 @@ eventsALL = [
         "description": "親愛的朋友108年度鄭豐喜「愛心結緣全面五折義賣書展」台北場7/6(六)於松山文創園區開展，邀請百大",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?147c4102-7832-40f1-b77d-d5a3e9faeba7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "原子能科技科普展(免費入場)",
@@ -8407,7 +8407,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19062718391017915",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "孔方兄與他的朋友們",
@@ -8417,7 +8417,7 @@ eventsALL = [
         "description": "被譽為「最有錢」的國立歷史博物館，這次將以館藏【通貨】為主題，找來孔方兄與他的朋友們，介紹孔方兄多姿",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ae41a572-51bd-4ba0-a4bc-23356038459f",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "跳進兔子洞－愛麗絲夢遊奇境體驗展",
@@ -8427,7 +8427,7 @@ eventsALL = [
         "description": "從韓國首爾出發，風潮席捲亞洲各城市，攻陷近百萬夢幻少女心與風格潮男的「跳進兔子洞—愛麗絲夢遊奇境體驗",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1900ae4b-7200-449e-b449-12e37f8929b9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "ONE PIECE 動畫 20 週年紀念特展",
@@ -8437,7 +8437,7 @@ eventsALL = [
         "description": "台灣第一場規模最大！五感體驗ONEPIECE動畫20週年紀念特展，2019年07月05日起，正式於台",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1dcdab46-d128-4f61-89de-5a79855c01e9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "台泰設計交流展 - 材料進行式",
@@ -8447,7 +8447,7 @@ eventsALL = [
         "description": "在陶瓷上刺繡？兩種傳統工藝材質的融合，如何創造「3D陶繡」的數位工藝？凡事追求速度及科技的時代，只需",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?21b87d2e-7db7-476c-9c2b-7578402ba4d1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「可爾必思」星空銀河隧道",
@@ -8457,7 +8457,7 @@ eventsALL = [
         "description": "「可爾必思」歡慶100周年，夢幻絕美「可爾必思」星空銀河隧道浪漫登場「可爾必思」100周年了，感謝大",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f382bada-cb0c-4d48-8998-7af87886e253",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「大都會時尚Metropolitan Fashion」 時尚插畫家Nina Edwards 新書特展",
@@ -8467,7 +8467,7 @@ eventsALL = [
         "description": "無公休日",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19062014055055866",
         "type": "展覽活動&&期間限定店",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019世新大學話劇社夏季期末對外公演《再約》",
@@ -8477,7 +8477,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19062609384500434",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019 Coffee Journey星巴克咖啡旅程",
@@ -8487,7 +8487,7 @@ eventsALL = [
         "description": "購票入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19062418014237784",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "蛋蛋特展～奇譚俱樂部的扭蛋世界",
@@ -8497,7 +8497,7 @@ eventsALL = [
         "description": "2019暑假奇譚俱樂部扭蛋明星大集合!!!即將轉爆松山文創園區!!!滿坑滿谷的扭蛋等你來膜拜怎麼轉怎",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f77ea0f2-51fc-4f83-baad-89ac6588996c",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "繽紛夏日序曲",
@@ -8507,7 +8507,7 @@ eventsALL = [
         "description": "邀請您親身體驗華山生活美學百年蒸餾室中匯聚台灣精銳各路設計好手；豐沛的設計能量，讓您感受台灣品牌的無",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19073016203199731",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "玩具解剖展 JASON FREENY ASIA",
@@ -8517,7 +8517,7 @@ eventsALL = [
         "description": "★玩具剖開竟然有骨有肉？我們把你最愛的卡通動漫角色統統解剖了！★全球首發3公尺冰雪ELMO也逃不過解",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19051317022724755",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "泡泡先生粉愛變繽紛特展",
@@ -8527,7 +8527,7 @@ eventsALL = [
         "description": "最後入場時間17:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052410371544501",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "幻•彩•影 萬花筒特展",
@@ -8537,7 +8537,7 @@ eventsALL = [
         "description": "17:30最後售票/入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19042218273600855",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "幸福與感恩的饗宴—手做家具師生畢業聯展",
@@ -8547,7 +8547,7 @@ eventsALL = [
         "description": "每到下課，木工教室前就會傳出陣陣輕快歌聲。循聲而去，女孩們開心地唱歌，手持著雕刻刀，使勁地在木料上刻",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061309543290160",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "科創講堂 Tech-Talk FORUM 2019 – 智慧醫療",
@@ -8557,7 +8557,7 @@ eventsALL = [
         "description": "主題講堂Ⅰ09:30-12:15(09:00開放報到入場)：主題講堂Ⅱ14:00-18:10(13:",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052717264160841",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "emoji Pop-up Store 表情符號放暑假",
@@ -8567,7 +8567,7 @@ eventsALL = [
         "description": "官方粉絲團：https://www.facebook.com/emoji-Pop-Up-Store-",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19070212194308456",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "我的秘密在浪漫的時候公開 | 倪嘉隆創作個展",
@@ -8577,7 +8577,7 @@ eventsALL = [
         "description": "(…跟你說一個秘密)我們藏著一些事情，不是不可告人，只是不想分享，那些揮之不去的片段，儲存在記憶中，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4fcfda4a-35a6-483f-b726-247a08e9a452",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "I impact 乳癌女力UP！姊妹挺妳",
@@ -8587,7 +8587,7 @@ eventsALL = [
         "description": "乳癌是女性癌症發生率第一名，你我身邊都可能正有親友在面臨療程的考驗。癌症療程中，身體與心理都會經歷破",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?288298c0-4116-4d8a-81ff-60c03a5ebcce",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "動物也瘋狂 朝隈俊男的Animal Life",
@@ -8597,7 +8597,7 @@ eventsALL = [
         "description": "動物也瘋狂朝隈俊男のAnimalLife瘋迷全台的AnimalLife系列公仔要辦展覽了!看朝隈俊男",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19062711453601750",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "貓茶町-歡慶鐵觀音來台百週年。",
@@ -8607,7 +8607,7 @@ eventsALL = [
         "description": "06/27(四)12:00正式開幕",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19062114093774921",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【金庸武俠－華山論劍】特展",
@@ -8617,7 +8617,7 @@ eventsALL = [
         "description": "最後停止售票入場時間：05:30PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061111282744878",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【金庸武俠－華山論劍】特展",
@@ -8627,7 +8627,7 @@ eventsALL = [
         "description": "最後停止售票入場時間：05:30PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061111282744878",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松菸八十特展",
@@ -8637,7 +8637,7 @@ eventsALL = [
         "description": "曾是東南亞地區最大的捲菸工廠，1937年始建、1939年起生產的松山菸廠，曾有近二千位員工在此工作，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?76284041-a44d-48c0-8c89-ee82121d9a95",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第三屆 Design For Taiwan 哈哈哈哈社會設計展",
@@ -8647,7 +8647,7 @@ eventsALL = [
         "description": "笑開，運就會來，美好世界就會跟著來！第三屆DesignForTaiwan社會設計展將在6/26-30",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e31c20a6-03aa-407f-bf97-4a1722a80b35",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019華山親子表藝節《孩沒玩夠！》",
@@ -8657,7 +8657,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19051411543827983",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "巴黎龐畢度中心 哇！馬戲團 工作坊",
@@ -8667,7 +8667,7 @@ eventsALL = [
         "description": "【平日場次】A0900-1030｜B1100-1230｜C1300-1430｜D1500-1630【",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061213465040761",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "F.I.R.造夢者公益音樂園遊會",
@@ -8677,7 +8677,7 @@ eventsALL = [
         "description": "活動官網：https://www.facebook.com/events/6877676449855",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061810441259537",
         "type": "展覽活動&&市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "F.I.R.造夢者公益音樂園遊會",
@@ -8687,7 +8687,7 @@ eventsALL = [
         "description": "活動官網：https://www.facebook.com/events/6877676449855",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061810441259537",
         "type": "展覽活動&&市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "曼丁身體劇場《新秩序藍色星期一》",
@@ -8697,7 +8697,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19040213051447577",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松菸講堂 × 鳳嬌催化室】催化進行中，未來尚未來 — 樹火到鳳嬌的扎根尋夢之旅",
@@ -8707,7 +8707,7 @@ eventsALL = [
         "description": "「鳳嬌是行為、材質與人的催化室。時間、空間、纖維、自然萬物、你我的天賦、經驗、專業、概念和行動都可以",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?4b63b456-f177-487c-8e18-472c694744ab",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "此時此刻。元寶40年展",
@@ -8717,7 +8717,7 @@ eventsALL = [
         "description": "元寶食品為台灣進口歐陸食品的先驅，藉由提供高品質的精緻食品，期能讓每位喜好美食的饕客都有更多機會感受",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061709422979783",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "CreativeMornings Taipei 創意早晨講座／六月／Wonder 疑惑",
@@ -8727,7 +8727,7 @@ eventsALL = [
         "description": "大家都喜歡美麗的事物，因為賞心悅目，看了會心情好。這要歸功於台灣有許多優秀的設計師，為我們的美學推了",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061017205738146",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第十四屆金門書展：台澎金馬巡迴展台北場",
@@ -8737,7 +8737,7 @@ eventsALL = [
         "description": "免費入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061710550149338",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《日本備前燒》- 松井宏之創作台灣個展",
@@ -8747,7 +8747,7 @@ eventsALL = [
         "description": "「日本大叔玩跨界！」我們邀請到日本備前燒陶藝家松井宏之（HIROYUKIMATSUI）來台開展，包含",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5792d311-b3a6-402a-97f1-c59c11875a49",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Chocola BB 夏日祭典粉絲會",
@@ -8757,7 +8757,7 @@ eventsALL = [
         "description": "06/15(六)15:00-19:30、6/16(日)11:00-15:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19061212063956125",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺北市創新智慧教育展WISE+",
@@ -8767,7 +8767,7 @@ eventsALL = [
         "description": "網路科技時代來臨、知識經濟崛起運用智慧科技自主學習成為當前教育發展趨勢為讓市民了解本市創新智慧教育推",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19060520073044438",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "WATCH OUT 2019",
@@ -8777,7 +8777,7 @@ eventsALL = [
         "description": "玩錶可以是一種文化可以有各種不同切入角度能欣賞來自世界各地的工藝在LinkandTag您將可以找到國",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052410405745861",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺北市創新智慧教育展WISE+",
@@ -8787,7 +8787,7 @@ eventsALL = [
         "description": "網路科技時代來臨、知識經濟崛起運用智慧科技自主學習成為當前教育發展趨勢為讓市民了解本市創新智慧教育推",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19060520073044438",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "WATCH OUT 2019",
@@ -8797,7 +8797,7 @@ eventsALL = [
         "description": "玩錶可以是一種文化可以有各種不同切入角度能欣賞來自世界各地的工藝在LinkandTag您將可以找到國",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052410405745861",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《Reentry再入》後人類過渡系統",
@@ -8807,7 +8807,7 @@ eventsALL = [
         "description": "全新型態展演《Reentry再入》，將以獨特的「後人類過渡系統」形式，透過物聯網串連全場六件作品、系",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4e56c47c-63ef-48af-8df7-b0097416c3e3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【電影 X 性別】系列講座",
@@ -8817,7 +8817,7 @@ eventsALL = [
         "description": "電影與性別具有密不可分的關係，從選角、對白、服裝、劇本至電影產業本身，性別都是重要的環節。影史中不乏",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?bc7ff1da-4a46-49b2-8070-66811c33edd6",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "松菸創作者工廠 6 月份機具教育課程",
@@ -8827,7 +8827,7 @@ eventsALL = [
         "description": "松菸創作者工廠提供木工、金工、編織、陶藝以及數位製造等專業機具，搭配專業師資指導，再複雜的機具也能輕",
         "href": "https://www.songshanculturalpark.org/ActivityList.aspx?051516f0-a0ec-4d7d-be39-27fadf945207",
         "type": "論壇講座",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "念念無想 念念無畏 – 佛光大學產品與媒體設計學系創作展",
@@ -8837,7 +8837,7 @@ eventsALL = [
         "description": "這是佛光大學產品與媒體設計學系的創作展覽，我們運用設計思維解決實務問題，並以立體、平面、動畫視覺為主",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?860ca6e0-af60-4350-8edc-c9539714e830",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2051 淡江建築51屆畢業設計展覽",
@@ -8847,7 +8847,7 @@ eventsALL = [
         "description": "時間對科學家而言或許是條無止盡的直線但時間對今年的淡江建築，朦朧之中她像是個圓",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?539effee-f040-4c88-8089-edfa21545af3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "原生家 | 丁原生插畫創作展",
@@ -8857,7 +8857,7 @@ eventsALL = [
         "description": "原是初始，生是生命，家是開始的地方。當我走過，遇到自己要面對家應該是什麼輪廓或是該存在什麼元素時，我",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9bbc09cb-26b0-4e50-a103-2777a5a75323",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "無以名狀的青春失格＿國立東華大學藝術與設計學系108級畢業展覽",
@@ -8867,7 +8867,7 @@ eventsALL = [
         "description": "本次以「無以名狀的青春失格」為概念核心，曾幾何時文字成為了創作的附庸？藉著理念才得以伸張？所以我說，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?60fddae5-311f-456a-9c41-81cfba4f90d0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "北科建築 2018~2019 畢業設計展",
@@ -8877,7 +8877,7 @@ eventsALL = [
         "description": "「人人都背負著誕生之時的殘餘，背負著來自原初世界的黏液和蛋殼，直到生命的終點。很多人都未能成人，只能",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?fbf5c10a-d5e9-47a8-b064-00a83f967f7a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "台灣印花設計節 – 看不見的孔雀",
@@ -8887,7 +8887,7 @@ eventsALL = [
         "description": "首屆「台灣印花設計節」展覽由經濟部工業局主辦，台灣創意設計中心執行，自由人藝術公寓顏寧志策展，透過策",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?04fe3382-4c36-4f58-92ae-72360718122d",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "科技大擂台「AI資安攻防戰」決賽",
@@ -8897,7 +8897,7 @@ eventsALL = [
         "description": "科技大擂台是一個指標性的競賽，目的在於以獎勵賽的方式推動產業、促進台灣AI技術發展，望不久的將來台灣",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19060415062728776",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "馬祖莒光方塊海推廣行銷市集",
@@ -8907,7 +8907,7 @@ eventsALL = [
         "description": "活動介紹：1魔術方塊達人帶路/為推廣方塊海獨特風貌，藉由魔術方塊競速活動，深植全民益智運動，結合馬祖",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19051413533832943",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "人類世的文化與科技－臺灣社會如何實驗藝術？",
@@ -8917,7 +8917,7 @@ eventsALL = [
         "description": "匯聚於台灣島上的科技人文能量，如何啟發創新的平台與場域，轉化藝術創作進入產業發展的實驗動能？本論壇邀",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19060520122559360",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】國立政治大學傳播學院第二屆聯合畢展《未知爆炸》",
@@ -8927,7 +8927,7 @@ eventsALL = [
         "description": "畢業生即將步入社會，就如同一個個元素，不斷聚合、發散、變化，充滿無限潛能。眼前望盡皆是未知，但我們收",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?af5a5382-8bb4-4763-aba8-cef39ae31a66",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "片桐仁 無厘頭雕塑藝術 ─「技力展」",
@@ -8937,7 +8937,7 @@ eventsALL = [
         "description": "技力展執行委員會是所屬Twinkle公司、身為演員、雕刻家的片桐仁的黏土作品展「技力展」於2019年",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19060614241491512",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 相遇大稻埕】 從老屋活化到街區振興",
@@ -8947,7 +8947,7 @@ eventsALL = [
         "description": "15:00-15:20進場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052111430267637",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】2019逢甲建築專業學院108級畢業設計成果展CODE ME_",
@@ -8957,7 +8957,7 @@ eventsALL = [
         "description": "CODEME_.自我定義後的自我宣言CODEME___填上去就是定義我為___的意思，一種科技上的隱",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2af25373-17a9-4085-beba-064df005dd20",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】✸噗通！- 臺北科大 104 級互動設計系畢業展",
@@ -8967,7 +8967,7 @@ eventsALL = [
         "description": "在互動設計展中，體現跨領域融合的實驗成果",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?968a261d-06c6-43ea-b0fe-f7538f826a48",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Debrand 台北店",
@@ -8977,7 +8977,7 @@ eventsALL = [
         "description": "每個人都是獨一無二而美好的存在即使外界貼上標籤再多也無法抹滅內心堅強信念因為我們相信,服飾由你穿上而",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19060311353051036",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "20珂學肌膚知識特展",
@@ -8987,7 +8987,7 @@ eventsALL = [
         "description": "台灣天氣變化大、濕度高，肌膚特別容易變得敏感。做為乾敏肌膚專用的領導品牌，珂潤特別在二十週年的時刻規",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052810091973734",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "百齡罈威士忌玩味體驗展",
@@ -8997,7 +8997,7 @@ eventsALL = [
         "description": "最後入場時間：08:00pm",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19060312073133050",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】不同反響 Extraordinary",
@@ -9007,7 +9007,7 @@ eventsALL = [
         "description": "龍華科技大學第五屆專題製作成果展",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4f1cd0c6-7515-4f8c-a472-6810fe13f4c2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Dream Big元大公益圓夢計畫期末發表會暨教育成果展",
@@ -9017,7 +9017,7 @@ eventsALL = [
         "description": "(13:30開放入場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052717110658951",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】貳零壹玖成功大學畢業設計夏日特展",
@@ -9027,7 +9027,7 @@ eventsALL = [
         "description": "關於建築，設計的脈絡交織錯雜，來自各處的想法不盡相同。在成大建築五年來不斷地對各自的想法提問與質疑，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d5f84c36-0c40-4bd9-90db-308df42f6668",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】南華大學建築與景觀學系｜半夏風，溫風至",
@@ -9037,7 +9037,7 @@ eventsALL = [
         "description": "“半夏生”:夏天的第4個節氣，半夏是一種喜陰的藥草，因在仲夏的沼澤地或水田中出生所以得名。“溫風至”",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3ceb4d1e-a818-414f-973d-23b424fa5553",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019智慧活力趴",
@@ -9047,7 +9047,7 @@ eventsALL = [
         "description": "報名期間05/1609:00~05/3122:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19051510032307967",
         "type": "市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "108年節能月聰明用電現在式－阿光節電市集",
@@ -9057,7 +9057,7 @@ eventsALL = [
         "description": "經濟部能源局於6月1日早上10時至下午4時，於華山1914文創產業園區華山劇場舉辦「108年節能月-",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052112225788717",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "MASKING奔跑吧！膜王",
@@ -9067,7 +9067,7 @@ eventsALL = [
         "description": "MASKING面膜之王×趣味闖關體驗SPA龍頭祭出APP美肌檢測客製專屬膜力，連網紅都激賞超神準！致",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19051314261249001",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】Entity 質域2019大葉大學空間設計系第二十屆畢業設計展",
@@ -9077,7 +9077,7 @@ eventsALL = [
         "description": "FromMaterialtoMatter材料侵蝕、演變，科技進步、發展，時代進步，日積月累，多少經歷",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?691984df-738b-48fb-af1f-5bceef2b6885",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "大人物聯名講堂 x 亞洲手創展：品牌們，這樣做就對了！",
@@ -9087,7 +9087,7 @@ eventsALL = [
         "description": "因為喜歡創作而讓創作充滿生活的你，走上了創業這條路，但創業過程總是艱辛，面對五花八門的宣傳方式感到迷",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3d71fab1-c0ef-4fb1-b69c-eec258f0d30a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "TAMASHII Feature’s 2019 in TAIWAN",
@@ -9097,7 +9097,7 @@ eventsALL = [
         "description": "*05/3114:00-19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19053109415653478",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "15th 禮讚—微觀創意15週年作品展",
@@ -9107,7 +9107,7 @@ eventsALL = [
         "description": "我們用作品書寫歲月書寫15年來為每一位客戶傳遞送禮的心意我們用作品傳達幸福當每一位收禮者打開禮物發自",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?031d7d93-33be-46d7-b7da-ea3fbf3fc997",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】D.N.A 大葉大學工業設計系第 26 屆畢業成果展",
@@ -9117,7 +9117,7 @@ eventsALL = [
         "description": "設計開始之前，設計師在分析事物與定義新概念的過程中，每個不同的觀點在相互交流之中產生新的火花，在思維",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?179eaa86-4c16-4a14-a37d-b30151fb11ca",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】實踐大學媒體傳達設計學系所《再再 / Re-act》 設計展",
@@ -9127,7 +9127,7 @@ eventsALL = [
         "description": "「再」，闡述作品是創作者生命經驗的再生；「再」，描述因觀者生命經驗不同、而能以不同體悟再次賦予作品新",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4f143e23-eb9f-4c8b-ab38-b10ccd248f43",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】《強化玻璃心》元智大學藝術與設計學系 第九屆畢業展",
@@ -9137,7 +9137,7 @@ eventsALL = [
         "description": "創作無疑是一種自我的反省，作品表達某種問題意識，觀者對於作品的回饋，甚至是創作過程勢必以一種嚴謹的態",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5d5a06e3-2887-4b60-bb2c-142fc24659ac",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】中原大學商業設計所《百懶人》",
@@ -9147,7 +9147,7 @@ eventsALL = [
         "description": "「懶」乍看是貶義詞，但正因人「懶」而促使種種設計發明。因為懶得出門，催化種種互聯網體驗掘起與發展，懶",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?73bdbd1d-a90d-4244-a506-6d70e11544cf",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】一萬小時定律",
@@ -9157,7 +9157,7 @@ eventsALL = [
         "description": "「一萬小時的錘鍊是任何人從平凡變成超凡的必要條件。」─格拉德威爾建築系五年總計約一萬小時，這一萬小時",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7355f0a9-6792-4e3a-bb03-b807db16c143",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】2019國立聯合大學建築學系畢業展 『』引號 - InHow",
@@ -9167,7 +9167,7 @@ eventsALL = [
         "description": "五度空間就是我們自己的想像空間，我們的想像空間就是自己的平行世界，引號中的空間給人無限想像的可能空間",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ea4e152f-7fe1-4211-a211-f4aa5d03c4a4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019東方紋繡藝術祭",
@@ -9177,7 +9177,7 @@ eventsALL = [
         "description": "「我的使命就是要讓國際看到台灣的紋繡藝術」，台灣紋繡美容技術走在亞洲之先、是很多國家想來交流之地，讓",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19041610085326338",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "科創講堂 Tech-Talk FORUM 2019 – 智慧城市",
@@ -9187,7 +9187,7 @@ eventsALL = [
         "description": "主題講堂Ⅰ09:30-12:00(09:00開放報到入場)；主題講堂Ⅱ14:00-18:10(13:",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19051418460058708",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "中川政七商店 POP UP SHOP",
@@ -9197,7 +9197,7 @@ eventsALL = [
         "description": "週一~週四12:00~19:00,週五~週日12:00~20:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052417282414927",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "打GAME吃品客",
@@ -9207,7 +9207,7 @@ eventsALL = [
         "description": "官方粉絲團：https://www.facebook.com/Pringlestw/誰說電動只能宅在",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19052217413861237",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019美麗生活節",
@@ -9217,7 +9217,7 @@ eventsALL = [
         "description": "「女子」生活提案所作為策展理念，喚醒你對美好生活的嚮往以綻放華山作為一處喚醒你對美好生活的實踐場域，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19051314474295536",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】第五屆景觀新秀展",
@@ -9227,7 +9227,7 @@ eventsALL = [
         "description": "全台共十一校的景觀系共同展覽，分別為：文化大學、東海大學、金門大學、輔仁大學、勤益科大、中華大學、中",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?244c4f4d-4c5a-4e69-bc4b-9cae6ae96c72",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】佛光大學傳播學系108年畢業展覽《深視》",
@@ -9237,7 +9237,7 @@ eventsALL = [
         "description": "於海上的冰山，海面之下，是既神秘又美麗的巨型冰體。很多時候，人們只看見虛浮的事實，而忽略潛藏表面下的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?73a0754b-4b02-4ed3-9594-bb6e87a54ff7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】加工出口｜國北教大文創系108級畢業展覽",
@@ -9247,7 +9247,7 @@ eventsALL = [
         "description": "1960年代，由於台灣缺乏資金與技術，只能扮演進口他國原料，按照他人技術加工，最後出口商品的「代工」",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?81967692-5fbd-41c2-927b-3ff642cb4a6b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】六度月台",
@@ -9257,7 +9257,7 @@ eventsALL = [
         "description": "世界上互不相識的兩人，用六步就可以聯繫彼此，而缺失的自我，我們可能一生都在尋找。月台乘載著不同的人們",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?95c4c396-5da2-442b-9cf9-685d293d9a72",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019繭裹子公平貿易服裝秀",
@@ -9267,7 +9267,7 @@ eventsALL = [
         "description": "活動依現場公告為主",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19042913171257654",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學 X 嘉義新港】兩代對談，地方非營利組織的世代傳承",
@@ -9277,7 +9277,7 @@ eventsALL = [
         "description": "報名期間04/2318:38~05/1915:15",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19042318383971060",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019繭裹子公平貿易服裝秀",
@@ -9287,7 +9287,7 @@ eventsALL = [
         "description": "活動依現場公告為主",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19042913171257654",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019春季思沙龍「面對未來-你準備好了？」",
@@ -9297,7 +9297,7 @@ eventsALL = [
         "description": "第一場2019/3/23(六)、第二場2019/4/27(六)、第三場2019/5/18(六)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19022714370457823",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "idea TAIPEI創意工作營成果推廣展《IDEA點唱機》",
@@ -9307,7 +9307,7 @@ eventsALL = [
         "description": "一直以來，作為華語流行音樂指標的臺灣，近年來面臨著產業環境變革的巨大挑戰；此時，即將在臺北成立以流行",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?14bccdc7-c14f-4a61-a573-929e8fe58a96",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "ZA SHARE Youth 雜學青_多元學習博覽會",
@@ -9317,7 +9317,7 @@ eventsALL = [
         "description": "5月17日至5月18日，每日10:00~20:00開放參觀，最後入場時間為19:30，最後售票時間為",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19050614523836738",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「美學，其實我們都有關係」not just talk 系列2               <當導演走進電影院>",
@@ -9327,7 +9327,7 @@ eventsALL = [
         "description": "延續去年「美學，其實我們都有關係」notjusttalk系列講座，今年，樹梅文化藝術基金的notju",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19042211012665610",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】第八屆全國室內/空間設計聯合展覽 環 LOOP",
@@ -9337,7 +9337,7 @@ eventsALL = [
         "description": "中間兩個O是8也是∞，聯展聚集了全國16所室內空間設計相關科系，這場一年一度的盛會即將邁入第八年，邀",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2c16024e-99d9-4059-b227-e1bd1706be8b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "城市與華山有約",
@@ -9347,7 +9347,7 @@ eventsALL = [
         "description": "在教室外的舞台，揮灑創意與青春!學生社團聯合演出精彩的熱舞及歌唱，歡迎大家一起來感受學生們的熱情與活",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19050311202753538",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "美樂思在台五周年 期間限定快閃店",
@@ -9357,7 +9357,7 @@ eventsALL = [
         "description": "06/23(日)營業至19:30結束",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19042414445571633",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "美樂思在台五周年 期間限定快閃",
@@ -9367,7 +9367,7 @@ eventsALL = [
         "description": "SkinHug擁抱肌膚。水潤包覆呵護、肌膚不乾渴。肌膚的乾燥問題是否無論如何保養卻不見好轉呢？針對此",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19050318060512450",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【松山文創學園祭】銘傳大學都市規劃與防災學系 - 城市觸媒",
@@ -9377,7 +9377,7 @@ eventsALL = [
         "description": "都市規劃與防災學系第十三屆畢展名稱為「城市觸媒UrBanCatalysts」其中「UrBan」大寫「",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?45bf2c9d-f417-4ccd-bc19-284584c3b0f5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】十一駐・行｜靜宜大傳 11th 畢業展",
@@ -9387,7 +9387,7 @@ eventsALL = [
         "description": "生活的日常即是靈感，我們看見、聽見、觸摸、思考，感受著這世界賦予的豐富色彩，用最清澈的雙眼紀錄與傳達",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?cb657bf3-ff05-4df4-a420-ba71147775c3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "光年之外─窺探宇宙秘密天文展",
@@ -9397,7 +9397,7 @@ eventsALL = [
         "description": "無公休日",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19050912382465421",
         "type": "展覽活動&&期間限定店",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "夏姿‧陳 針間絮語",
@@ -9407,7 +9407,7 @@ eventsALL = [
         "description": "服裝是人們適應自然、反映社會文化、詮釋藝術表現喜好的工藝堆疊。當歐美吹起東風潮流之前，夏姿‧陳SHI",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19050411554052842",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "無重力星空 – Lab實驗啟動計劃×奧夫塞計劃",
@@ -9417,7 +9417,7 @@ eventsALL = [
         "description": "由松山文創園區自行策畫之展演活動「Lab實驗啟動計劃」，2019年攜手忠泰美術館「奧夫塞計劃Off-",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?34937be3-5bb6-4737-ac40-ca2c4a1d325d",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】世新大學圖文傳播暨數位出版學系第 25 屆畢業展-凹凸",
@@ -9427,7 +9427,7 @@ eventsALL = [
         "description": "凹凸，本是兩個方形，拉扯、衝撞、融合，在自我意識形成後開始具象，於是那些來不及追求正確答案的狀態已成",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0735f1cd-34b0-4190-a57b-476f594c14cc",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】調配公式 國立臺北商業大學創新經營學院108級三系聯合畢業展",
@@ -9437,7 +9437,7 @@ eventsALL = [
         "description": "「搭配再構成，尋找獨一無二」在多采多姿的求學生涯中，我們就如同調色盤一般，複合著許多顏色，帶著不同的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8beb9e68-cb8a-4520-965c-612ce8edbc49",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】世新大學公共關係暨廣告學系第25 屆畢業展 - 異識流",
@@ -9447,7 +9447,7 @@ eventsALL = [
         "description": "「世新公廣系畢業展-異識流」想談的，也許不止於公關廣告。「異識流」畢業展由畢籌小組與十一組畢製小組共",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f62c54e0-0fb4-4bf3-b4b8-bde734593080",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "嗶啵嗶劇團 「搞什麼東西！？」聲音劇場展演",
@@ -9457,7 +9457,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19040913553155543",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "中華民國室內設計協會「40周年回顧展」暨 CSID 陳德貴會員回顧展",
@@ -9467,7 +9467,7 @@ eventsALL = [
         "description": "中華民國室內設計協會(簡稱CSID)於1979年成立自今，已有40年時光了。為了迎接40周年做準備，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?02585b8e-021e-4d2c-9a9e-640a7d07de6e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "五月天 人生無限公司 MAYDAY LIFE 人生號宇宙戰艦 展出",
@@ -9477,7 +9477,7 @@ eventsALL = [
         "description": "配合五月天［人生無限公司］電影映前宣傳將於松山文創園區文創大街為期一個月展出演唱會與電影陳設「人生號",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?50d3ff17-645d-462b-8855-a237982df5a3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "松菸口設計人把特 DESIGNER’S BARTER",
@@ -9487,7 +9487,7 @@ eventsALL = [
         "description": "「BARTER=物物交換」本活動透過設計人以物換物，以及經典展件抽獎贈送，分享人之間的喜好與理想，讓",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f4a06683-ec52-4916-b13b-6e17efd0b2ce",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】中國文化大美術學系畢業展『躍場光合』",
@@ -9497,7 +9497,7 @@ eventsALL = [
         "description": "文化大學美術學系，第五十三屆畢業展『躍場光合』，於5月3日至5月6日在松山文創園區一號倉庫舉行。今年",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2c23f524-cf80-484c-904b-3ee4e5d9ebaf",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】中國文化大學107學年度聯合畢業成果展暨系所博覽會",
@@ -9507,7 +9507,7 @@ eventsALL = [
         "description": "文化大學聯合畢業成果展暨大學博覽會今年邁向第二年，今年以「展翼華岡、飛向世界」為主題，以各學系國際化",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3af8ec8f-b47d-4b4b-b0a0-252e738752f0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【松山文創學園祭】Love is painful 玄大104級藝創暨時尚聯合畢展",
@@ -9517,7 +9517,7 @@ eventsALL = [
         "description": "回首過去的四年，我們沉浸在創作痛苦中，歷經各種蛻變，但最後完成作品的那份成就卻足以吞噬掉我們曾經歷過",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b992c6b1-3daa-4ce8-8969-e99490a915ce",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "翻轉天賦 城市曙光 #我實現善的力量",
@@ -9527,7 +9527,7 @@ eventsALL = [
         "description": "翻轉天賦城市曙光#我實現善的力量",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f1853625-9a60-468a-ba40-951d5ed12c43",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《吳越春秋之美人心計》",
@@ -9537,7 +9537,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19040917304958855",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "愛馬仕 Silk Mix 男士絲巾唱片快閃店",
@@ -9547,7 +9547,7 @@ eventsALL = [
         "description": "4/29-5/3晚間19:00音樂派對供應酒精性飲品，限18歲以上始能入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19041711005790123",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Xperia 1大師級手機解密+知名科技玩家推薦交流",
@@ -9557,7 +9557,7 @@ eventsALL = [
         "description": "SonyMobile全新超旗艦手機Xperia1搶先動手玩Xperia1集結Sony集團頂尖科技，擁",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19042216282064055",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松山高中淞霧攝影研究社第二屆獨立影展 Printemps",
@@ -9567,7 +9567,7 @@ eventsALL = [
         "description": "Printemps是法文中「春意」的意思，恰逢影展開幕的四月天，澄橘色暖陽暈暈倒映在寶藍海面，暗黃色",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?41a78d5c-11a5-4188-a71f-af7b3d5c85e2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「CAMPER TIMELESSNESS台灣青年創作展」",
@@ -9577,7 +9577,7 @@ eventsALL = [
         "description": "本著由團團文創與西班牙品牌CAMPER發起之「CAMPERTIMELESSNESS台灣青年創作展」，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19040417382045428",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019動見体《野良犬之家》",
@@ -9587,7 +9587,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19030610500062882",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019臺灣文博會",
@@ -9597,7 +9597,7 @@ eventsALL = [
         "description": "04/2410:00-11:30東2館不對外開放,其他場館正常開放;華山劇場04/26-04/281",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19041412155237450",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019 台灣文博會",
@@ -9607,7 +9607,7 @@ eventsALL = [
         "description": "松山文創園區以「設計品牌」作為展出主軸，聚集國內外設計工藝品牌，呈現新世代的設計思維與創意能量。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?6e151fb1-bed6-431d-abe3-56d7dc1b0bba",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "吸茶展 Suck My Culture",
@@ -9617,7 +9617,7 @@ eventsALL = [
         "description": "「簌！簌簌！簌！」現代臺灣人的內建基因裡，「吸」一口茶是與生俱來的技能。你嘴裡剛剛吸著的那口，是什麼",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?31e66fcd-709b-49ef-a434-f9506c524573",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "科創講堂 Tech-Talk FORUM 2019 – 資通訊科技",
@@ -9627,7 +9627,7 @@ eventsALL = [
         "description": "主題講堂Ⅰ09:00開放報到入場、主題講堂Ⅱ13:30開放報到入場。",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19040218365311562",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "GreenDay ．綠日子 無塑野餐綠能音樂會",
@@ -9637,7 +9637,7 @@ eventsALL = [
         "description": "你相信，生活中的一點小小改變，就能對環境有大大影響嗎？邀請你在溫暖的初春，加入這場由綠色和平與一群熱",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19041710413844726",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "White Noise 白噪音",
@@ -9647,7 +9647,7 @@ eventsALL = [
         "description": "松山文創園區藝異空間2019年「記憶系列」第二檔展覽邀請到日籍藝術家足立あゆみ(AYUMIADACH",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e7e274b7-6254-4e84-b6c8-7920ab2a3b38",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「Dear Glass,」真真燈器x李穎軍",
@@ -9657,7 +9657,7 @@ eventsALL = [
         "description": "真真鑲嵌玻璃研究所每一年度會與藝術家合作專案，以品牌即是平台的概念，共同探索未知的創作邊界，共同抵達",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?fb2b1089-1829-49b2-9aac-e44f18d2e902",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019 台灣時尚大革命",
@@ -9667,7 +9667,7 @@ eventsALL = [
         "description": "每年的4月24為時尚革命日(FashionRevolutionDay)，希望藉由這個節日呼籲大家，也",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8fbf1821-a05b-42c8-8ff3-98b6fbb8a3c6",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019品木宣言愛地球公益快閃店",
@@ -9677,7 +9677,7 @@ eventsALL = [
         "description": "「品木宣言愛地球公益快閃店」，特別採用溫室概念設計，透亮玻璃店裝折射著光線散發夢幻氛圍；一走進店內，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19041114420120977",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019實踐服裝畢業展演",
@@ -9687,7 +9687,7 @@ eventsALL = [
         "description": "實踐大學服裝設計系畢業展演",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1575b789-4036-4b7c-bc75-9a981e5c5469",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【華山文旅學X相遇地方】人進來了然後呢？",
@@ -9697,7 +9697,7 @@ eventsALL = [
         "description": "15:00-15:20入場報到，15:20開始",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19032816415548664",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "抱歉不只是設計人",
@@ -9707,7 +9707,7 @@ eventsALL = [
         "description": "此展覽以「打破框架，重新思考」的理念貫穿本次策展的主題，希望透過對「設計」一詞重新詮釋，探索出更多關",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4dd56fa2-cfa8-4eca-8c87-cbbb0fdfcac9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019 WONDER FOTO DAY 台北國際攝影藝術交流展",
@@ -9717,7 +9717,7 @@ eventsALL = [
         "description": "春季最大攝影藝術盛事2019WONDERFOTODAY台北國際攝影藝術交流展將於今年4月12日至4月",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?afcc80d0-288b-4f57-bc83-a7461b6c26e2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "複象公場《哈瓦那》",
@@ -9727,7 +9727,7 @@ eventsALL = [
         "description": "哈瓦那一個不盡理想的夢幻國度假裝活在正常的國正常的家就像在童話複象公場《哈瓦那》王珩/神要建國×張雅",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e10cb675-2d40-498c-a09a-85570e746cc5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "桌邊時光：用桌遊創造專屬回憶",
@@ -9737,7 +9737,7 @@ eventsALL = [
         "description": "04／06(六)12:00~20:00,04／07(日)11:00~19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19032010114357407",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "扔出去的_頭也不回",
@@ -9747,7 +9747,7 @@ eventsALL = [
         "description": "高雄師範大學美術學系108級畢業展，共有44位藝術家參展。義無反顧的、簡單灑脫的「我」們，一場帶着巨",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7bbd8455-2284-421b-9d1a-44a1ad5a777a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "安琪兒華山婦幼展 – 2019孕媽咪時尚秀",
@@ -9757,7 +9757,7 @@ eventsALL = [
         "description": "活動依現場公告為主",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19030615581816266",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "安琪兒華山婦幼展 – 2019孕媽咪時尚秀",
@@ -9767,7 +9767,7 @@ eventsALL = [
         "description": "活動依現場公告為主",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19030615581816266",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Finding Jordan Picasso 尋找小小畢卡索 第二屆著色比賽",
@@ -9777,7 +9777,7 @@ eventsALL = [
         "description": "Jordan牙刷舉辦第二屆尋找小小畢卡索著色比賽，邀請來到現場小朋友們可以一起發揮創意，盡情揮灑想像",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19032914404579021",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "AHC Playzone旗艦快閃店",
@@ -9787,7 +9787,7 @@ eventsALL = [
         "description": "04/14日營業時間為12:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19031919500686215",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「雲林時刻」地方創生特展",
@@ -9797,7 +9797,7 @@ eventsALL = [
         "description": "免費入場(3/30不對外；4/1僅開放到12:00；活動時間依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19032618015048866",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019台灣原民園～華山傳唱～全國原住民農特產推廣活動",
@@ -9807,7 +9807,7 @@ eventsALL = [
         "description": "為推廣全國原鄉農特產業、部落美食文化、休閒農業、觀光及表演藝術等多元產業。擇訂春季，於台北華山191",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19032610494290975",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "The Future Is……時尚異想",
@@ -9817,7 +9817,7 @@ eventsALL = [
         "description": "於法國創刊的《MarieClaire美麗佳人》致力為全球女性發聲，今年三月美麗佳人滿26歲了！以「T",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19032219424060288",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "輔仁大學服裝織品學系第四十六屆畢業成果展系列活動",
@@ -9827,7 +9827,7 @@ eventsALL = [
         "description": "輔仁大學織品服裝學系第46屆畢業展覽主軸以「未織數」串起三組領域：織品設計組、服飾設計組及服飾行銷組",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?eb6ede58-f175-4163-afb1-755aefcb2914",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "質感育兒生活",
@@ -9837,7 +9837,7 @@ eventsALL = [
         "description": "讓設計進入生活，同時也讓育兒融合設計，給孩子最安全、健康的一切。設計點結合三個風格全然不同的嬰幼童品",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?6b2be2b4-924e-4d60-96b0-12915ee30f36",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "瀨戶內國際藝術祭小蝦隊說明會",
@@ -9847,7 +9847,7 @@ eventsALL = [
         "description": "瀨戶內國際藝術祭小蝦隊說明會日本瀨戶內海國際藝術祭於2010年開展至今吸引全球藝術家與旅客前往，近年",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19031917193491402",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "可樂果2019環台加油車",
@@ -9857,7 +9857,7 @@ eventsALL = [
         "description": "可樂果夢想加油車活動在全台各地巡迴舉辦。全場活動免費參加，活動設有「夢想加油投籃車」、「夢想加油太空",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19032111551954708",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺灣文創珠寶與設計展",
@@ -9867,7 +9867,7 @@ eventsALL = [
         "description": "一件珠寶的前世今生，蘊育於土地之下，經設計師與工匠的巧思，始成為獨一無二的藝術品。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?27b4b550-96f1-4500-b6fe-942d351582d9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Creative Mornings Taipei 創意早晨講座：Water 水",
@@ -9877,7 +9877,7 @@ eventsALL = [
         "description": "報名期間03/1910:28~03/2207:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19031910292161062",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第九屆台北新藝術博覽會-尊榮貴賓預展",
@@ -9887,7 +9887,7 @@ eventsALL = [
         "description": "第九屆台北新藝術博覽會，在松山文創園區二號倉庫舉辦預展囉！今年預展特別徵集到世界五大洲，歐、美、亞、",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?304b3429-f029-4f7c-b718-5cf8796b5e4e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "願景工程「大風吹～吹翻書的人」閱讀嘉年華",
@@ -9897,7 +9897,7 @@ eventsALL = [
         "description": "聯合報系「願景工程」舉辦「大風吹～吹翻書的人」閱讀嘉年華，邀請許多翻書夥伴參與，一樓以親子互動為主題",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19021518392285566",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "女人心-李如彬、蘇雅純、周晶晶創作聯展",
@@ -9907,7 +9907,7 @@ eventsALL = [
         "description": "關於女人愛慕華麗與其表象之下內在本然的野性，內外之間交織著既對立又調勻的某種擺盪循環，如同花開花落的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?7a6e7277-abd4-426f-8bfb-e1c9077932a0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "輔大廣告第 22 屆畢業展覽《梵哲涵》",
@@ -9917,7 +9917,7 @@ eventsALL = [
         "description": "來學生畢展可以得到什麼？在輔大廣告第二十二屆畢展，你將可以得到認識「梵哲涵」的機會。梵哲涵是誰？梵哲",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e48ab286-1ebe-4298-93eb-d405a20b9f56",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "台灣雅詩蘭黛集團 聯合品牌首展「花現經典 美力世界」",
@@ -9927,7 +9927,7 @@ eventsALL = [
         "description": "台灣雅詩蘭黛集團聯合品牌免費首展「花現經典美力世界」，迎合時下網美打卡風潮，以繽紛浪漫的粉嫩春天約會",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19030715281197577",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "SHURE #聲歷其境 2019新品發表會",
@@ -9937,7 +9937,7 @@ eventsALL = [
         "description": "免費參觀(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19030818275368847",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019相遇舞蹈節—共感",
@@ -9947,7 +9947,7 @@ eventsALL = [
         "description": "【相遇舞蹈節】為三十舞蹈劇場與華山1914創意園區合作之舞蹈策展，2018年首次推出後普獲好評，成為",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18122519541246160",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2019【突破論壇】政府失能？新時代的政府角色",
@@ -9957,7 +9957,7 @@ eventsALL = [
         "description": "政府失能？新時代的政府角色二十一世紀科技突飛猛進，帶動數位經濟快速發展，產生全新的經濟模式與貨幣，對",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19022714204908364",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "牧夫肢間舞團－時令肢體劇場《牽出合走》",
@@ -9967,7 +9967,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19011410254582368",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "南強工商第三十二屆《暫存與永恆》畢業影展",
@@ -9977,7 +9977,7 @@ eventsALL = [
         "description": "我們所盼望的，是希望能在你的生命中，將這影展的片刻烙印在你的時光長河中。即使只有幾小時，讓這成為一個",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?76ad9ca9-060f-4c84-800c-48be54876856",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【華山文旅學 X 相遇地方】從社企到地方創生",
@@ -9987,7 +9987,7 @@ eventsALL = [
         "description": "14:00開放入場，14:20活動開始",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19021816531272721",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "峰之華 - 鄭崴宇油畫創作個展",
@@ -9997,7 +9997,7 @@ eventsALL = [
         "description": "見山不是山，見山又是山。藉由山景，以油畫寫實技法表達內在抽象情感，描繪群山的多種樣貌，展現豐富的生命",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?050c563d-aa0f-45ec-a155-b431220adc18",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "☆沖繩全島祭☆OKINAWA ART with 『島ぜんぶでお～きな祭11thOKINAWA INTERNATIONAL MOVIE FESTIVAL』",
@@ -10007,7 +10007,7 @@ eventsALL = [
         "description": "株式会社MCIPHOLDINGS(東京都新宿區:代表取締役社⻑清水英明)自2019年2月23日(六)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19022111474754462",
         "type": "展覽活動&&期間限定店&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "☆沖繩全島祭☆OKINAWA ART with 『島ぜんぶでお～きな祭11thOKINAWA INTERNATIONAL MOVIE FESTIVAL』",
@@ -10017,7 +10017,7 @@ eventsALL = [
         "description": "株式会社MCIPHOLDINGS(東京都新宿區:代表取締役社⻑清水英明)自2019年2月23日(六)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19022111474754462",
         "type": "展覽活動&&期間限定店&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "KITOKITO TOYAMA 富山展",
@@ -10027,7 +10027,7 @@ eventsALL = [
         "description": "在日本有句話說：「春天的富山非常美味。」富山美味的源頭就在富山灣裡，依傍山林、鄰近海洋，耕作山海富饒",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?77d0af8b-518a-4050-af59-7add45ed13ed",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Creative Mornings Taipei 創意早晨講座：Symmetry對稱",
@@ -10037,7 +10037,7 @@ eventsALL = [
         "description": "Symmetry對稱你想在旅行中獲得什麼？療傷、放逐、放鬆，不帶任何目的。又或者把自己拋開，去體驗一",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19021818144230325",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Miravivi 公主的夢幻世界",
@@ -10047,7 +10047,7 @@ eventsALL = [
         "description": "時間：11:00-19:30(平日)10:00-19:30(假日)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19021918091620925",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "吉他創新之路-新時代吉他展",
@@ -10057,7 +10057,7 @@ eventsALL = [
         "description": "隨著流行音樂型態的轉變，吉他主導的流行音樂盛世正在消逝！然而危機也是轉機現今正是吉他走向「精緻化」、",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?330d2551-fe29-4308-8511-8aecc17be8d3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2019春風似友    珍本古籍拍賣會",
@@ -10067,7 +10067,7 @@ eventsALL = [
         "description": "2.17拍賣會當天上午場10點30分、下午場13點30分",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19012115421512787",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "原子能科技科普展",
@@ -10077,7 +10077,7 @@ eventsALL = [
         "description": "為加強推廣原子能科普業務，行政院原子能委員會於108年2月15日至17日，在華山1914文創產業園區",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19021214382482750",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《阿波之音》",
@@ -10087,7 +10087,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18121619213070278",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "藍色解離 - 呂宗霖、蔡名璨創作聯展",
@@ -10097,7 +10097,7 @@ eventsALL = [
         "description": "由人類心理學-解離性迷遊為出發，探討藝術創作心裡的內化表現，擬態服裝、文字，立體與平面之心裡學病因及",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?823a362b-a83f-437f-b980-85acbfe8df97",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "愛著卡慘死，打拼為了你：小鎮夫妻的一天、一年、一輩子",
@@ -10107,7 +10107,7 @@ eventsALL = [
         "description": "婚紗，浪漫的保鮮期只有幾天，我愛你，不只是甜言蜜語，牽手吧！一起走向未來的每一天，成家立業，是當年的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?27480d13-4a76-4cac-a7a1-0c5caf200d21",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Born to Love 為愛而生擴增實境概念展",
@@ -10117,7 +10117,7 @@ eventsALL = [
         "description": "「BorntoLove為愛而生擴增實境概念展」創作靈感是以搖滾團體Queen主唱FreddieMer",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a4d6aded-c51d-4398-8a40-006e6d5c5078",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "安井顕太玻璃藝術展覽",
@@ -10127,7 +10127,7 @@ eventsALL = [
         "description": "本協會為什麼在世界玻璃藝術大師中，極力邀聘安井顕太協助吹製玻璃興業計畫，除與台灣區域性外，顕太先生的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?85f62135-4f40-4480-9173-70557e72fbc0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「祈願心中永遠要有光」楊惠姍三十二年琉璃佛像創作展",
@@ -10137,7 +10137,7 @@ eventsALL = [
         "description": "星雲大師認證「世界第一」的佛像造像師、凝聚32年佛像創作功力的琉璃藝術家楊惠姍，自2019春節期間起",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5e07b6bf-393a-4565-b289-bfd1dc9daa5c",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【華山文旅學 x 相遇台東池上】台灣的好從鄉鎮開始 (李應平、梁正賢、林懷民)",
@@ -10147,7 +10147,7 @@ eventsALL = [
         "description": "14:00開放入場，14:20活動開始",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19010812321244553",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【華山文旅學-看三峽】三峽工藝品牌市集",
@@ -10157,7 +10157,7 @@ eventsALL = [
         "description": "位在新北市西南隅，山河交匯、職人交織造就聚落特有的生活風景，一場以三峽地域文化出發的市集，看見三峽真",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19012114372027622",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Creative Mornings Taipei 創意早晨講座：Surreal超現實",
@@ -10167,7 +10167,7 @@ eventsALL = [
         "description": "Surreal超現實標誌的重金屬搖滾，充滿人性的黑暗、偽善、虛假的道德、對理性的幻滅，每首歌曲創作的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19011613554025748",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "洪蘭教授《有理最美》新書分享會",
@@ -10177,7 +10177,7 @@ eventsALL = [
         "description": "7:00PM開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19011716560001875",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Swatch Loves Art藝術基地",
@@ -10187,7 +10187,7 @@ eventsALL = [
         "description": "除夕(2/4)公休",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19012411083134677",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Studio Smoll自組裝植鞣皮革包",
@@ -10197,7 +10197,7 @@ eventsALL = [
         "description": "除夕(02.04)、初一(02.05)公休",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19012116463756816",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "軟：硬 - 實踐跨域創新的未來",
@@ -10207,7 +10207,7 @@ eventsALL = [
         "description": "「軟：硬-實踐跨域創新的未來」由經濟部工業局主辦、台灣創意設計中心執行，StudioShikai團隊",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9e2d055d-b884-48b1-8720-d66901795567",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "桃太郎的故鄉 日本岡山頒獎典禮與旅遊講座",
@@ -10217,7 +10217,7 @@ eventsALL = [
         "description": "免費入場(16:50開放自由入場)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19011512520261415",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "巴黎龐畢度中心兒童藝術工作坊小小建築師-創藝沙雕&安藤忠雄工作坊",
@@ -10227,7 +10227,7 @@ eventsALL = [
         "description": "在遊戲中學習！巴黎龐畢度中心兒童藝術工作坊小小建築師-創藝沙雕&安藤忠雄工作坊【法國巴黎龐畢度中心】",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19011216060694415",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "初生- 2018大同大學107學年度媒體設計學系期末展",
@@ -10237,7 +10237,7 @@ eventsALL = [
         "description": "初生如同「出生」，象徵著作品的一個初始和誕生，也代表著我們擁有「初生之犢不畏虎」的精神，在一個嶄新領",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_19011410354567821",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《象生。生象》羅傑創作個展",
@@ -10247,7 +10247,7 @@ eventsALL = [
         "description": "系列作品運用了動態的激情及靜態的平衡所構成，並在最後建構成為一個循環體，表現人們在探究事物的源頭，在",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?6399d449-51cb-494b-806b-d7c03297348b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "與空間的對話：松菸 Lab 新主藝特展",
@@ -10257,7 +10257,7 @@ eventsALL = [
         "description": "原創的能量必須來自於不停的「實驗」，位於松山文創園區製菸工廠二樓的「LAB創意實驗室」是松山文創園區",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?8642a720-3b3b-44be-8340-4bb50c1a8787",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "I.A.N Design 「自然系職人的生活提案」",
@@ -10267,7 +10267,7 @@ eventsALL = [
         "description": "除夕(2/4)~大年初一(2/5)公休",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19011312173006880",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "TID 第十一年 華人之光走向國際舞台台灣室內設計大獎得獎作品展覽",
@@ -10277,7 +10277,7 @@ eventsALL = [
         "description": "凝聚了當代台灣設計菁英的設計創意思維之外，更成為觀察大中華地區室內設計發展的最重要平台，記錄與觀察來",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9daf8cd3-8b22-4bb1-b397-e3cf9c422b8e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "玩美攝影棚 x Pocky Deco Art 台北站",
@@ -10287,7 +10287,7 @@ eventsALL = [
         "description": "陪大家一起長大的Pocky，這次邀請你以視覺體驗Pocky的[繽紛生活方式]，展覽創造獨一無二又豐富",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5a777ff4-2084-4434-9e8f-10815245ed82",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Luxottica 2019春季新品經銷商展售會",
@@ -10297,7 +10297,7 @@ eventsALL = [
         "description": "(廠商活動採預約制,不對外開放)(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19010414324775803",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "於愛之境-王中秀油畫粉彩創作展",
@@ -10307,7 +10307,7 @@ eventsALL = [
         "description": "愛是一種神奇的力量，無所不在。愛讓我們勇敢、堅強、感恩、努力、包容、寬恕、平安、幸福。萬物皆有情更需",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1178545e-5348-481e-a613-8ed73b5d10fc",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "躍演原創音樂劇《麗晶卡拉OK的最後一夜》",
@@ -10317,7 +10317,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18112811382796017",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "中華職棒30週年特展-無人出局",
@@ -10327,7 +10327,7 @@ eventsALL = [
         "description": "九局下半，兩人出局，兩好三壞，滿球數，現在上場打擊的是......曾經，我們屏息，每一顆球，都牽動著",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18122811115614168",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "BBC x myVideo 英劇嘉年華",
@@ -10337,7 +10337,7 @@ eventsALL = [
         "description": "免費入場(12/2911:00-21:00；12/3011:00-18:00)(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18122513341001856",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山 x 地方系列講座 ─ 林峻丞 // 甘樂文創在華山 // 城鄉攜手 共學共創",
@@ -10347,7 +10347,7 @@ eventsALL = [
         "description": "2:00開放報到，2:20活動開始",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18110718525512414",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "米奇 FUN 很大特展",
@@ -10357,7 +10357,7 @@ eventsALL = [
         "description": "米奇今年90歲了！為了要慶祝這個具有重大意義的日子，台灣迪士尼也將於今年12月在台北松山文創園區舉辦",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?dcf4a723-1394-4728-8097-d97f1f5e2c34",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "1/100 の 迷你小人世界-寺田尚樹的療癒特展",
@@ -10367,7 +10367,7 @@ eventsALL = [
         "description": "出自日本建築師-寺田尚樹-之手，出神入化紙模型藝術，1:100的比例，打造精緻唯美的迷你小人世界。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?16312653-29fd-4e77-95f5-b7057bc663e0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "櫻桃小丸子の夢想世界",
@@ -10377,7 +10377,7 @@ eventsALL = [
         "description": "一起進入櫻桃小丸子的夢想世界吧！結合夢境般奇妙幻想，打造奇幻的六大場景，呈現櫻桃小丸子天馬行空的夢想",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ae472489-1c7c-4a2a-8db6-c5fd20571a25",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "變變變！MOVE生物體驗展",
@@ -10387,7 +10387,7 @@ eventsALL = [
         "description": "變變變！MOVE生物體驗展ㄧ起變身吧!成爲生物才可以學到更多你有看過「會動的圖鑑」嗎？你有「真實」體",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18113014155616561",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "鏡物森林：任芯瑩創作展",
@@ -10397,7 +10397,7 @@ eventsALL = [
         "description": "我們都習慣在線條所界定的世界中生活著，有形或無形的界線，將空間切分成不同的場域。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?beba9121-7b8e-4215-9c4c-0c379b7fe672",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《咘哩隧道 No!No!No!》反霸凌特展",
@@ -10407,7 +10407,7 @@ eventsALL = [
         "description": "你曾經歷過「霸凌」嗎？根據調查，在臺灣超過七成五的人曾經歷過霸凌事件，而霸凌所造成的創傷與影響可能長",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4db062cb-c022-402c-a6c6-1de67dff6cd4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "侏羅紀X恐龍樂園(2019.03.17已結束)",
@@ -10417,7 +10417,7 @@ eventsALL = [
         "description": "17:30停止售票及入場(除夕2/4休館)(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112914365923043",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "LINE FRIENDS WORLD TOUR: 世界巡迴之旅",
@@ -10427,7 +10427,7 @@ eventsALL = [
         "description": "除夕休館",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18122014480436662",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "微型展2.0 田中達也的奇幻世界",
@@ -10437,7 +10437,7 @@ eventsALL = [
         "description": "田中達也的奇幻世界2度登台開展！！今年冬天微型風潮再臨！微型展2.0打造更有趣更驚喜的全新展件！12",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112617153683452",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《天堂M》一週年巡迴活動台北站",
@@ -10447,7 +10447,7 @@ eventsALL = [
         "description": "活動官網：https://event.beanfun.com/LineageM/EventAD/Ev",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18122016380749971",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "角落小夥伴 ~窩在角落的生活~",
@@ -10457,7 +10457,7 @@ eventsALL = [
         "description": "角落小夥伴“隆重登台”今年年底寒假史上最療癒的特展，台灣限定場景，獨家內容盛大展出，2018年12月",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?62d474f8-b3e8-4e50-8303-8f2e3840930e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "華山市集 ｜白色耶誕 @華山1914文化創意產業園區",
@@ -10467,7 +10467,7 @@ eventsALL = [
         "description": "2018年白色耶誕市集就是只想和你甜甜圈在一起讓我們用手筆的溫度留下這一年來的幸福日常與街頭藝人一起",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121821363898538",
         "type": "展覽活動&&市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "卡娜赫拉的扭扭世界",
@@ -10477,7 +10477,7 @@ eventsALL = [
         "description": "平日11:00~19:30；假日10:00~19:30(最後入場皆為19:00)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121011095574010",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "華山市集 ｜白色耶誕 @華山1914文化創意產業園區",
@@ -10487,7 +10487,7 @@ eventsALL = [
         "description": "2018年白色耶誕市集就是只想和你甜甜圈在一起讓我們用手筆的溫度留下這一年來的幸福日常與街頭藝人一起",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121821363898538",
         "type": "展覽活動&&市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "東南科技大學第10屆畢業設計展",
@@ -10497,7 +10497,7 @@ eventsALL = [
         "description": "《築跡》建築物如同建築師在各地留下來的足跡也藉由這些築跡了解不同建築師的創作風格因此我們追逐著這些足",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2db90dcb-3202-4143-bba5-ceb9e25d44d4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "有意思生活節",
@@ -10507,7 +10507,7 @@ eventsALL = [
         "description": "今年冬季最盛大的聖誕市集－「有意思生活節」，結合來自日本/台灣手作職人的耶誕選品、名人/網紅講座（部",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?53423cf5-0ce5-458e-ab5d-936d833c4807",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "MPALACE魔鏡奇遊",
@@ -10517,7 +10517,7 @@ eventsALL = [
         "description": "MPALACE魔鏡奇遊創意無限時尚設計團隊，將帶領你穿梭在魔幻的視覺感官，彷彿身在璀璨卻又神秘的童話",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121210294588088",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "青年行動 全球移動 - 國際及體驗學習成果展",
@@ -10527,7 +10527,7 @@ eventsALL = [
         "description": "2018/12/15(六)一樓13:20-17:30、二樓15:30-17:302018/12/16",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121214444536887",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "107年「青年行動 全球移動」-公共參與 重力作動成果展",
@@ -10537,7 +10537,7 @@ eventsALL = [
         "description": "活動官網：https://act.ydachangemaker.tw/預約活動連結：https://",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121119075901583",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018「愛再蔓延」公益義賣會",
@@ -10547,7 +10547,7 @@ eventsALL = [
         "description": "活動網址：http://www.dsa.org.tw/ar-inside.php?classId=8",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121314021509235",
         "type": "展覽活動&&市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "107年「青年行動 全球移動」-公共參與 重力作動成果展",
@@ -10557,7 +10557,7 @@ eventsALL = [
         "description": "活動官網：https://act.ydachangemaker.tw/預約活動連結：https://",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121119075901583",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018「愛再蔓延」公益義賣會",
@@ -10567,7 +10567,7 @@ eventsALL = [
         "description": "活動網址：http://www.dsa.org.tw/ar-inside.php?classId=8",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18121314021509235",
         "type": "展覽活動&&市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "字字珠璣----「臺灣鉛楷體」的故事",
@@ -10577,7 +10577,7 @@ eventsALL = [
         "description": "「臺灣鉛楷體」是一套在臺灣流通七十年的活版鉛字楷書字體，廣泛運用於各類文件與書籍，堪稱臺灣的「國民字",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d22e8073-fbd0-4520-87a4-4fd42957a3af",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "日本東北遊樂日2018　だいすき♡♥とうほく",
@@ -10587,7 +10587,7 @@ eventsALL = [
         "description": "12月14日12:30~19:00、12月15日10:00~19:00、12月16日10:00~18",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18120409570688853",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "全女子脫口秀：女生站起來",
@@ -10597,7 +10597,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18121118411014553",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Light Box 來吧 – 2018金赫獎年度作品展",
@@ -10607,7 +10607,7 @@ eventsALL = [
         "description": "weekday12:00-19:00/weekend11:00-19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18120910053775157",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "海灣旅遊精彩一整年活動展",
@@ -10617,7 +10617,7 @@ eventsALL = [
         "description": "六縣十島海洋風光重現松山文創園區2號倉庫-華裔設計師DanielWong跨界合作今年最值得探訪的海灣",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c49f6a34-9228-499d-b8a1-727bc440812c",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018 ActionFest！青年迴響行動節",
@@ -10627,7 +10627,7 @@ eventsALL = [
         "description": "2018/12/8(六)10:00-20:00、12/9(日)10:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18120409411306233",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "GQ Men of the Year風格男人俱樂部",
@@ -10637,7 +10637,7 @@ eventsALL = [
         "description": "2018MenofTheYear年度風格男人俱樂部MenoftheYear(簡稱MOTY)是全球《G",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112615015364903",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "GQ Men of the Year風格男人俱樂部",
@@ -10647,7 +10647,7 @@ eventsALL = [
         "description": "2018MenofTheYear年度風格男人俱樂部MenoftheYear(簡稱MOTY)是全球《G",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112615015364903",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 ActionFest！青年迴響行動節",
@@ -10657,7 +10657,7 @@ eventsALL = [
         "description": "2018/12/8(六)10:00-20:00、12/9(日)10:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18120409411306233",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "香港週2018@台北《凝體術》",
@@ -10667,7 +10667,7 @@ eventsALL = [
         "description": "人自出生起就擁有載古承今的保護層。當嘗過恐懼，外加層層護殼，窮盡一生學習避免傷殘的技巧，就似無往而不",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18111510504421665",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018方式馬戲作品：《我們NOUS》",
@@ -10677,7 +10677,7 @@ eventsALL = [
         "description": "14:30/19:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112711231702511",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《海造的風機》臺灣首支VR互動式新聞展覽",
@@ -10687,7 +10687,7 @@ eventsALL = [
         "description": "「臺灣大學新聞所」與「新興科技媒體中心」合作推出實驗性新聞專題！歷時近一年製作，用VR新科技報導能源",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112111543030776",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "寶島搜神記插畫展",
@@ -10697,7 +10697,7 @@ eventsALL = [
         "description": "本展內容取自插畫家角斯的新作品-《寶島搜神記》，這本書收錄28尊臺灣神明，整理出59則小故事，從地方",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0025de13-f3a2-4ecb-aa5f-c561954e9d53",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Optoma 拼圖式大視覺投影特區",
@@ -10707,7 +10707,7 @@ eventsALL = [
         "description": "Optoma奧圖碼自成立以來即專注投影系統研發及銷售，並恪遵經營理念「專注、專業、專精」，致力影像與",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?20465e94-65cd-468f-b170-1af1f8da1252",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018 原創基地節「溫度」",
@@ -10717,7 +10717,7 @@ eventsALL = [
         "description": "地心有溫度，滾動火紅的熔岩島嶼有溫度，記憶中家的樣貌土地有溫度，平凡器物滋養雋永信仰有溫度，喧囂中對",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4c44cc4d-a3e9-4001-a740-e7428a4ad2e8",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Run Way 吾微不至 慈濟大學傳播學系第十五屆畢業展",
@@ -10727,7 +10727,7 @@ eventsALL = [
         "description": "一個人的力量可以走很快，但一群人可以走更遠。秉持這樣的信念，這次的展覽，我們以團結為核心。在追尋夢想",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a842148e-3510-47af-a1c3-0174c71a6a55",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "自我介紹．2018世新大學資訊傳播學系畢業成果展",
@@ -10737,7 +10737,7 @@ eventsALL = [
         "description": "吾即吾所思，吾即吾所為。「自我」，即自我察覺的個體，亦即個體在自我察覺後做的事情；「介紹」，即向他人",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c8a7ea81-da3b-4bb6-8684-edd3a8b159e9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018 idea TAIPEI 創意工作營成果展 ｜ 來去茶桌仔 瞧事情",
@@ -10747,7 +10747,7 @@ eventsALL = [
         "description": "歡迎大家再次來到匯集眾人智慧的ideaTAIPEI—松菸號茶桌仔店，透過跨界激盪與公民參與，請大家一",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ce61b3df-3452-47ee-8f47-cf40f48bc515",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "HMM品牌展 X'mas黑色經典",
@@ -10757,7 +10757,7 @@ eventsALL = [
         "description": "每一件既存的器物,都能有一種更動人的方法詮釋。HMM是由人human,技mechanic,法meth",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a46d5b88-f47f-49e8-8685-ee54b537fea7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "你好台灣！HELLO DENMARK！",
@@ -10767,7 +10767,7 @@ eventsALL = [
         "description": "丹麥商務辦事處駐臺35週年慶祝活動你好台灣！HelloDenmark！我們一起攜手邁向綠色、健康和永",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112719211297176",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "haveAnice Festival 有質生活文化展",
@@ -10777,7 +10777,7 @@ eventsALL = [
         "description": "haveAniceFestival有質生活文化展",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?322bb1fe-da21-4fed-addf-918c13654dea",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「行住食字」尋覓香港光影",
@@ -10787,7 +10787,7 @@ eventsALL = [
         "description": "香港東西薈萃、新舊交融，這個城市足以令人目迷五色。它既是現代化的國際大都會，同時也是四分之三為郊野土",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112214273973940",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "香港週2018@台北：《「行住食字」尋覓香港光影》展覽",
@@ -10797,7 +10797,7 @@ eventsALL = [
         "description": "自2012年起，由港台文化合作委員會主辦的「香港週」每年在台北舉行，旨在推廣香港作為文化大都會的定位",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18110916185008942",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "働故事劇團《我和我的貓奴》",
@@ -10807,7 +10807,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18090309491578740",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "107 年度教育部補助-臺灣微笑可可『內埔』地方創生暨國際品牌實踐計畫成果展",
@@ -10817,7 +10817,7 @@ eventsALL = [
         "description": "臺灣微笑可可『內埔』地方創生暨國際品牌實踐計畫成果展除了展現這一年來四校聯合在屏東內埔地區所創造之成",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?66173584-beef-4ff2-b85e-6f79fb5a5ec9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "育達科技大學 第五屆時尚造型設計系 畢業成果發表會",
@@ -10827,7 +10827,7 @@ eventsALL = [
         "description": "<時。線>時間是一種尺度，集結過去、現在、未來，時間凝聚成了空間，時間軸的演變，成就了許多歷史事蹟與",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?73cc73a9-efdd-4195-8423-bd757eebb879",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【書閣猶聞俠骨香】 感謝金庸，為我們留下一個江湖",
@@ -10837,7 +10837,7 @@ eventsALL = [
         "description": "金庸，不僅是偉大的作家，也是許多人共同的回憶。大俠日前遠行，令書迷們萬分不捨，急切需要一個承載思念的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18112819250552772",
         "type": "展覽活動&&期間限定店",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "美業文青潮市集",
@@ -10847,7 +10847,7 @@ eventsALL = [
         "description": "妳是否已準備好參觀今年度最後一個美容展了呢？美業市集集結了各專業人士所需的專業廠商，再也不會看到不相",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111812053686004",
         "type": "市集活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "黎明技術學院服飾設計系第三屆畢業展演活動 - 有狐",
@@ -10857,7 +10857,7 @@ eventsALL = [
         "description": "黎明技術學院107學年度，第三屆服飾設計系畢業成果展，秀場中展現了每位設計師在大學生涯裡所學的各種技",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?aec3441c-8ba8-424b-b7b3-c9c01828a333",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "給青年創作者的真心話 – 朱宥勳、伊格言、陳栢青分享文學創作之路",
@@ -10867,7 +10867,7 @@ eventsALL = [
         "description": "12:30開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18110913410240164",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "再現劇團台灣妖怪演劇計劃I《物怪之里》",
@@ -10877,7 +10877,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18100918494247034",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "稻草人舞團2018製作《愚 人》 新銳編舞：高辛毓",
@@ -10887,7 +10887,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18100919002321727",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "書寫II   許敬忠林凱婕",
@@ -10897,7 +10897,7 @@ eventsALL = [
         "description": "書寫是人類意識的投射，過去以文字為主要記錄方式，在現今數位時代則更多使用影像成為書寫形式。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d04562ba-be5f-4866-9b57-8dbabcc85a1a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018『紙上躍躍然．典美插畫大賞- Image．台灣』",
@@ -10907,7 +10907,7 @@ eventsALL = [
         "description": "你印象中的台灣是怎樣的呢？2018紙上躍躍然．典美插畫大賞，引領你發掘不一樣的台灣之美。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b9958b45-9d02-45be-99cd-667bb4097f16",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "超機體 - 2018 第十三屆臺北數位藝術節",
@@ -10917,7 +10917,7 @@ eventsALL = [
         "description": "第十三屆臺北數位藝術節命名為「超機體」，即機器人科技結合藝術創作而產生的演繹進化及超越。在不遠的未來",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?027a38c4-25d9-4469-ba78-e41f864118f1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【創意生活‧企業創價】2018創意生活事業表揚授證典禮暨創意生活論壇",
@@ -10927,7 +10927,7 @@ eventsALL = [
         "description": "創意生活產業自民國92年由經濟部工業局開始推動，欣逢15週年，謹訂於107年11月20日（星期二）下",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18110813342554746",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "EYES ON YOU - Care & Cure 醫在偏鄉",
@@ -10937,7 +10937,7 @@ eventsALL = [
         "description": "黑白色階裡透出的暖，在歲末11月，2號倉庫烘焙的蘊。那是一份執著的告知——來自遠山、來自僻土：「醫療",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f99c1bc2-5f65-4194-a69e-c7a3581bddb5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "107年青年創業家見習計畫見習心得分享會",
@@ -10947,7 +10947,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111418052176313",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "走過妙法自然",
@@ -10957,7 +10957,7 @@ eventsALL = [
         "description": "2011年，適逢台灣的設計年，也是臺北世界設計大展舉辦之際。其一的「妙法自然-亞洲文創跨界創作展」是",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c7ec1c76-31e5-4f82-a8fb-15685ac3dc1e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018金點設計展 – 自然知道",
@@ -10967,7 +10967,7 @@ eventsALL = [
         "description": "「2018金點設計展–自然知道」展覽由經濟部工業局主辦、台灣創意設計中心執行，甲蟲創意策展，這次金點",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2ed8a64d-8c03-4618-beb6-2af5b19266a1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "教育部藝術與設計菁英海外培訓計畫返國學員年度成果展",
@@ -10977,7 +10977,7 @@ eventsALL = [
         "description": "教育部藝術與設計菁英海外培訓計畫返國學員成果展18位學員橫跨9大國共16所知名機構及公司培訓成果特展",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111214395246905",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "科學家的秘密基地",
@@ -10987,7 +10987,7 @@ eventsALL = [
         "description": "四大秘密基地x十種科學體驗由國家實驗研究院主辦，齊聚十個國家級的實驗中心和科學家們，帶你上天下海揭開",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18110515305356257",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "107年中小企業服務優化與特色加值計畫成果展示會-邂逅服務與設計 體驗加值N次方",
@@ -10997,7 +10997,7 @@ eventsALL = [
         "description": "(五)09:30-18:00、(六)09:30-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111112260750780",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "卡米地不羈夜-吸引性法則",
@@ -11007,7 +11007,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18111510391945678",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《古林肯比》無語言親子偶戲",
@@ -11017,7 +11017,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18100918122374564",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "新象40:向一個充滿夢想的時代致敬",
@@ -11027,7 +11027,7 @@ eventsALL = [
         "description": "免費入場(活動時間依現場公告為主)11/15(四)13:30-18:00;11/16(五)10:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111416340666070",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "新象40:向一個充滿夢想的時代致敬",
@@ -11037,7 +11037,7 @@ eventsALL = [
         "description": "免費入場(活動時間依現場公告為主)11/15(四)13:30-18:00;11/16(五)10:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111416340666070",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 Pop Up Asia 亞洲手創展",
@@ -11047,7 +11047,7 @@ eventsALL = [
         "description": "2018PopUpAsia亞洲手創展，設有品牌館、主題館、材料館三大場館。超過300位手創者分別來自",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f5e6effb-6866-45a3-bdef-95e719c97e91",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "不老夢想影響力論壇",
@@ -11057,7 +11057,7 @@ eventsALL = [
         "description": "夢想真的是預防照顧嗎?2007年不老騎士們環島後，開始帶動社會大眾思考，高齡者的無限可能，更持續推動",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18110918094134746",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 國際身障日系列活動-單耳兔的尋覓之旅 畫作展覽",
@@ -11067,7 +11067,7 @@ eventsALL = [
         "description": "「世界上最偉大的冒險，是探索、面對自己。」單耳兔是Hoper意外畫出來的角色，雖然只有一隻耳朵，但總",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?12fe8592-7d11-4bef-bb18-ff7c31713fa6",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "美學，其實我們都有關係 not just talk 系列1：繪本與電影的微妙關係︱華山文創沙龍",
@@ -11077,7 +11077,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101411032465401",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "FUTURE : FUTURE｜Panasonic 創業 100 週年紀念展",
@@ -11087,7 +11087,7 @@ eventsALL = [
         "description": "【FUTURE:FUTURE｜改變即是未來】「時間不只是我們看到的那樣，它不是只向一個方向流動，而且",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111519343577280",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「歡迎光臨 樂齡星球」老後新生活提案特展",
@@ -11097,7 +11097,7 @@ eventsALL = [
         "description": "週六日延長至19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18110414095044387",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "熱情森巴之巴西葡萄酒嘉年華",
@@ -11107,7 +11107,7 @@ eventsALL = [
         "description": "購票入場(活動依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18102317590154964",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "瑞典日 (Sweden Day)",
@@ -11117,7 +11117,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100113385855908",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "循環設計展–你在圈內嗎?",
@@ -11127,7 +11127,7 @@ eventsALL = [
         "description": "「循環設計展–你在圈內嗎?」展覽由經濟部工業局主辦、台灣創意設計中心執行，小智研發與杜祖業共同策展，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1c47ebe5-4391-43b3-b26a-aedd92e2feb0",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018台北藝術攝影博覽會",
@@ -11137,7 +11137,7 @@ eventsALL = [
         "description": "2018第六屆「台北藝術攝影博覽會」TAIPEIARTPHOTO(TAP)延續多年來對攝影藝術的推廣",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18110510115763176",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「CONCRETE 」二十二設計_期間限定選品店",
@@ -11147,7 +11147,7 @@ eventsALL = [
         "description": "走過13個年頭，秉持著第一年創業的初心，依舊致力研究，水泥還有沒有更強大的可行性？！今年，跨出了第一",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_19022417263832236",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "花王潔淨生活體驗館",
@@ -11157,7 +11157,7 @@ eventsALL = [
         "description": "平日13:00-18:00；假日11:00-19:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18111215265863204",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台北魅力展 Taipei IN Style 2018",
@@ -11167,7 +11167,7 @@ eventsALL = [
         "description": "推動永續時尚，召喚新銳響應時尚圈持續呼籲綠色訴求，強化人文關懷、環境保育及資源再利用等議題，2018",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?be553e4c-30a2-4c8d-8923-653bf8549408",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "華山 x 地方系列講座 ─ 何培鈞 // 小鎮文創在華山 // 城鄉攜手 共學共創",
@@ -11177,7 +11177,7 @@ eventsALL = [
         "description": "華山X地方系列講座城鄉攜手共學共創11.4(日)14:00-16:00小鎮文創@華山南投竹山，一個曾",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101718360490846",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "畫事x插畫觀測室｜想當插畫家，我也可以嗎？",
@@ -11187,7 +11187,7 @@ eventsALL = [
         "description": "報名期間10/2622:01~11/0422:01",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18102619353286400",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "往 On the Way 郭子藍、吳天悅 雙個展",
@@ -11197,7 +11197,7 @@ eventsALL = [
         "description": "展覽以我們自身居住的城市—香港為藍本，在觀察景物和理解自我身份的過程中，我們發現香港與台灣不約而同地",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2863f54a-e8d0-4d72-a15c-18f456bce803",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Maker Faire Taipei 2018 台北創客嘉年華",
@@ -11207,7 +11207,7 @@ eventsALL = [
         "description": "Maker泛指喜愛動手改變自己身邊一切的人，他們享受創作與改造的過程並樂於分享。而MakerFair",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18092421354113414",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "野地如茵 — 印花樂品牌十年展",
@@ -11217,7 +11217,7 @@ eventsALL = [
         "description": "「遠看以為野地荒蕪，前行才知綠草如茵」成立於2008年的台灣第一個印花設計品牌「印花樂」，今年十歲了",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f95c5c88-252e-4332-8fd6-3ba0e70b79e1",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "藝鳴金揚：金門設計問鼎計畫",
@@ -11227,7 +11227,7 @@ eventsALL = [
         "description": "「藝鳴金揚：金門設計問鼎計畫」提供臺澎金馬等地各大專校院師生，選擇以金門地區文化意象及特色產業，以學",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4cd2c43d-fdf3-4c41-93b4-db3c9e084de5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "台灣國際黯⿊舞蹈節 Taiwan Darkness Festival",
@@ -11237,7 +11237,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18100917550733931",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "魚你共生",
@@ -11247,7 +11247,7 @@ eventsALL = [
         "description": "虱目魚不僅僅是台灣人餐桌上的美食佳餚，過去被當成廢棄物的魚鱗都能再利用，從中提煉出膠原蛋白胜肽，成為",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2bf26cae-2451-4d33-838d-79af452a20bd",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "RENSA 海外展示會",
@@ -11257,7 +11257,7 @@ eventsALL = [
         "description": "RENSA是喜歡文具和雜貨的您，絕對不容許錯過的盛典展會。通過展會這個絕好的舞臺，讓我們帶您走進日本",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?10d908c6-6b1c-4198-9d5f-e5ca8d0bebc2",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "非常永續和他們的故事之 Into the BLUE 藍菸計畫",
@@ -11267,7 +11267,7 @@ eventsALL = [
         "description": "Picupi品聯手27個台灣設計品牌，用創意打造環保時尚，這是一條揮別煙霧迷漫的回家計畫。",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f31db5d8-f257-4ba1-8aa3-af94dee136f6",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "107 年宜蘭文創輔導中心 「設計加值暨興自造創星獎」成果發佈展示會",
@@ -11277,7 +11277,7 @@ eventsALL = [
         "description": "宜蘭縣政府文化局主辦的「宜蘭文創・種子啟航」成果發佈展示會，於107年10月29日，在松山文創園區共",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?273f7278-7328-43eb-967a-ecc6ef9211ae",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018金音GIMA系列活動：Asia Rolling Music Festival",
@@ -11287,7 +11287,7 @@ eventsALL = [
         "description": "活動介紹：金音創作獎GoldenIndieMusicAwards開創至今已至第九屆，原旨在獎勵台灣優",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100213391920424",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "沖繩渡假婚禮展 in 台灣",
@@ -11297,7 +11297,7 @@ eventsALL = [
         "description": "嚮往在憧憬已久的渡假勝地迎接這個相互承諾永恆愛情的大日子嗎？但在國外舉辦結婚典禮籌備非常麻煩...。",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18102213575579562",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "壯壯毒舌脫口秀4 ：成人遊戲",
@@ -11307,7 +11307,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18102814383154824",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "德明財經科技大學多媒體設計系第十二屆畢業成果發表展",
@@ -11317,7 +11317,7 @@ eventsALL = [
         "description": "整個社會皆是由『人』所構成的，當人們匯集而形成一個社會時，會隨著時間與空間的背景不同，而產生各種多元",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?2eaa28eb-b276-48c7-acb9-4aaabf39187b",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第四屆台灣輕鬆藝術博覽會",
@@ -11327,7 +11327,7 @@ eventsALL = [
         "description": "力挺本土藝術的「ARTeasy台灣輕鬆藝術博覽會」，以不需支付展位費，並首創美術館與網路雙預展及預購",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?64b32049-184e-45ec-97a1-893f912b736d",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "曾日昇心靈藝術創作展",
@@ -11337,7 +11337,7 @@ eventsALL = [
         "description": "擁抱藝術，心靈富足，共感美好~曾日昇畫家：「我的創作是運用心靈感受到色彩靈感，與自然揮灑創作，表現自",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?46421b2d-a04c-4721-ac0e-50e7be50ef6a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "讀衣III藝術時尚跨界展",
@@ -11347,7 +11347,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18091115143337514",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "NEXT Toy Market 13+",
@@ -11357,7 +11357,7 @@ eventsALL = [
         "description": "麻吉猫MajiMeow日常生活區為「免費入場」/NEXTToyMarket玩具市集需「購票入場」",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100411490516972",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺北新茶藝故事．松耑茶藝展",
@@ -11367,7 +11367,7 @@ eventsALL = [
         "description": "讓茶藝更貼近生活，茶藝展以14個各具特色的茶空間構成，提供來賓品飲珍貴的2018年夏季東方美人頭等獎",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9be3929a-b8bf-4992-8e3b-9e261b79794a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Creative Mornings Taipei 創意早晨講座：Honesty誠實",
@@ -11377,7 +11377,7 @@ eventsALL = [
         "description": "誠實，是唯一在任何情況下，我們都能心安理得、坦然做事的策略。本月主題ー誠實Honesty，我們邀請到",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101319173130365",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Unsolved 《未解，懸》舞蹈/影像劇場",
@@ -11387,7 +11387,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18080611352270836",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "你才做善事，你全家都做善事 - 2018 新漾肯亞服務隊成果攝影展",
@@ -11397,7 +11397,7 @@ eventsALL = [
         "description": "今年七月，新漾服務隊到了肯亞展開一連串的旅程。8位青年、12天的旅程，執行舊鞋救命「愛•女孩」計畫，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?69d3d2a6-ab71-478f-bdc5-96db1033610e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第15屆 台北國際玩具創作大展TAIPEI TOY FESTIVAL 2018",
@@ -11407,7 +11407,7 @@ eventsALL = [
         "description": "10/2110:00AM-06:30PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100919183969036",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "瑞士雷達表有機時間展",
@@ -11417,7 +11417,7 @@ eventsALL = [
         "description": "記者會：2018.10.1713:30~14:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101614493593444",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第十一屆台積電青年書法暨篆刻大賞 焦點活動",
@@ -11427,7 +11427,7 @@ eventsALL = [
         "description": "記者會：14:00~15:00體驗：15:00~18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101415155070167",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "DEPLOY TAIPEI POP UP",
@@ -11437,7 +11437,7 @@ eventsALL = [
         "description": "台灣時尚設計師潘貝寧榮獲英國BBC專訪！並將其自創品牌DEPLOYLondon列為本季「永續時尚」的",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101713585915918",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 松菸Lab新主藝",
@@ -11447,7 +11447,7 @@ eventsALL = [
         "description": "周能安X姚尚德X鄭皓10/05起正式啟售！10/31前早鳥優惠！",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0627b812-d085-4413-a7fc-034b36525106",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "捷克與斯洛伐克平面設計 100 年",
@@ -11457,7 +11457,7 @@ eventsALL = [
         "description": "台灣設計館即將於10/16起展出「捷克與斯洛伐克平面設計100年」展覽，由田田圈文創龔維德與Eyes",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?6617664b-7bf3-444c-8009-5bf2c20e8e77",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "原住民族教育成果展-原教深耕．原力傳承",
@@ -11467,7 +11467,7 @@ eventsALL = [
         "description": "2018.10.1310:00AM~6:00PM,2018.10.1410:00AM~5:00PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101014263621250",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "原住民族教育成果展-原教深耕．原力傳承",
@@ -11477,7 +11477,7 @@ eventsALL = [
         "description": "2018.10.1310:00AM~6:00PM,2018.10.1410:00AM~5:00PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101014263621250",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "家鄉守護，大家一起來！",
@@ -11487,7 +11487,7 @@ eventsALL = [
         "description": "2019年是台灣「地方創生」元年。臺灣為了面對少子化、人口老化、城鄉資源落差、缺乏工作機會等問題，參",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18093022024425686",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《夢100》三周年慶典：心夢之旅",
@@ -11497,7 +11497,7 @@ eventsALL = [
         "description": "和信超媒體戲谷分公司旗下「夢谷」平台代理之戀愛養成結合連線消除手遊《夢王國與沉睡中的100位王子殿下",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18101210090889933",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "光的揉和，形的勾勒：SEEDDESIGN 燈飾美學設計特展",
@@ -11507,7 +11507,7 @@ eventsALL = [
         "description": "季節更替中，有個好消息與大家分享！10月13-14日，喜的將舉辦「光的揉和，形的勾勒SEEDDESI",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a0ecf88f-f3ac-4613-bf5f-9dbe1ac13283",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Lay's樂事快閃店",
@@ -11517,7 +11517,7 @@ eventsALL = [
         "description": "周一~周五：15:00-21:00，周六~周日：11:00-21:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18091812333038715",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "三十舞蹈劇場2018年度製作《該死的十字路口》",
@@ -11527,7 +11527,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18092016084024953",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 第七屆松山文創學園祭精選展 - 策．世代",
@@ -11537,7 +11537,7 @@ eventsALL = [
         "description": "2018年的夏天，松山文創學園祭聚集了即將步入社會的校園創作者，這群創作者從腳下的土地出發，深入歷史",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?94318c2b-d020-4e9e-94c9-e8df68c1b0fc",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "慧萃藝如 - 楊慧如創作展",
@@ -11547,7 +11547,7 @@ eventsALL = [
         "description": "2018秋高氣爽，開放藝文空間邀請您共賞楊慧如「慧萃藝如」，創作園地從2004年致力鑲嵌藝術的創作，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?96a4e9ff-c964-4380-b700-e0726cb95211",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「走妳的路 : 科科新女力 Girls’ Tech Talk」分享會｜華山文創沙龍",
@@ -11557,7 +11557,7 @@ eventsALL = [
         "description": "1:30PM開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18092919544382862",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台少盟15周年特展",
@@ -11567,7 +11567,7 @@ eventsALL = [
         "description": "10/1410:00AM-6:00PM",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100910050803745",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "離散與融合──洪素珊「認同三部曲」新書發表會",
@@ -11577,7 +11577,7 @@ eventsALL = [
         "description": "「所有這三部小說，都是關於來到異國、與異文化相處的故事。三位女孩——中國人銀娜、德國人英格、中德混血",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100314483557721",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "VICTOR 50週年品牌特展",
@@ -11587,7 +11587,7 @@ eventsALL = [
         "description": "10/1410:00-18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18092916132503877",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018重陽家庭日-JOJO大冒險",
@@ -11597,7 +11597,7 @@ eventsALL = [
         "description": "2018重陽節家庭日祖孫齊心協力的闖關體驗「J0J0大冒險」今年讓我們送長輩一份最溫馨的重陽節禮物：",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100412243996666",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Dcard 午夜實驗室",
@@ -11607,7 +11607,7 @@ eventsALL = [
         "description": "10/0614:00-20:00&10/0710:00-20:00(此活動限Dcard會員免費入場，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18092313334884662",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Jella! 韓文 一ㄘ就上癮！",
@@ -11617,7 +11617,7 @@ eventsALL = [
         "description": "大家好，我們是Jella!，是一個線上語言教學平台～透過幽默、有趣的教學風格，傳達「學語言其實不睏也",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18092811554608774",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "無河之島—台灣文學中的河流記事",
@@ -11627,7 +11627,7 @@ eventsALL = [
         "description": "從歷史的向度來看，人類文明依河而生，它是許許多多事物的起點、開端；在文學與文化的視野之中，河流亦是原",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?971c65b7-4b2f-47c2-9300-127e65d38cfb",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "雜學展 2018 台北",
@@ -11637,7 +11637,7 @@ eventsALL = [
         "description": "「雜學展」作為台灣第一個分享多元學習的博覽會，今年已經邁入第四屆。這是一個融合大型會展與社會創新行動",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18082215001032840",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 臺北公共住宅展",
@@ -11647,7 +11647,7 @@ eventsALL = [
         "description": "「2018臺北公共住宅展」，以「起好宅、住臺北」為主軸，表現出臺北市正在全力發展全新居住模式的意涵，",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f20e0a7f-5e53-4193-96a2-46091d66b2f4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "第二屆台灣漫畫節",
@@ -11657,7 +11657,7 @@ eventsALL = [
         "description": "第二屆台灣漫畫節敬邀各界支持並關心台灣原創漫畫的熱情朋友共同參與。活動主軸美食神獸錄＆美食萌星繪，匯",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9eee9f5e-e52d-4a99-b093-b686bb07fb04",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018第六屆華文朗讀節-讓想像力自由",
@@ -11667,7 +11667,7 @@ eventsALL = [
         "description": "台北高雄屏東三地，因應每日特別活動舉辦，最早10:00入場，最晚23:00結束，三地每日時間可依官網",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18082318131315162",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "貧窮人的台北 4AM 特展",
@@ -11677,7 +11677,7 @@ eventsALL = [
         "description": "貧窮人的台北4AM特展",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5aa9d964-39b4-4697-9c31-2a2ba38c7c9e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Columbia 80週年快閃體驗屋",
@@ -11687,7 +11687,7 @@ eventsALL = [
         "description": "平日12:00-9:00pm/假日11:00am-9:00pm/10.3111:00am-2:00p",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18100417141987513",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "被鼻子牽著走 台灣氣味巡迴展",
@@ -11697,7 +11697,7 @@ eventsALL = [
         "description": "以「台灣記憶」為母題，將台灣人的真摯溫情和一抹微笑，轉化為氣味，入瓶收藏。結合閩南、客家、原住民文化",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?533a2eb9-f6f6-4592-9ad9-125c72308998",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "一口吃下香港：港味市集 FLAVOR BAZAAR：EAT HONG KONG IN TAIWAN",
@@ -11707,7 +11707,7 @@ eventsALL = [
         "description": "購票入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18091717130070637",
         "type": "展覽活動&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "TEDxTaipei2018: ONE",
@@ -11717,7 +11717,7 @@ eventsALL = [
         "description": "09/2913:30-17:30;09/3010:00-17:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18090710144886676",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "日本酒祭In Taipei",
@@ -11727,7 +11727,7 @@ eventsALL = [
         "description": "【2018日本酒祭InTaipei】無料入場常喝日本酒？不懂日本酒？沒喝過日本酒？不論您對日本酒的了",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18090414003043680",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "電力大地 - 台灣電力文化資產保存特展",
@@ -11737,7 +11737,7 @@ eventsALL = [
         "description": "「電力大地」以水文地誌為線索，依時間軸組構百年電業的文化資產，構成一幅幅電力地景。從「川流地景」、「",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ae0919b6-0455-4c8c-b4a9-9b0ab56b3358",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "CM色彩奇蹟粉彩畫聯展",
@@ -11747,7 +11747,7 @@ eventsALL = [
         "description": "「和粉彩PastelNagomiArt®」是一種源自日本，運用手指調和粉彩的獨特繪畫方式。創辦人細谷",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c02ae286-b1fc-4c45-8975-093c656e3427",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "夢想×未來×熱青年－我的熱情，我的價值︱華山文創沙龍",
@@ -11757,7 +11757,7 @@ eventsALL = [
         "description": "大愛電視台《年輕人Show吧》網路原生節目，透過社群不斷與世界青年互動。過程中，發現了一群對生活、環",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18081511282346048",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "五分之二空間",
@@ -11767,7 +11767,7 @@ eventsALL = [
         "description": "在松菸五分之二空間裡，將五感中的嗅覺與觸覺元素獨立出來，藉由我們的創作，感受最原始的純粹體驗，重新豐",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b4a66db9-132a-4d1c-b388-74d5d7392828",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "臺北共融 2018 臺北設計城市展",
@@ -11777,7 +11777,7 @@ eventsALL = [
         "description": "臺北共融2018臺北設計城市展",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0dbdce4b-49c7-4609-996b-4cfe522f5955",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "陳楚睿目光攝影展",
@@ -11787,7 +11787,7 @@ eventsALL = [
         "description": "我是陳楚睿，過去只是一名平凡的大學生，擔任消防替代役協助搶救高雄氣爆時遭受烈焰波及導致全身59%二、",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18090616140511148",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "「阿里山顛覆你的想像-阿里山日x產業展」",
@@ -11797,7 +11797,7 @@ eventsALL = [
         "description": "您有多久沒有來阿里山旅遊了呢?對阿里山的印象，是否還停留在小火車、日出、神木呢?是否還記得那滿山遍野",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18090618584809731",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "讀演劇人經典．在地系列《白話》",
@@ -11807,7 +11807,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18080611085667465",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《鼓子‧半夢》老鼓手生命鼓譜二號作品",
@@ -11817,7 +11817,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18080518432598170",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺灣藝文中介組織論壇：藝文中介組織新定位",
@@ -11827,7 +11827,7 @@ eventsALL = [
         "description": "臺灣藝文中介組織論壇：臺灣藝文中介組織的新定位從「文化中介組織」（CulturalIntermedi",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18091810254140876",
         "type": "講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018秋季思沙龍「戰爭-離我們有多遠？」｜華山文創沙龍",
@@ -11837,7 +11837,7 @@ eventsALL = [
         "description": "二十世紀有三場戰爭就在我們身邊發生—韓戰、國共內戰、中日戰爭。砲火已冷，但是戰爭真的結束了嗎？龍應台",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18082210513230623",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Creative Mornings Taipei 創意早晨講座：Chaos混亂",
@@ -11847,7 +11847,7 @@ eventsALL = [
         "description": "CreativeMorningsTaipei創意早晨講座：Chaos混亂世界充滿了不確定性，我們也處",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18091113081091830",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "耳東青春期創作計畫《船到橋頭自然捲》Ciao",
@@ -11857,7 +11857,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18080514442491041",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 設計翻轉 地方創生 計畫成果聯合特展",
@@ -11867,7 +11867,7 @@ eventsALL = [
         "description": "「2018臺灣設計翻轉地方創生」計畫係以「設計」為工具，達到地方創生能量的引發；本項成果聯合特展將展",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?47ad98e0-05ec-430a-8491-81d370dfe0bf",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Intuition 直覺 by Jay Guan Jie Peng 彭冠傑",
@@ -11877,7 +11877,7 @@ eventsALL = [
         "description": "「Intuition直覺」展是平面設計師Jay彭冠傑的首次個人展覽，展出內容是Jay從過去10年間所",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?97f51509-dc79-4be8-baf4-fb01d4098e96",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "科技部「IC 60─I See the Future」系列活動「IC60特展」",
@@ -11887,7 +11887,7 @@ eventsALL = [
         "description": "周一到周四10:00-17:00/周五到周日10:00-20:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18090511390933021",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "第五屆小王子愛塗鴉-小小夢想家頒獎典禮",
@@ -11897,7 +11897,7 @@ eventsALL = [
         "description": "【小王子幫你成為小小夢想家】【小王子助您成為小小夢想家！】「長大」是一件令人期待的事情，不管是畫家、",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18090418390156104",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "花花世界：塗鴉年代 - 我們喜歡這個主意",
@@ -11907,7 +11907,7 @@ eventsALL = [
         "description": "我們喜歡這樣的模式，很多要學習，不同的紋理，不同的鏈條組合，心中內在的想法，絲網紋理，數位映射，想像",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?34b74652-8460-4bf6-83b6-c219e4daf3d5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "美學，其實我們都有關係 not just talk 系列1：科技與文化的結合︱華山文創沙龍",
@@ -11917,7 +11917,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18081418530848687",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018台北插畫藝術節：青春浮世繪",
@@ -11927,7 +11927,7 @@ eventsALL = [
         "description": "首屆的「台北插畫藝術節」，將開創出屬於台北城市、台灣在地與國際串聯的插畫藝術展會。自由人藝術公寓未來",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d9fa66be-02ef-4089-97ab-ddcca23e36f3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018家樂福「真食獎」活動開跑記者會",
@@ -11937,7 +11937,7 @@ eventsALL = [
         "description": "家樂福文教基金會身為長期關注食物議題的組織深感責無旁貸並期許作為第一線的行動倡議者，為世界與台灣盡一",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18090410221478887",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "ChiHong 情境式家具品牌展",
@@ -11947,7 +11947,7 @@ eventsALL = [
         "description": "影響家具的設計和使用方式，關鍵來自生活日常與空間維度。ChiHong生活起物以簡單輕鬆風格形態打造彈",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a587a40c-f298-4e15-b0c5-cd85661c770c",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「烈火冰心．熾愛永恆的玻璃探索」法國玻璃現代愛情詩人茱麗葉．勒彼里耶亞洲首次個展",
@@ -11957,7 +11957,7 @@ eventsALL = [
         "description": "展覽日期：2018.9.2──11.11優雅中反骨的姿態，冷凝裡熾熱的燃燒。茱麗葉．勒彼里耶，198",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?cfb4e6af-5537-4ac0-9b76-30d2a76029be",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "8咘的搞怪樂園 夏日派對 跟著8咘去旅行",
@@ -11967,7 +11967,7 @@ eventsALL = [
         "description": "8咘的搞怪樂園【2018夏日派對跟著8咘去旅行】萌度破表「8咘派對車」陪你歡樂過暑假，好吃好玩又好開",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18081510123819718",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "一刻瞬間（歐洲速寫特展）",
@@ -11977,7 +11977,7 @@ eventsALL = [
         "description": "一刻瞬間。思念計畫是不是有那麼一個人你一直有話說不出口？是不是有那麼一個人你總是對他充滿思念？是不是",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?91f36991-c56c-43ae-9b75-d779da5b0217",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "TOKYO EDIT.  東京概念‧服裝特展 BIGI GROUP x ONWARD GROUP  20 th",
@@ -11987,7 +11987,7 @@ eventsALL = [
         "description": "最晚入場時間為18:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080412564670400",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "TOKYO EDIT.  東京概念‧服裝特展 BIGI GROUP x ONWARD GROUP  20 th",
@@ -11997,7 +11997,7 @@ eventsALL = [
         "description": "最晚入場時間為18:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080412564670400",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "divinia 蒂芬妮亞 20週年粉紅泡泡聚落",
@@ -12007,7 +12007,7 @@ eventsALL = [
         "description": "青春期的女孩總是陷入自己幻想泡泡般的小宇宙，divinia蒂芬妮亞走入每個女孩的生活中，守護每位女孩",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18083015170616758",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018臺北國際水環境高峰論壇暨產業展",
@@ -12017,7 +12017,7 @@ eventsALL = [
         "description": "鑒於全球暖化氣候變遷(climatechange)，自然環境條件挑戰日益嚴峻，為提升城市面對極端水環",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4c4afde4-85cf-4961-8cb1-d67f8bbb8b36",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "磚美於前：台灣經典馬賽克磁磚展",
@@ -12027,7 +12027,7 @@ eventsALL = [
         "description": "台灣住宅建築上有許多令人驚豔的元素，其中的馬賽克磁磚便是經由排列組合與多款顏色與造型搭配，使台灣的透",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?9136dc55-401f-400c-a0ed-406ace5112f3",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【願景工程-公民沙龍】世代共好Part3 世代共融-全齡化環境",
@@ -12037,7 +12037,7 @@ eventsALL = [
         "description": "這些年，「世代」是關鍵議題，從年金改革到同婚、勞基法修法，都看到兩代意見的歧異。聯合報系願景工程推出",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080111573063643",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 LOOKs!鞋靴生活節",
@@ -12047,7 +12047,7 @@ eventsALL = [
         "description": "2018LOOKs!鞋靴生活節揉合高級訂製、運動休閒、潮流文創，打造台灣唯一的優質綜合鞋品快閃店，除",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18073012093128643",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《黛玉小姐MADEMOISELLE DÀIYÙ》文本間的霓裳世界服裝特設展",
@@ -12057,7 +12057,7 @@ eventsALL = [
         "description": "《黛玉小姐MADEMOISELLEDÀIYÙ》文本間的霓裳世界服裝特設展「兩彎似蹙非蹙罥煙眉，一雙似",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b702b1c8-49d3-427f-92bd-16db42b85bc8",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "世大運週年活動-運動團結我們",
@@ -12067,7 +12067,7 @@ eventsALL = [
         "description": "世大運週年展去年夏天中華隊獲得26金、34銀及30銅，創下臺灣體育史空前紀錄！世大運週年，重拾對運動",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?3267a229-2b26-464e-9f9f-d58d7f51acd5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "漢餅心市集",
@@ -12077,7 +12077,7 @@ eventsALL = [
         "description": "2018.08.1811:30~19:00,2018.08.1911:00~18:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18081518500838662",
         "type": "論壇講座&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018華山親子表藝節《花不見了》",
@@ -12087,7 +12087,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18060313432529900",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台灣室內設計大獎展 2018 TID AWARD EXHIBITION",
@@ -12097,7 +12097,7 @@ eventsALL = [
         "description": "【什麼是一個好設計，從TID大獎談起】2018台灣室內設計大獎巡迴展(8/18-8/23)，以藝術、",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?63d6abff-0392-482c-915c-c8dbce7acfd5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Creative Mornings Taipei 創意早晨講座：Community社群",
@@ -12107,7 +12107,7 @@ eventsALL = [
         "description": "社群，連結起每個角落的你、我、他，因為人的溫度，使得不同的社群，有著不同的故事。本月主題——社群Co",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18081316450998913",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018夏日電玩展 Summer Game Show",
@@ -12117,7 +12117,7 @@ eventsALL = [
         "description": "2018年首度舉辦的SummerGameShow(簡稱SGS)於8月11至12日在華山文創園區西一館",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080209553192455",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 隨心的溫度攝影展",
@@ -12127,7 +12127,7 @@ eventsALL = [
         "description": "活動官網：https://www.thermos.com.tw/edm/201808photoexh",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080709533371241",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 隨心的溫度攝影展",
@@ -12137,7 +12137,7 @@ eventsALL = [
         "description": "活動官網：https://www.thermos.com.tw/edm/201808photoexh",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080709533371241",
         "type": "展覽活動&&論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018華山親子表藝節－寶寶劇場《馬麻，為什麼房子在飛？》",
@@ -12147,7 +12147,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18060313274368065",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "好奇心再進化:知識性繪本的時空之旅",
@@ -12157,7 +12157,7 @@ eventsALL = [
         "description": "一本好的知識性繪本不只是用一堆知識填滿孩子的頭腦，而是能否播下一顆種子，啟發他們對世界的好奇心。臺灣",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?42556c03-1e98-4425-a9ea-4492b6d3d399",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "花現，與法國花藝大師克勞德‧科塞克共創最美的仲夏午後",
@@ -12167,7 +12167,7 @@ eventsALL = [
         "description": "來吧！一起文青！在美好的仲夏午後，邀請您與法國花藝大師克勞德‧科塞克，一起在華山藝文特區體驗一場花藝",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080320291347601",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "熊超人Superbear | 包大山創作個展",
@@ -12177,7 +12177,7 @@ eventsALL = [
         "description": "2009年的冬天，它出現在文具店裡，小小的眼睛，大大的鼻子，長手長腳，以及柔軟又寬大的身體，繫著花俏",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?19e4d72e-de7a-44fe-a066-ef77c19ff7c7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《未來的一百片拼途》—Teach For Taiwan 一日嘉年華",
@@ -12187,7 +12187,7 @@ eventsALL = [
         "description": "2018年，TFT正式集結了超過100位跨領域的人才深入偏鄉。在看見議題、看見需要後，這些力量逐漸在",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18073011373616348",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "微醉の夏日祭典",
@@ -12197,7 +12197,7 @@ eventsALL = [
         "description": "免費入場(限18歲以上參加)，活動依現場公告為主(8/5僅到19:00)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080111034995100",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018華山親子表藝節 妖怪臺灣《蛇郎君》",
@@ -12207,7 +12207,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18060312311743016",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "美角-生活中的每ㄧ課",
@@ -12217,7 +12217,7 @@ eventsALL = [
         "description": "免費入場(活動時間依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18072616222884763",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "品木宣言泥娃娃蜂潮小巴",
@@ -12227,7 +12227,7 @@ eventsALL = [
         "description": "8/3(五)12:00~21:008/4(六)10:30~21:008/5(日)10:30~21:0",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18080219103589834",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "週三朗讀夜：翻過來看世界——哈克新書分享談唱會",
@@ -12237,7 +12237,7 @@ eventsALL = [
         "description": "18:30開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062115061350462",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "韓國生存實錄：Fion 談打工旅遊與職場實況︱華山文創沙龍",
@@ -12247,7 +12247,7 @@ eventsALL = [
         "description": "19:00開始入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062815080557274",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "對的愛情找不到：文青愛情日｜華山文創沙龍",
@@ -12257,7 +12257,7 @@ eventsALL = [
         "description": "《挪威的森林》已出版30年，它不僅是小說，也是一門愛情學，它能夠持久不墜的被傳閱、討論，是因為每個人",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18071109185006158",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【⚡快閃⚡】Meitu T9 體驗派對 7/27~29 @華山！！",
@@ -12267,7 +12267,7 @@ eventsALL = [
         "description": "07/29(日)11:00~18:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18072018294662607",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【期間限定】一番搾酒食遊樂園?快閃現身！",
@@ -12277,7 +12277,7 @@ eventsALL = [
         "description": "7/27（五）｜14:00-21:007/28（六）、7/29（日）｜11:00-21:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18072313485351317",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "《經典》20週年慶 壯遊 攝影展",
@@ -12287,7 +12287,7 @@ eventsALL = [
         "description": "作為台灣影像最傑出的媒體，創刊二十年來，《經典》以精心策劃的海內外專題，如【台灣脈動】、【西域記風塵",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4478d3d5-9178-448f-81b6-2bdd7cff34c5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "世界和平會-「夢想的八拍」愛心公益展與偏鄉孩童成果展演",
@@ -12297,7 +12297,7 @@ eventsALL = [
         "description": "每個人的心中，都有一個夢想的八拍，抓緊自己的節奏。世界和平會邀請您，幫助貧弱孩子一步步走在通往夢想的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4c69f0d4-6a92-419b-aea9-df1b26c23822",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018華山親子表藝節《ㄚ一ㄨㄟㄛ》",
@@ -12307,7 +12307,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18060311493031263",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "四季有玩，愛Sun海南",
@@ -12317,7 +12317,7 @@ eventsALL = [
         "description": "本次活動主要是向台灣遊客尤其是台灣年輕人介紹海南的高端特色酒店、旅遊綜合體、雨林休閒等旅遊產品及一些",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18071911040838946",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 GUNPLA EXPO TAIWAN 鋼彈模型博覽會",
@@ -12327,7 +12327,7 @@ eventsALL = [
         "description": "免費入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18071012143085684",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "SUNCUT防曬街頭體驗活動",
@@ -12337,7 +12337,7 @@ eventsALL = [
         "description": "SUNCUT今夏最強放曬7月21日將在華山文化創意產業園區登場啦！從北→中→南→北一路趴趴走，以SU",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18071910011564207",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018華山親子表藝節 親子音樂劇場《魔笛》",
@@ -12347,7 +12347,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18060311004319834",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "BANPRESTO EXPO 2018",
@@ -12357,7 +12357,7 @@ eventsALL = [
         "description": "7/20-7/2111:00-20:00(19:30最後進場);7/2211:00-18:00(17",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18071116351946937",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台泰設計交流展《向自然學習-改變與創新的視角》",
@@ -12367,7 +12367,7 @@ eventsALL = [
         "description": "珍奶怎麼喝？用不鏽鋼吸管、用玻璃管、用空心竹……?各種討論顯見人們對於既有物品的想像力，以及對環境更",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ad28bcf5-e1b3-4ab9-9d0b-bff4aeb4ce7a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "曾日昇心靈藝術創作展",
@@ -12377,7 +12377,7 @@ eventsALL = [
         "description": "擁抱藝術，心靈富足，共感美好~2018春生夏長的盛夏，開放藝文空間邀請您共賞「曾日昇心靈藝術創作展」",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0448d32a-d9e7-4b27-8013-43a33ffefde4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "夏日攝影祭Summer Photography Exhibition",
@@ -12387,7 +12387,7 @@ eventsALL = [
         "description": "cosplay超好玩！！來夏日攝影祭就知道耗資百萬打造的七大主題實景棚及五花八門的cosplay服裝",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?95e322e5-e55e-45a4-8a13-a60c0b835cdf",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Cheers! A Better Tomorrow / 敬 未來！",
@@ -12397,7 +12397,7 @@ eventsALL = [
         "description": "DesignForTaiwan集結全台60名大專院校生，用設計思考來解決台灣問題。Bluerider",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?f83e855f-2331-4f01-b115-edf4a8f57447",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "週三朗讀夜：《起源》講座──你好，新物種。再見。",
@@ -12407,7 +12407,7 @@ eventsALL = [
         "description": "《達文西密碼》驚人續集《起源》，揭開人類神祕的生死密碼。丹‧布朗在《起源》一書中大量納入新穎的AI人",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18070319362643058",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "成為洞穴 | 川貝母創作個展",
@@ -12417,7 +12417,7 @@ eventsALL = [
         "description": "展覽編選這兩年期間接受委託、內容各異的作品，重新以「洞穴」為主題替每一幅畫撰寫短文，以故事串起每張圖",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?db25ea40-3bcc-4f4d-8ec1-501c60001a6a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "手寫體與創作：總有一種字體代表你︱華山文創沙龍",
@@ -12427,7 +12427,7 @@ eventsALL = [
         "description": "7:00PM開放入場",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18070509453471917",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "臺灣吧第二屆新媒體教育營",
@@ -12437,7 +12437,7 @@ eventsALL = [
         "description": "活動介紹當YouTube和Facebook逐漸取代傳統媒體，網路創作者如雨後春筍般崛起，「新媒體」已",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18052320450288753",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "流浪者的「流浪者之歌」——《走河》新書座談會︱華山文創沙龍",
@@ -12447,7 +12447,7 @@ eventsALL = [
         "description": "這是一場文學與藝術的饗宴！文學創作者謝旺霖、編舞家鄭宗龍、剪紙藝術家吳耿禎、西塔琴音樂家吳欣澤，原本",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18070320172606341",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "潮屏東",
@@ -12457,7 +12457,7 @@ eventsALL = [
         "description": "〖#潮屏東〗逛展_____看看屏東的樣貌故事_____聽聽屏東的故事攝影_____感受屏東的氣息我們",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4c063018-e7b7-435c-a40a-c4a20f3fbf73",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "美學，其實我們都有關係 not just talk 系列1：安妮與阿嬤的相遇︱華山文創沙龍",
@@ -12467,7 +12467,7 @@ eventsALL = [
         "description": "2018年財團法人樹梅文化藝術基金會「美學，其實我們都有關係」notjusttalk系列活動正式開始",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18061315300344156",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018 ART FORMOSA 福爾摩沙國際藝術博覽會",
@@ -12477,7 +12477,7 @@ eventsALL = [
         "description": "去年首次整合個展型FORMOSA101ARTFAIR與頂級飯店博覽會FORMOSAARTSHOW之A",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ee6906c8-a9d8-415c-9058-e56b33f848cd",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018星巴克咖啡旅程特展 Starbucks Coffee Journey",
@@ -12487,7 +12487,7 @@ eventsALL = [
         "description": "旅程最吸引人的地方，就是在於享受未知的過程，這跟一杯咖啡給人的感覺也很類似，咖啡也像是預知未來的希望",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18071310364255430",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018星巴克咖啡旅程特展 Starbucks Coffee Journey",
@@ -12497,7 +12497,7 @@ eventsALL = [
         "description": "旅程最吸引人的地方，就是在於享受未知的過程，這跟一杯咖啡給人的感覺也很類似，咖啡也像是預知未來的希望",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18071310364255430",
         "type": "展覽活動&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "【願景工程公民沙龍】世代共好：Part2世代共榮–傳承與共創",
@@ -12507,7 +12507,7 @@ eventsALL = [
         "description": "青銀兩代之間，不單是年齡差異，從職場倫理到工作態度，都截然不同。職場上如何世代共好？聯合報系願景工程",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18061610195813083",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Boom Boom BROSMIND 就要發射太空彈！2018亞洲巡迴特展第一站",
@@ -12517,7 +12517,7 @@ eventsALL = [
         "description": "(最後入場時間:17:30)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18070219392410411",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "思沙龍－1968：形形色色的造反︱華山文創沙龍",
@@ -12527,7 +12527,7 @@ eventsALL = [
         "description": "龍應台文化基金會「思沙龍」於2018年舉辦1968五十周年回顧，從美國反戰與民權運動、法國五月風暴到",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062816170883876",
         "type": "論壇講座",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "多芬植萃FUN閃店",
@@ -12537,7 +12537,7 @@ eventsALL = [
         "description": "官方粉絲團：https://www.facebook.com/DoveTaiwan/時間：2018/",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18070512424651982",
         "type": "期間限定店&&品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "Little Summer 小暑",
@@ -12547,7 +12547,7 @@ eventsALL = [
         "description": "小暑過，一日熟三分。炎炎夏日，七分熟之前，給自己放個軟爛假吧！不事生產的一天，倉庫裡搖滾樂的夏天。夏",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?bf57c4c9-3ac8-4db4-a65e-7110138532e5",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "電腦就醬玩!電競、水冷、挖礦 多元應用體驗會",
@@ -12557,7 +12557,7 @@ eventsALL = [
         "description": "本次「2018XFastest台北網聚」以電腦界三大熱議話題－「電競」、「水冷」、「挖礦」為主軸，展",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?b3c39604-2233-4786-b924-1724daeaec3c",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "蔡阿嘎10週年夏日感謝祭回饋鄉親周年限定展",
@@ -12567,7 +12567,7 @@ eventsALL = [
         "description": "購票入場(活動請依現場公告為主)",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062511474433784",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "世新大學話劇社夏季公演——《最後的遺言》",
@@ -12577,7 +12577,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18050212314143111",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "陳威廷創作個展：局部的人",
@@ -12587,7 +12587,7 @@ eventsALL = [
         "description": "局部的人，來自魏如萱的音樂作品《局部的人》。其中一句「陌生根本就不單純‭‬充滿局部的人」，這種情狀像",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?cab22297-34bf-4cd5-ae8b-2605176e75d9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "中華三菱 為幸福出發 童心瞰視界 攝影展系列活動",
@@ -12597,7 +12597,7 @@ eventsALL = [
         "description": "中華三菱2018為幸福再度出發童心瞰視界攝影展系列活動從觀景窗認識家鄉城市、打開視野連結世界、創造幸",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e7eabb42-8d82-4f09-8a02-8751de7a2767",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018華山親子表藝節 《歡樂親子動》",
@@ -12607,7 +12607,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18060414391511943",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "台北士林萬麗酒店-品牌展示",
@@ -12617,7 +12617,7 @@ eventsALL = [
         "description": "國際知名跨國酒店管理公司「萬豪國際集團」旗下品牌之一的萬麗酒店，即將在台灣開出第一家直營酒店，於士林",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062914015337376",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018華山親子表藝節 《歡樂親子動》親子店家優惠串聯！",
@@ -12627,7 +12627,7 @@ eventsALL = [
         "description": "歡樂好康報看演出，享優惠2018華山親子表藝節與台北市超級好玩又有趣的親子空間做優惠串聯啦！即日起，",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062020111072655",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "光影東京！360°夢幻視覺系特展",
@@ -12637,7 +12637,7 @@ eventsALL = [
         "description": "由日本最知名的創意公司NAKED所參與企劃、演出、製作的活動及表演，目前為止已經動員200萬以上的人",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18052015532994032",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "利百代 70 週年華山特展—Beyond Objects",
@@ -12647,7 +12647,7 @@ eventsALL = [
         "description": "利百代成立至今已七十年載，秉持著「陪著你長大」的理念，陪伴大家走過童年、學生、成年各個時期，透過不停",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062215113149144",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "幸福與感恩的饗宴—手做家具師生畢業聯展",
@@ -12657,7 +12657,7 @@ eventsALL = [
         "description": "玉東國中木工班，自103年開始在華山文創園區展覽，今年已第5年。承蒙華山的鼎力支持，支持著一群青少年",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18061212361651648",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "NARS Feel The Rush VIP Party",
@@ -12667,7 +12667,7 @@ eventsALL = [
         "description": "2018.06.3012:00~20:30,2018.07.0112:00~19:30",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062814295001702",
         "type": "品牌活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "生生誓誓──崑劇《長生殿》跨界演出",
@@ -12677,7 +12677,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18033112233327162",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "怪獸之王 哥吉拉特展 Godzilla Special Exhibition",
@@ -12687,7 +12687,7 @@ eventsALL = [
         "description": "台灣上陸！日本境外首度大型哥吉拉特展，結合日本電影特攝場景經典重現！展示1954年首部電影「哥吉拉」",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c7d99b7d-499d-490f-9d30-a99e07168b89",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "李明剛「意途之外」創作展",
@@ -12697,7 +12697,7 @@ eventsALL = [
         "description": "每個人心中，都會有某個遠方的風景，那是屬於純粹想像的風景，或許並不需要去一個很遠的地方，只是單純嚮往",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?c40ab6b4-d0af-4cc0-a822-6617fe1e0d5e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【寫生】實踐大學推廣教育部第十屆服裝設計精修班畢業動態展演",
@@ -12707,7 +12707,7 @@ eventsALL = [
         "description": "「“WildSketch寫生”在每個赤裸的人生過程經歷許多心理因素而蛻變重生瘋狂、勇敢、沮喪、美好.",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?ea6c2291-a3c5-4b3f-b105-ed07ec45ae9f",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【有設眼光 Design Vision】佛光大學產品與媒體設計學系設計創作展",
@@ -12717,7 +12717,7 @@ eventsALL = [
         "description": "我們將用設計的眼光看待整個世界，試圖藉著雙手的力量去改變，每項決策都為世界創造了新意。而你將戴上「有",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?6e9187ba-9026-42e9-950d-715ea8bb3b47",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "What is Beauty時尚趨勢髮型秀",
@@ -12727,7 +12727,7 @@ eventsALL = [
         "description": "WhatisBeauty時尚趨勢髮型秀SHELIKE喜徠化粧品股份有限公司開啟台灣髮型秀先驅創立於民",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18051411340756537",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "小黃間「大小孩秘密基地」快閃店",
@@ -12737,7 +12737,7 @@ eventsALL = [
         "description": "彷彿被追趕著要長大，我們都被迫成長為大人的模樣，或許長大也沒有想像中那麼可怕，擁抱挫折、擁抱失望，我",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0eef7990-24c7-4a38-b5fa-ee44bc996aba",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "不負銀色年華－David Tay攝影展 “Silver Lining” Photo Exhibition by David Poey Cher Tay",
@@ -12747,7 +12747,7 @@ eventsALL = [
         "description": "DavidTay是亞洲有史以來第一位國際攝影藝術聯盟（FIAP）董事會成員，曾獲芬頓獎章、FIAP榮",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18060119044557133",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "美甲不商業 美甲是藝術",
@@ -12757,7 +12757,7 @@ eventsALL = [
         "description": "精選多位在國內外相當活躍的菁英美甲藝術家，作品涵跨光療凝膠繪畫、水晶粉雕塑、複合媒材、甚至還有國外比",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18061811354855204",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "篠山紀信展 寫真力",
@@ -12767,7 +12767,7 @@ eventsALL = [
         "description": "繼2010年篠山紀信於臺北市立美術館的「東京廣角」一展後，時隔八年後再次來台灣舉辦的特展。此次特展展",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?e85c797c-22f1-4e45-ace9-c02cc5652133",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "五月女桂子的逆襲～桂子的裏博覽会～",
@@ -12777,7 +12777,7 @@ eventsALL = [
         "description": "★今年夏天搞怪旋風襲台★超人氣日本插畫家「五月女桂子」，獨特的創作風格，黑色幽默爆表的手繪插畫，保證",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?31c26fa7-44de-430d-be4f-508cd75978a9",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "本日蚤物市",
@@ -12787,7 +12787,7 @@ eventsALL = [
         "description": "老物件承載時光記憶、人與物、人與人之間的情感連結，希望藉由各國、各年代的老物件藏品分享，喚醒大家的過",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?20309267-2d31-4900-96a0-4492692f295a",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "「暖心培力×在地永續」市集",
@@ -12797,7 +12797,7 @@ eventsALL = [
         "description": "市集邀集花蓮、宜蘭、基隆與大台北地區「多元就業開發方案」、「培力就業計畫」的受輔導團體，展售地方美食",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0df904b5-d404-4138-ba13-2c5bc6dfe5c6",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "扭蛋星球特展",
@@ -12807,7 +12807,7 @@ eventsALL = [
         "description": "扭蛋星球特展北．高．同．步．展．開!扭蛋星球接近中！據說，能蒐集到扭蛋星球的金幣，虛擬扭蛋便會隨機出",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18051122021349461",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "107年勞工技藝博覽會",
@@ -12817,7 +12817,7 @@ eventsALL = [
         "description": "免費入場。6/25僅開放到14:00",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18062011562596711",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "松菸啟動計劃展演 無時鐘特區",
@@ -12827,7 +12827,7 @@ eventsALL = [
         "description": "時間是驅動和形塑世界的基本原動力，在自然與文化中綿延體現，時間支配萬物的暴力，卻蘊涵修補與創造的飄忽",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?5ba5b0b3-2ffa-4490-8ffe-d854929a9e25",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "北科建築_畢業設計",
@@ -12837,7 +12837,7 @@ eventsALL = [
         "description": "2017-2018/北科建築_畢業設計「能讓我記起這一世的，就是我想像的來世；我知道這世界我無處容身",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?83d3d5e0-1616-4f49-8b9f-36b68561f1ce",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "宇宙人ㄕㄓㄋ特展",
@@ -12847,7 +12847,7 @@ eventsALL = [
         "description": "地球人注意！宇宙人即將來襲!!台北華山「宇宙人ㄕㄓㄋ特展」可愛降臨粉嫩一夏!!!風靡全球的「CRAF",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18060615080054947",
         "type": "展覽活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "2018台北國際橄欖油節",
@@ -12857,7 +12857,7 @@ eventsALL = [
         "description": "本活動為油品應用專業展，結合歐洲產品體驗行銷、日本專業教育資源及健康飲食搭配綜合展覽。市場平台籌建提",
         "href": "https://www.huashan1914.com/w/huashan1914/exhibition_18052414474743502",
         "type": "論壇講座&&市集活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "藝夏如何？",
@@ -12867,7 +12867,7 @@ eventsALL = [
         "description": "六月的豔陽高掛在空，夏季的腳步已悄然來襲，十五位同學，十五個故事，而藝術的種子從古亭萌芽，歷時了三年",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?03bb4e6c-7f99-4e9d-b036-a488b1a2e399",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "世界最美的教科書展 從日本看見",
@@ -12877,7 +12877,7 @@ eventsALL = [
         "description": "「世界最美的教科書展從日本看見」即將於6/15開展！探究教育的核心價值，以日本為起點，從教科書中發現",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?bd4afa89-8e4f-4505-ba01-59abe33c9435",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "【一張空白圖畫紙 — 就擁有全世界】特展",
@@ -12887,7 +12887,7 @@ eventsALL = [
         "description": "「自閉症？所以都是會躲在角落裡不出來嗎？」有許多人對於「自閉症」這三個字存有許多疑惑，並且存有許多刻",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?53a12a74-cf6e-404d-913b-5ca40bb41260",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018 達帕亞洲攝影藝術博覽會",
@@ -12897,7 +12897,7 @@ eventsALL = [
         "description": "當代攝影藝術著眼於「未來」，影像重點在於新觀念、創新與突破。本展邀集數名曾於羅浮宮展出、獲得世界職業",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?0267c4f6-a989-4f85-a54a-be137d6b2e8e",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "淡江建築五十屆畢業設計展覽 / 半半",
@@ -12907,7 +12907,7 @@ eventsALL = [
         "description": "假設所有的物件由有限個極小的部分所組成，要把一個圓分成相等的兩半是不可能的，因為圓心必需屬於其中一半",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d54cea65-cea3-446b-8d6b-ec2035e39085",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018 國立成功大學建築學系 106級畢業設計展",
@@ -12917,7 +12917,7 @@ eventsALL = [
         "description": "[所以]作為承啟之詞，所以蘊含緣由，揭示結果。以39個背景學於五年成大之所，暫結於此展覽。讓它開放為",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?a5989b02-49ce-4872-b173-8a7b2187edf4",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "《枕頭人》The Pillowman｜金獎編劇馬丁麥多納；仁信合作社經典重啟",
@@ -12927,7 +12927,7 @@ eventsALL = [
         "description": "詳細活動時間請參考內文",
         "href": "https://www.huashan1914.com/w/umaytheater/performance_18051311132984927",
         "type": "表演活動",
-        "location": "華山文創意園區"
+        "location": "華山文創"
     },
     {
         "title": "新新：2018金點新秀設計展",
@@ -12937,7 +12937,7 @@ eventsALL = [
         "description": "「台灣設計館」與「金點新秀設計獎」攜手合作，舉辦「2018金點新秀設計展」，以「金點新秀年度最佳設計",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4a789282-e693-4619-891d-520604128515",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "2018 亞洲 包裝設計交流展 在台北",
@@ -12947,7 +12947,7 @@ eventsALL = [
         "description": "第十五屆APD亞洲包裝設計交流會（AsiaPackageDesign，簡稱APD）由台灣包裝設計協會",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?94fbc231-d4f0-4710-bf53-83964cab8a10",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "磚美於前：台灣經典馬賽克磁磚展",
@@ -12957,7 +12957,7 @@ eventsALL = [
         "description": "台灣住宅建築上有許多令人驚豔的元素，其中的馬賽克磁磚便是經由排列組合與多款顏色與造型搭配，使台灣的透",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?1eec1b11-dacc-454f-8e5b-9c9325c4cc41",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "Samsonite 任意門",
@@ -12967,7 +12967,7 @@ eventsALL = [
         "description": "【Samsonite任意門】Generationgo!秒跨時尚之都世界第一行李箱Samsonite×",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?4cd2fde6-7ac1-4f79-b82a-74617bc2c3ce",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "日日器／生活的輪廓 The Shape of Taiwanese Living",
@@ -12977,7 +12977,7 @@ eventsALL = [
         "description": "台灣設計館自4月3日起推出「日日器/生活的輪廓」展覽，以日常的器物為主角，展出一百件來自日常記憶裡的",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?d47d3009-0c57-471e-873a-cb8d2d30a061",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     },
     {
         "title": "idea TAIPEI創意工作營成果展",
@@ -12987,6 +12987,6 @@ eventsALL = [
         "description": "第一檔：Let'sthink！城市景觀與聚落再生的新想像？以公館蟾蜍山的活化再利用計畫為例。城市的發",
         "href": "https://www.songshanculturalpark.org/ExhibitionList.aspx?30f53af8-04ba-425f-b701-0d027a2b25d7",
         "type": "展覽活動",
-        "location": "松山文創園區"
+        "location": "松山文創"
     }
 ]

@@ -176,26 +176,26 @@ def handle_message(event):
                     items=[
                         QuickReplyButton(
                             action=MessageAction(
-                                label='華山在哪',
-                                text='華山在哪'
+                                label='華山文創園區在哪裡',
+                                text='華山文創園區在哪裡'
                             )
                         ),
                         QuickReplyButton(
                             action=MessageAction(
-                                label='松菸在哪',
-                                text='松菸在哪'
+                                label='松山文創園區在哪裡',
+                                text='松山文創園區在哪裡'
                             )
                         ),
                         QuickReplyButton(
                             action=MessageAction(
-                                label='北美館在哪',
-                                text='北美館在哪'
+                                label='臺北市立美術館在哪裡',
+                                text='臺北市立美術館在哪裡'
                             )
                         ),
                         QuickReplyButton(
                             action=MessageAction(
-                                label='中正紀念堂在哪',
-                                text='中正紀念堂在哪'
+                                label='中正紀念堂在哪裡',
+                                text='中正紀念堂在哪裡'
                             )
                         )
                     ]
@@ -207,7 +207,7 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '華山在哪' in msg:
+    elif '華山文創園區在哪裡' in msg:
         try:
             reply_message = LocationSendMessage(
                 title="華山1914文化創意產業園區",
@@ -221,7 +221,7 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '松菸在哪' in msg:
+    elif '松山文創園區在哪裡' in msg:
         try:
             reply_message = LocationSendMessage(
                 title="松山文創園區",
@@ -235,7 +235,7 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '北美館在哪' in msg:
+    elif '臺北市立美術館在哪裡' in msg:
         try:
             reply_message = LocationSendMessage(
                 title="臺北市立美術館",
@@ -249,7 +249,7 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '中正紀念堂在哪' in msg:
+    elif '中正紀念堂在哪裡' in msg:
         try:
             reply_message = LocationSendMessage(
                 title="中正紀念堂",
