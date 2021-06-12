@@ -276,6 +276,19 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '豆' in msg:
+        try:
+            image_url = db.soybeanMile[random.randrange(len(db.soybeanMile))]
+            reply_message = ImageSendMessage(
+                original_content_url=image_url,
+                preview_image_url=image_url
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
     # 無法辨識使用者的訊息
     else:
         reply_message = TextSendMessage(
