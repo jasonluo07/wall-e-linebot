@@ -276,6 +276,18 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '開發人員' == msg:
+        try:
+            reply_message = TextSendMessage(
+                text='程郁萱、羅仕瑋\n林冠言、高意雯'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+
     elif '豆' in msg:
         try:
             rand_nums = random.sample(range(len(db.soybeanMile)), 2)
@@ -294,7 +306,7 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-    elif 's' in msg:
+    elif 'soy' in msg:
         try:
             rand_nums = random.sample(range(len(db.soybeanMile)), 2)
             image_url1 = db.soybeanMile[rand_nums[0]]
