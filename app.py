@@ -18,8 +18,6 @@ import json
 # ======python的函數庫==========
 
 # ======這裡是呼叫的自定義的函式=====
-from message import *
-from new import *
 from testFunction import *
 # ======這裡是呼叫的自定義的函式=====
 
@@ -276,18 +274,17 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
+    # 日常對話
     elif '開發人員' == msg:
-        try:
-            reply_message = TextSendMessage(
-                text='程郁萱、羅仕瑋\n林冠言、高意雯'
-            )
-            line_bot_api.reply_message(event.reply_token, reply_message)
-        except:
-            reply_message = TextSendMessage(
-                text='發生錯誤！'
-            )
-            line_bot_api.reply_message(event.reply_token, reply_message)
-
+        reply_message = TextSendMessage(
+            text='程郁萱、羅仕瑋\n林冠言、高意雯'
+        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '棒' in msg:
+        reply_message = TextSendMessage(
+            text='你也很棒喔'
+        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
     elif '豆' in msg:
         try:
             rand_nums = random.sample(range(len(db.soybeanMile)), 2)
