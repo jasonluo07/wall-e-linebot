@@ -272,7 +272,7 @@ def handle_message(event):
             text='程郁萱、羅仕瑋\n林冠言、高意雯'
         )
         line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '棒' or '測試' in msg:
+    elif '棒' in msg:
         reply_message = TextSendMessage(
             text='你也很棒喔'
         )
