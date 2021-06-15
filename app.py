@@ -313,6 +313,18 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '笑話' in msg:
+        try:
+            rand_joke = db.jokes[random.randrange(len(db.jokes))]
+            reply_message = TextSendMessage(
+            text=rand_joke
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
+        except:
+            reply_message = TextSendMessage(
+                text='發生錯誤！'
+            )
+            line_bot_api.reply_message(event.reply_token, reply_message)
     # 無法辨識使用者的訊息
     else:
         reply_message = TextSendMessage(
