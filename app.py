@@ -1,32 +1,25 @@
 # -*- coding: utf-8 -*-
 
-from flask import Flask
-from flask import request, abort
+from flask import Flask, request, abort
 
 from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
 from linebot.models import *
 
-# ======python的函數庫==========
-import tempfile
+
 import os
 import datetime
 from datetime import date
 import random
 from urllib.parse import parse_qsl
 import json
-# ======python的函數庫==========
 
-# ======這裡是呼叫的自定義的函式=====
-from message import *
-from new import *
 from testFunction import *
-# ======這裡是呼叫的自定義的函式=====
+
 
 # ======這裡是呼叫資料庫=====
 import db
 temp_activities = []
-
 # with open('./spider/memestw.json', mode='r', encoding='utf-8') as file:
 #     memestw = json.load(file)
 # with open('./spider/activitiesA.json', mode='r', encoding='utf-8') as file:
@@ -38,19 +31,16 @@ temp_activities = []
 # with open('./spider/activitiesD.json', mode='r', encoding='utf-8') as file:
 #     activitiesD = json.load(file)
 
-# ======這裡是呼叫資料庫=====
-
-
+# ----------設定 line bot----------
 app = Flask(__name__)
 static_tmp_path = os.path.join(os.path.dirname(__file__), 'static', 'tmp')
 # LINE Bot: WALL-E
 line_bot_api = LineBotApi(
     'I5hgulT9ZKbbAFqbzumFaVYS0jgUmuyG5JVmFgrq+HlPngNiK05bfvgsiBzAxOAjwE3FAc5olRj+iXwglbNuz6Qpp0YAW9z/Mq72Ea+96SzEMbp6KChDbEg74sa4c433HzVMB59OUPcK45d9l6n1uQdB04t89/1O/w1cDnyilFU=')
 handler = WebhookHandler('be58b1568a2dbd2327a5c6f6bd48e80a')
-# LINE Bot: testbot371
-# line_bot_api = LineBotApi(
-#     'pI2RMOmFid7t4LcAXLD6xtINIdt1GTk47SV+/3VObyfqrnEO+OVv/1NiJGDmv5nldjF6fzXrwZ+uMie+Hil5rjD1UhstcCOYtNrOuR0b5OXWIKEt1L7D83YlWEaRRwSw39lUY9CxEzpqeduShuc6EQdB04t89/1O/w1cDnyilFU=')
-# handler = WebhookHandler('0583d8005933cf8d466126a3649b1952')
+
+
+# ----------資料庫設定----------
 
 
 # 建立 callback 路由，檢查 LINE Bot 的資訊是否正確
@@ -276,18 +266,17 @@ def handle_message(event):
                 text='發生錯誤！'
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
+    # 日常對話
     elif '開發人員' == msg:
-        try:
-            reply_message = TextSendMessage(
-                text='程郁萱、羅仕瑋\n林冠言、高意雯'
-            )
-            line_bot_api.reply_message(event.reply_token, reply_message)
-        except:
-            reply_message = TextSendMessage(
-                text='發生錯誤！'
-            )
-            line_bot_api.reply_message(event.reply_token, reply_message)
-
+        reply_message = TextSendMessage(
+            text='程郁萱、羅仕瑋\n林冠言、高意雯'
+        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
+    elif '棒' in msg:
+        reply_message = TextSendMessage(
+            text='你也很棒喔'
+        )
+        line_bot_api.reply_message(event.reply_token, reply_message)
     elif '豆' in msg:
         try:
             rand_nums = random.sample(range(len(db.soybeanMile)), 2)
@@ -319,19 +308,6 @@ def handle_message(event):
                 preview_image_url=image_url2
             )
             line_bot_api.reply_message(event.reply_token, reply_message)
-        except:
-            reply_message = TextSendMessage(
-                text='發生錯誤！'
-            )
-            line_bot_api.reply_message(event.reply_token, reply_message)
-    elif '笑話' in msg:
-        try:
-            rand_joke = db.jokes[random.randrange(len(db.jokes))]
-            reply_message = TextSendMessage(
-                text = rand_joke
-            )
-            line_bot_api.reply_message(event.reply_token, reply_message)
-
         except:
             reply_message = TextSendMessage(
                 text='發生錯誤！'
